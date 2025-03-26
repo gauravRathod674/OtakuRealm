@@ -1,0 +1,66 @@
+{
+    "servers_info": {
+        "Sub:": [
+            "VidPlay",
+            "Vidstack",
+            "MyCloud"
+        ],
+        "Dub:": [
+            "VidPlay",
+            "Vidstack",
+            "MyCloud"
+        ]
+    },
+    "episode_ranges": {
+        "001-012": [
+            {
+                "episode": "1",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-1"
+            },
+            {
+                "episode": "2",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-2"
+            },
+            {
+                "episode": "3",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-3"
+            },
+            {
+                "episode": "4",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-4"
+            },
+            {
+                "episode": "5",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-5"
+            },
+            {
+                "episode": "6",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-6"
+            },
+            {
+                "episode": "7",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-7"
+            },
+            {
+                "episode": "8",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-8"
+            },
+            {
+                "episode": "9",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-9"
+            },
+            {
+                "episode": "10",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-10"
+            },
+            {
+                "episode": "11",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-11"
+            },
+            {
+                "episode": "12",
+                "url": "https://animesugetv.to/watch/sword-art-online-alicization-war-of-underworld-ek5lz/ep-12"
+            }
+        ]
+    }
+}

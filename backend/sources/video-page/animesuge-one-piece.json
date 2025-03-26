@@ -1,0 +1,4528 @@
+{
+    "servers_info": {
+        "Sub:": [
+            "VidPlay",
+            "Vidstack",
+            "MyCloud"
+        ],
+        "H-SUB:": [
+            "Kute-Stream",
+            "Z-Stream",
+            "Kiwi-Stream"
+        ]
+    },
+    "episode_ranges": {
+        "001-100": [
+            {
+                "episode": "1",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1"
+            },
+            {
+                "episode": "2",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-2"
+            },
+            {
+                "episode": "3",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-3"
+            },
+            {
+                "episode": "4",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-4"
+            },
+            {
+                "episode": "5",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-5"
+            },
+            {
+                "episode": "6",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-6"
+            },
+            {
+                "episode": "7",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-7"
+            },
+            {
+                "episode": "8",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-8"
+            },
+            {
+                "episode": "9",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-9"
+            },
+            {
+                "episode": "10",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-10"
+            },
+            {
+                "episode": "11",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-11"
+            },
+            {
+                "episode": "12",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-12"
+            },
+            {
+                "episode": "13",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-13"
+            },
+            {
+                "episode": "14",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-14"
+            },
+            {
+                "episode": "15",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-15"
+            },
+            {
+                "episode": "16",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-16"
+            },
+            {
+                "episode": "17",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-17"
+            },
+            {
+                "episode": "18",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-18"
+            },
+            {
+                "episode": "19",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-19"
+            },
+            {
+                "episode": "20",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-20"
+            },
+            {
+                "episode": "21",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-21"
+            },
+            {
+                "episode": "22",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-22"
+            },
+            {
+                "episode": "23",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-23"
+            },
+            {
+                "episode": "24",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-24"
+            },
+            {
+                "episode": "25",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-25"
+            },
+            {
+                "episode": "26",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-26"
+            },
+            {
+                "episode": "27",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-27"
+            },
+            {
+                "episode": "28",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-28"
+            },
+            {
+                "episode": "29",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-29"
+            },
+            {
+                "episode": "30",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-30"
+            },
+            {
+                "episode": "31",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-31"
+            },
+            {
+                "episode": "32",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-32"
+            },
+            {
+                "episode": "33",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-33"
+            },
+            {
+                "episode": "34",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-34"
+            },
+            {
+                "episode": "35",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-35"
+            },
+            {
+                "episode": "36",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-36"
+            },
+            {
+                "episode": "37",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-37"
+            },
+            {
+                "episode": "38",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-38"
+            },
+            {
+                "episode": "39",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-39"
+            },
+            {
+                "episode": "40",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-40"
+            },
+            {
+                "episode": "41",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-41"
+            },
+            {
+                "episode": "42",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-42"
+            },
+            {
+                "episode": "43",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-43"
+            },
+            {
+                "episode": "44",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-44"
+            },
+            {
+                "episode": "45",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-45"
+            },
+            {
+                "episode": "46",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-46"
+            },
+            {
+                "episode": "47",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-47"
+            },
+            {
+                "episode": "48",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-48"
+            },
+            {
+                "episode": "49",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-49"
+            },
+            {
+                "episode": "50",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-50"
+            },
+            {
+                "episode": "51",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-51"
+            },
+            {
+                "episode": "52",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-52"
+            },
+            {
+                "episode": "53",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-53"
+            },
+            {
+                "episode": "54",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-54"
+            },
+            {
+                "episode": "55",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-55"
+            },
+            {
+                "episode": "56",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-56"
+            },
+            {
+                "episode": "57",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-57"
+            },
+            {
+                "episode": "58",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-58"
+            },
+            {
+                "episode": "59",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-59"
+            },
+            {
+                "episode": "60",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-60"
+            },
+            {
+                "episode": "61",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-61"
+            },
+            {
+                "episode": "62",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-62"
+            },
+            {
+                "episode": "63",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-63"
+            },
+            {
+                "episode": "64",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-64"
+            },
+            {
+                "episode": "65",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-65"
+            },
+            {
+                "episode": "66",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-66"
+            },
+            {
+                "episode": "67",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-67"
+            },
+            {
+                "episode": "68",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-68"
+            },
+            {
+                "episode": "69",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-69"
+            },
+            {
+                "episode": "70",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-70"
+            },
+            {
+                "episode": "71",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-71"
+            },
+            {
+                "episode": "72",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-72"
+            },
+            {
+                "episode": "73",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-73"
+            },
+            {
+                "episode": "74",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-74"
+            },
+            {
+                "episode": "75",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-75"
+            },
+            {
+                "episode": "76",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-76"
+            },
+            {
+                "episode": "77",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-77"
+            },
+            {
+                "episode": "78",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-78"
+            },
+            {
+                "episode": "79",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-79"
+            },
+            {
+                "episode": "80",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-80"
+            },
+            {
+                "episode": "81",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-81"
+            },
+            {
+                "episode": "82",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-82"
+            },
+            {
+                "episode": "83",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-83"
+            },
+            {
+                "episode": "84",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-84"
+            },
+            {
+                "episode": "85",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-85"
+            },
+            {
+                "episode": "86",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-86"
+            },
+            {
+                "episode": "87",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-87"
+            },
+            {
+                "episode": "88",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-88"
+            },
+            {
+                "episode": "89",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-89"
+            },
+            {
+                "episode": "90",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-90"
+            },
+            {
+                "episode": "91",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-91"
+            },
+            {
+                "episode": "92",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-92"
+            },
+            {
+                "episode": "93",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-93"
+            },
+            {
+                "episode": "94",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-94"
+            },
+            {
+                "episode": "95",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-95"
+            },
+            {
+                "episode": "96",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-96"
+            },
+            {
+                "episode": "97",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-97"
+            },
+            {
+                "episode": "98",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-98"
+            },
+            {
+                "episode": "99",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-99"
+            },
+            {
+                "episode": "100",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-100"
+            }
+        ],
+        "101-200": [
+            {
+                "episode": "101",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-101"
+            },
+            {
+                "episode": "102",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-102"
+            },
+            {
+                "episode": "103",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-103"
+            },
+            {
+                "episode": "104",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-104"
+            },
+            {
+                "episode": "105",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-105"
+            },
+            {
+                "episode": "106",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-106"
+            },
+            {
+                "episode": "107",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-107"
+            },
+            {
+                "episode": "108",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-108"
+            },
+            {
+                "episode": "109",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-109"
+            },
+            {
+                "episode": "110",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-110"
+            },
+            {
+                "episode": "111",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-111"
+            },
+            {
+                "episode": "112",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-112"
+            },
+            {
+                "episode": "113",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-113"
+            },
+            {
+                "episode": "114",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-114"
+            },
+            {
+                "episode": "115",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-115"
+            },
+            {
+                "episode": "116",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-116"
+            },
+            {
+                "episode": "117",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-117"
+            },
+            {
+                "episode": "118",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-118"
+            },
+            {
+                "episode": "119",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-119"
+            },
+            {
+                "episode": "120",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-120"
+            },
+            {
+                "episode": "121",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-121"
+            },
+            {
+                "episode": "122",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-122"
+            },
+            {
+                "episode": "123",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-123"
+            },
+            {
+                "episode": "124",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-124"
+            },
+            {
+                "episode": "125",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-125"
+            },
+            {
+                "episode": "126",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-126"
+            },
+            {
+                "episode": "127",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-127"
+            },
+            {
+                "episode": "128",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-128"
+            },
+            {
+                "episode": "129",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-129"
+            },
+            {
+                "episode": "130",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-130"
+            },
+            {
+                "episode": "131",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-131"
+            },
+            {
+                "episode": "132",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-132"
+            },
+            {
+                "episode": "133",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-133"
+            },
+            {
+                "episode": "134",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-134"
+            },
+            {
+                "episode": "135",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-135"
+            },
+            {
+                "episode": "136",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-136"
+            },
+            {
+                "episode": "137",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-137"
+            },
+            {
+                "episode": "138",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-138"
+            },
+            {
+                "episode": "139",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-139"
+            },
+            {
+                "episode": "140",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-140"
+            },
+            {
+                "episode": "141",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-141"
+            },
+            {
+                "episode": "142",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-142"
+            },
+            {
+                "episode": "143",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-143"
+            },
+            {
+                "episode": "144",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-144"
+            },
+            {
+                "episode": "145",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-145"
+            },
+            {
+                "episode": "146",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-146"
+            },
+            {
+                "episode": "147",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-147"
+            },
+            {
+                "episode": "148",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-148"
+            },
+            {
+                "episode": "149",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-149"
+            },
+            {
+                "episode": "150",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-150"
+            },
+            {
+                "episode": "151",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-151"
+            },
+            {
+                "episode": "152",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-152"
+            },
+            {
+                "episode": "153",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-153"
+            },
+            {
+                "episode": "154",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-154"
+            },
+            {
+                "episode": "155",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-155"
+            },
+            {
+                "episode": "156",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-156"
+            },
+            {
+                "episode": "157",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-157"
+            },
+            {
+                "episode": "158",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-158"
+            },
+            {
+                "episode": "159",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-159"
+            },
+            {
+                "episode": "160",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-160"
+            },
+            {
+                "episode": "161",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-161"
+            },
+            {
+                "episode": "162",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-162"
+            },
+            {
+                "episode": "163",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-163"
+            },
+            {
+                "episode": "164",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-164"
+            },
+            {
+                "episode": "165",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-165"
+            },
+            {
+                "episode": "166",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-166"
+            },
+            {
+                "episode": "167",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-167"
+            },
+            {
+                "episode": "168",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-168"
+            },
+            {
+                "episode": "169",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-169"
+            },
+            {
+                "episode": "170",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-170"
+            },
+            {
+                "episode": "171",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-171"
+            },
+            {
+                "episode": "172",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-172"
+            },
+            {
+                "episode": "173",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-173"
+            },
+            {
+                "episode": "174",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-174"
+            },
+            {
+                "episode": "175",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-175"
+            },
+            {
+                "episode": "176",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-176"
+            },
+            {
+                "episode": "177",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-177"
+            },
+            {
+                "episode": "178",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-178"
+            },
+            {
+                "episode": "179",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-179"
+            },
+            {
+                "episode": "180",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-180"
+            },
+            {
+                "episode": "181",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-181"
+            },
+            {
+                "episode": "182",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-182"
+            },
+            {
+                "episode": "183",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-183"
+            },
+            {
+                "episode": "184",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-184"
+            },
+            {
+                "episode": "185",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-185"
+            },
+            {
+                "episode": "186",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-186"
+            },
+            {
+                "episode": "187",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-187"
+            },
+            {
+                "episode": "188",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-188"
+            },
+            {
+                "episode": "189",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-189"
+            },
+            {
+                "episode": "190",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-190"
+            },
+            {
+                "episode": "191",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-191"
+            },
+            {
+                "episode": "192",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-192"
+            },
+            {
+                "episode": "193",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-193"
+            },
+            {
+                "episode": "194",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-194"
+            },
+            {
+                "episode": "195",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-195"
+            },
+            {
+                "episode": "196",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-196"
+            },
+            {
+                "episode": "197",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-197"
+            },
+            {
+                "episode": "198",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-198"
+            },
+            {
+                "episode": "199",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-199"
+            },
+            {
+                "episode": "200",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-200"
+            }
+        ],
+        "201-300": [
+            {
+                "episode": "201",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-201"
+            },
+            {
+                "episode": "202",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-202"
+            },
+            {
+                "episode": "203",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-203"
+            },
+            {
+                "episode": "204",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-204"
+            },
+            {
+                "episode": "205",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-205"
+            },
+            {
+                "episode": "206",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-206"
+            },
+            {
+                "episode": "207",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-207"
+            },
+            {
+                "episode": "208",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-208"
+            },
+            {
+                "episode": "209",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-209"
+            },
+            {
+                "episode": "210",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-210"
+            },
+            {
+                "episode": "211",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-211"
+            },
+            {
+                "episode": "212",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-212"
+            },
+            {
+                "episode": "213",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-213"
+            },
+            {
+                "episode": "214",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-214"
+            },
+            {
+                "episode": "215",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-215"
+            },
+            {
+                "episode": "216",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-216"
+            },
+            {
+                "episode": "217",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-217"
+            },
+            {
+                "episode": "218",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-218"
+            },
+            {
+                "episode": "219",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-219"
+            },
+            {
+                "episode": "220",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-220"
+            },
+            {
+                "episode": "221",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-221"
+            },
+            {
+                "episode": "222",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-222"
+            },
+            {
+                "episode": "223",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-223"
+            },
+            {
+                "episode": "224",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-224"
+            },
+            {
+                "episode": "225",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-225"
+            },
+            {
+                "episode": "226",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-226"
+            },
+            {
+                "episode": "227",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-227"
+            },
+            {
+                "episode": "228",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-228"
+            },
+            {
+                "episode": "229",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-229"
+            },
+            {
+                "episode": "230",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-230"
+            },
+            {
+                "episode": "231",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-231"
+            },
+            {
+                "episode": "232",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-232"
+            },
+            {
+                "episode": "233",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-233"
+            },
+            {
+                "episode": "234",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-234"
+            },
+            {
+                "episode": "235",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-235"
+            },
+            {
+                "episode": "236",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-236"
+            },
+            {
+                "episode": "237",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-237"
+            },
+            {
+                "episode": "238",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-238"
+            },
+            {
+                "episode": "239",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-239"
+            },
+            {
+                "episode": "240",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-240"
+            },
+            {
+                "episode": "241",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-241"
+            },
+            {
+                "episode": "242",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-242"
+            },
+            {
+                "episode": "243",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-243"
+            },
+            {
+                "episode": "244",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-244"
+            },
+            {
+                "episode": "245",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-245"
+            },
+            {
+                "episode": "246",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-246"
+            },
+            {
+                "episode": "247",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-247"
+            },
+            {
+                "episode": "248",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-248"
+            },
+            {
+                "episode": "249",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-249"
+            },
+            {
+                "episode": "250",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-250"
+            },
+            {
+                "episode": "251",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-251"
+            },
+            {
+                "episode": "252",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-252"
+            },
+            {
+                "episode": "253",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-253"
+            },
+            {
+                "episode": "254",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-254"
+            },
+            {
+                "episode": "255",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-255"
+            },
+            {
+                "episode": "256",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-256"
+            },
+            {
+                "episode": "257",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-257"
+            },
+            {
+                "episode": "258",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-258"
+            },
+            {
+                "episode": "259",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-259"
+            },
+            {
+                "episode": "260",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-260"
+            },
+            {
+                "episode": "261",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-261"
+            },
+            {
+                "episode": "262",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-262"
+            },
+            {
+                "episode": "263",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-263"
+            },
+            {
+                "episode": "264",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-264"
+            },
+            {
+                "episode": "265",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-265"
+            },
+            {
+                "episode": "266",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-266"
+            },
+            {
+                "episode": "267",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-267"
+            },
+            {
+                "episode": "268",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-268"
+            },
+            {
+                "episode": "269",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-269"
+            },
+            {
+                "episode": "270",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-270"
+            },
+            {
+                "episode": "271",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-271"
+            },
+            {
+                "episode": "272",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-272"
+            },
+            {
+                "episode": "273",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-273"
+            },
+            {
+                "episode": "274",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-274"
+            },
+            {
+                "episode": "275",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-275"
+            },
+            {
+                "episode": "276",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-276"
+            },
+            {
+                "episode": "277",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-277"
+            },
+            {
+                "episode": "278",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-278"
+            },
+            {
+                "episode": "279",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-279"
+            },
+            {
+                "episode": "280",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-280"
+            },
+            {
+                "episode": "281",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-281"
+            },
+            {
+                "episode": "282",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-282"
+            },
+            {
+                "episode": "283",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-283"
+            },
+            {
+                "episode": "284",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-284"
+            },
+            {
+                "episode": "285",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-285"
+            },
+            {
+                "episode": "286",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-286"
+            },
+            {
+                "episode": "287",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-287"
+            },
+            {
+                "episode": "288",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-288"
+            },
+            {
+                "episode": "289",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-289"
+            },
+            {
+                "episode": "290",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-290"
+            },
+            {
+                "episode": "291",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-291"
+            },
+            {
+                "episode": "292",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-292"
+            },
+            {
+                "episode": "293",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-293"
+            },
+            {
+                "episode": "294",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-294"
+            },
+            {
+                "episode": "295",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-295"
+            },
+            {
+                "episode": "296",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-296"
+            },
+            {
+                "episode": "297",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-297"
+            },
+            {
+                "episode": "298",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-298"
+            },
+            {
+                "episode": "299",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-299"
+            },
+            {
+                "episode": "300",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-300"
+            }
+        ],
+        "301-400": [
+            {
+                "episode": "301",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-301"
+            },
+            {
+                "episode": "302",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-302"
+            },
+            {
+                "episode": "303",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-303"
+            },
+            {
+                "episode": "304",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-304"
+            },
+            {
+                "episode": "305",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-305"
+            },
+            {
+                "episode": "306",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-306"
+            },
+            {
+                "episode": "307",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-307"
+            },
+            {
+                "episode": "308",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-308"
+            },
+            {
+                "episode": "309",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-309"
+            },
+            {
+                "episode": "310",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-310"
+            },
+            {
+                "episode": "311",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-311"
+            },
+            {
+                "episode": "312",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-312"
+            },
+            {
+                "episode": "313",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-313"
+            },
+            {
+                "episode": "314",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-314"
+            },
+            {
+                "episode": "315",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-315"
+            },
+            {
+                "episode": "316",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-316"
+            },
+            {
+                "episode": "317",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-317"
+            },
+            {
+                "episode": "318",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-318"
+            },
+            {
+                "episode": "319",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-319"
+            },
+            {
+                "episode": "320",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-320"
+            },
+            {
+                "episode": "321",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-321"
+            },
+            {
+                "episode": "322",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-322"
+            },
+            {
+                "episode": "323",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-323"
+            },
+            {
+                "episode": "324",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-324"
+            },
+            {
+                "episode": "325",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-325"
+            },
+            {
+                "episode": "326",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-326"
+            },
+            {
+                "episode": "327",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-327"
+            },
+            {
+                "episode": "328",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-328"
+            },
+            {
+                "episode": "329",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-329"
+            },
+            {
+                "episode": "330",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-330"
+            },
+            {
+                "episode": "331",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-331"
+            },
+            {
+                "episode": "332",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-332"
+            },
+            {
+                "episode": "333",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-333"
+            },
+            {
+                "episode": "334",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-334"
+            },
+            {
+                "episode": "335",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-335"
+            },
+            {
+                "episode": "336",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-336"
+            },
+            {
+                "episode": "337",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-337"
+            },
+            {
+                "episode": "338",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-338"
+            },
+            {
+                "episode": "339",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-339"
+            },
+            {
+                "episode": "340",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-340"
+            },
+            {
+                "episode": "341",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-341"
+            },
+            {
+                "episode": "342",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-342"
+            },
+            {
+                "episode": "343",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-343"
+            },
+            {
+                "episode": "344",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-344"
+            },
+            {
+                "episode": "345",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-345"
+            },
+            {
+                "episode": "346",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-346"
+            },
+            {
+                "episode": "347",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-347"
+            },
+            {
+                "episode": "348",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-348"
+            },
+            {
+                "episode": "349",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-349"
+            },
+            {
+                "episode": "350",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-350"
+            },
+            {
+                "episode": "351",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-351"
+            },
+            {
+                "episode": "352",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-352"
+            },
+            {
+                "episode": "353",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-353"
+            },
+            {
+                "episode": "354",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-354"
+            },
+            {
+                "episode": "355",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-355"
+            },
+            {
+                "episode": "356",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-356"
+            },
+            {
+                "episode": "357",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-357"
+            },
+            {
+                "episode": "358",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-358"
+            },
+            {
+                "episode": "359",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-359"
+            },
+            {
+                "episode": "360",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-360"
+            },
+            {
+                "episode": "361",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-361"
+            },
+            {
+                "episode": "362",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-362"
+            },
+            {
+                "episode": "363",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-363"
+            },
+            {
+                "episode": "364",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-364"
+            },
+            {
+                "episode": "365",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-365"
+            },
+            {
+                "episode": "366",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-366"
+            },
+            {
+                "episode": "367",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-367"
+            },
+            {
+                "episode": "368",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-368"
+            },
+            {
+                "episode": "369",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-369"
+            },
+            {
+                "episode": "370",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-370"
+            },
+            {
+                "episode": "371",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-371"
+            },
+            {
+                "episode": "372",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-372"
+            },
+            {
+                "episode": "373",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-373"
+            },
+            {
+                "episode": "374",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-374"
+            },
+            {
+                "episode": "375",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-375"
+            },
+            {
+                "episode": "376",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-376"
+            },
+            {
+                "episode": "377",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-377"
+            },
+            {
+                "episode": "378",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-378"
+            },
+            {
+                "episode": "379",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-379"
+            },
+            {
+                "episode": "380",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-380"
+            },
+            {
+                "episode": "381",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-381"
+            },
+            {
+                "episode": "382",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-382"
+            },
+            {
+                "episode": "383",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-383"
+            },
+            {
+                "episode": "384",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-384"
+            },
+            {
+                "episode": "385",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-385"
+            },
+            {
+                "episode": "386",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-386"
+            },
+            {
+                "episode": "387",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-387"
+            },
+            {
+                "episode": "388",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-388"
+            },
+            {
+                "episode": "389",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-389"
+            },
+            {
+                "episode": "390",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-390"
+            },
+            {
+                "episode": "391",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-391"
+            },
+            {
+                "episode": "392",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-392"
+            },
+            {
+                "episode": "393",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-393"
+            },
+            {
+                "episode": "394",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-394"
+            },
+            {
+                "episode": "395",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-395"
+            },
+            {
+                "episode": "396",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-396"
+            },
+            {
+                "episode": "397",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-397"
+            },
+            {
+                "episode": "398",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-398"
+            },
+            {
+                "episode": "399",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-399"
+            },
+            {
+                "episode": "400",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-400"
+            }
+        ],
+        "401-500": [
+            {
+                "episode": "401",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-401"
+            },
+            {
+                "episode": "402",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-402"
+            },
+            {
+                "episode": "403",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-403"
+            },
+            {
+                "episode": "404",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-404"
+            },
+            {
+                "episode": "405",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-405"
+            },
+            {
+                "episode": "406",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-406"
+            },
+            {
+                "episode": "407",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-407"
+            },
+            {
+                "episode": "408",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-408"
+            },
+            {
+                "episode": "409",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-409"
+            },
+            {
+                "episode": "410",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-410"
+            },
+            {
+                "episode": "411",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-411"
+            },
+            {
+                "episode": "412",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-412"
+            },
+            {
+                "episode": "413",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-413"
+            },
+            {
+                "episode": "414",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-414"
+            },
+            {
+                "episode": "415",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-415"
+            },
+            {
+                "episode": "416",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-416"
+            },
+            {
+                "episode": "417",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-417"
+            },
+            {
+                "episode": "418",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-418"
+            },
+            {
+                "episode": "419",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-419"
+            },
+            {
+                "episode": "420",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-420"
+            },
+            {
+                "episode": "421",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-421"
+            },
+            {
+                "episode": "422",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-422"
+            },
+            {
+                "episode": "423",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-423"
+            },
+            {
+                "episode": "424",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-424"
+            },
+            {
+                "episode": "425",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-425"
+            },
+            {
+                "episode": "426",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-426"
+            },
+            {
+                "episode": "427",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-427"
+            },
+            {
+                "episode": "428",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-428"
+            },
+            {
+                "episode": "429",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-429"
+            },
+            {
+                "episode": "430",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-430"
+            },
+            {
+                "episode": "431",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-431"
+            },
+            {
+                "episode": "432",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-432"
+            },
+            {
+                "episode": "433",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-433"
+            },
+            {
+                "episode": "434",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-434"
+            },
+            {
+                "episode": "435",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-435"
+            },
+            {
+                "episode": "436",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-436"
+            },
+            {
+                "episode": "437",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-437"
+            },
+            {
+                "episode": "438",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-438"
+            },
+            {
+                "episode": "439",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-439"
+            },
+            {
+                "episode": "440",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-440"
+            },
+            {
+                "episode": "441",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-441"
+            },
+            {
+                "episode": "442",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-442"
+            },
+            {
+                "episode": "443",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-443"
+            },
+            {
+                "episode": "444",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-444"
+            },
+            {
+                "episode": "445",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-445"
+            },
+            {
+                "episode": "446",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-446"
+            },
+            {
+                "episode": "447",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-447"
+            },
+            {
+                "episode": "448",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-448"
+            },
+            {
+                "episode": "449",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-449"
+            },
+            {
+                "episode": "450",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-450"
+            },
+            {
+                "episode": "451",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-451"
+            },
+            {
+                "episode": "452",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-452"
+            },
+            {
+                "episode": "453",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-453"
+            },
+            {
+                "episode": "454",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-454"
+            },
+            {
+                "episode": "455",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-455"
+            },
+            {
+                "episode": "456",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-456"
+            },
+            {
+                "episode": "457",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-457"
+            },
+            {
+                "episode": "458",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-458"
+            },
+            {
+                "episode": "459",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-459"
+            },
+            {
+                "episode": "460",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-460"
+            },
+            {
+                "episode": "461",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-461"
+            },
+            {
+                "episode": "462",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-462"
+            },
+            {
+                "episode": "463",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-463"
+            },
+            {
+                "episode": "464",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-464"
+            },
+            {
+                "episode": "465",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-465"
+            },
+            {
+                "episode": "466",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-466"
+            },
+            {
+                "episode": "467",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-467"
+            },
+            {
+                "episode": "468",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-468"
+            },
+            {
+                "episode": "469",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-469"
+            },
+            {
+                "episode": "470",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-470"
+            },
+            {
+                "episode": "471",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-471"
+            },
+            {
+                "episode": "472",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-472"
+            },
+            {
+                "episode": "473",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-473"
+            },
+            {
+                "episode": "474",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-474"
+            },
+            {
+                "episode": "475",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-475"
+            },
+            {
+                "episode": "476",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-476"
+            },
+            {
+                "episode": "477",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-477"
+            },
+            {
+                "episode": "478",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-478"
+            },
+            {
+                "episode": "479",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-479"
+            },
+            {
+                "episode": "480",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-480"
+            },
+            {
+                "episode": "481",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-481"
+            },
+            {
+                "episode": "482",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-482"
+            },
+            {
+                "episode": "483",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-483"
+            },
+            {
+                "episode": "484",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-484"
+            },
+            {
+                "episode": "485",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-485"
+            },
+            {
+                "episode": "486",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-486"
+            },
+            {
+                "episode": "487",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-487"
+            },
+            {
+                "episode": "488",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-488"
+            },
+            {
+                "episode": "489",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-489"
+            },
+            {
+                "episode": "490",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-490"
+            },
+            {
+                "episode": "491",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-491"
+            },
+            {
+                "episode": "492",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-492"
+            },
+            {
+                "episode": "493",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-493"
+            },
+            {
+                "episode": "494",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-494"
+            },
+            {
+                "episode": "495",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-495"
+            },
+            {
+                "episode": "496",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-496"
+            },
+            {
+                "episode": "497",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-497"
+            },
+            {
+                "episode": "498",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-498"
+            },
+            {
+                "episode": "499",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-499"
+            },
+            {
+                "episode": "500",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-500"
+            }
+        ],
+        "501-600": [
+            {
+                "episode": "501",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-501"
+            },
+            {
+                "episode": "502",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-502"
+            },
+            {
+                "episode": "503",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-503"
+            },
+            {
+                "episode": "504",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-504"
+            },
+            {
+                "episode": "505",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-505"
+            },
+            {
+                "episode": "506",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-506"
+            },
+            {
+                "episode": "507",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-507"
+            },
+            {
+                "episode": "508",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-508"
+            },
+            {
+                "episode": "509",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-509"
+            },
+            {
+                "episode": "510",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-510"
+            },
+            {
+                "episode": "511",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-511"
+            },
+            {
+                "episode": "512",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-512"
+            },
+            {
+                "episode": "513",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-513"
+            },
+            {
+                "episode": "514",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-514"
+            },
+            {
+                "episode": "515",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-515"
+            },
+            {
+                "episode": "516",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-516"
+            },
+            {
+                "episode": "517",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-517"
+            },
+            {
+                "episode": "518",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-518"
+            },
+            {
+                "episode": "519",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-519"
+            },
+            {
+                "episode": "520",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-520"
+            },
+            {
+                "episode": "521",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-521"
+            },
+            {
+                "episode": "522",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-522"
+            },
+            {
+                "episode": "523",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-523"
+            },
+            {
+                "episode": "524",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-524"
+            },
+            {
+                "episode": "525",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-525"
+            },
+            {
+                "episode": "526",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-526"
+            },
+            {
+                "episode": "527",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-527"
+            },
+            {
+                "episode": "528",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-528"
+            },
+            {
+                "episode": "529",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-529"
+            },
+            {
+                "episode": "530",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-530"
+            },
+            {
+                "episode": "531",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-531"
+            },
+            {
+                "episode": "532",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-532"
+            },
+            {
+                "episode": "533",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-533"
+            },
+            {
+                "episode": "534",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-534"
+            },
+            {
+                "episode": "535",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-535"
+            },
+            {
+                "episode": "536",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-536"
+            },
+            {
+                "episode": "537",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-537"
+            },
+            {
+                "episode": "538",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-538"
+            },
+            {
+                "episode": "539",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-539"
+            },
+            {
+                "episode": "540",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-540"
+            },
+            {
+                "episode": "541",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-541"
+            },
+            {
+                "episode": "542",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-542"
+            },
+            {
+                "episode": "543",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-543"
+            },
+            {
+                "episode": "544",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-544"
+            },
+            {
+                "episode": "545",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-545"
+            },
+            {
+                "episode": "546",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-546"
+            },
+            {
+                "episode": "547",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-547"
+            },
+            {
+                "episode": "548",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-548"
+            },
+            {
+                "episode": "549",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-549"
+            },
+            {
+                "episode": "550",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-550"
+            },
+            {
+                "episode": "551",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-551"
+            },
+            {
+                "episode": "552",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-552"
+            },
+            {
+                "episode": "553",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-553"
+            },
+            {
+                "episode": "554",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-554"
+            },
+            {
+                "episode": "555",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-555"
+            },
+            {
+                "episode": "556",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-556"
+            },
+            {
+                "episode": "557",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-557"
+            },
+            {
+                "episode": "558",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-558"
+            },
+            {
+                "episode": "559",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-559"
+            },
+            {
+                "episode": "560",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-560"
+            },
+            {
+                "episode": "561",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-561"
+            },
+            {
+                "episode": "562",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-562"
+            },
+            {
+                "episode": "563",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-563"
+            },
+            {
+                "episode": "564",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-564"
+            },
+            {
+                "episode": "565",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-565"
+            },
+            {
+                "episode": "566",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-566"
+            },
+            {
+                "episode": "567",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-567"
+            },
+            {
+                "episode": "568",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-568"
+            },
+            {
+                "episode": "569",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-569"
+            },
+            {
+                "episode": "570",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-570"
+            },
+            {
+                "episode": "571",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-571"
+            },
+            {
+                "episode": "572",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-572"
+            },
+            {
+                "episode": "573",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-573"
+            },
+            {
+                "episode": "574",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-574"
+            },
+            {
+                "episode": "575",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-575"
+            },
+            {
+                "episode": "576",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-576"
+            },
+            {
+                "episode": "577",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-577"
+            },
+            {
+                "episode": "578",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-578"
+            },
+            {
+                "episode": "579",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-579"
+            },
+            {
+                "episode": "580",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-580"
+            },
+            {
+                "episode": "581",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-581"
+            },
+            {
+                "episode": "582",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-582"
+            },
+            {
+                "episode": "583",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-583"
+            },
+            {
+                "episode": "584",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-584"
+            },
+            {
+                "episode": "585",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-585"
+            },
+            {
+                "episode": "586",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-586"
+            },
+            {
+                "episode": "587",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-587"
+            },
+            {
+                "episode": "588",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-588"
+            },
+            {
+                "episode": "589",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-589"
+            },
+            {
+                "episode": "590",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-590"
+            },
+            {
+                "episode": "591",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-591"
+            },
+            {
+                "episode": "592",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-592"
+            },
+            {
+                "episode": "593",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-593"
+            },
+            {
+                "episode": "594",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-594"
+            },
+            {
+                "episode": "595",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-595"
+            },
+            {
+                "episode": "596",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-596"
+            },
+            {
+                "episode": "597",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-597"
+            },
+            {
+                "episode": "598",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-598"
+            },
+            {
+                "episode": "599",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-599"
+            },
+            {
+                "episode": "600",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-600"
+            }
+        ],
+        "601-700": [
+            {
+                "episode": "601",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-601"
+            },
+            {
+                "episode": "602",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-602"
+            },
+            {
+                "episode": "603",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-603"
+            },
+            {
+                "episode": "604",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-604"
+            },
+            {
+                "episode": "605",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-605"
+            },
+            {
+                "episode": "606",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-606"
+            },
+            {
+                "episode": "607",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-607"
+            },
+            {
+                "episode": "608",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-608"
+            },
+            {
+                "episode": "609",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-609"
+            },
+            {
+                "episode": "610",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-610"
+            },
+            {
+                "episode": "611",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-611"
+            },
+            {
+                "episode": "612",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-612"
+            },
+            {
+                "episode": "613",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-613"
+            },
+            {
+                "episode": "614",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-614"
+            },
+            {
+                "episode": "615",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-615"
+            },
+            {
+                "episode": "616",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-616"
+            },
+            {
+                "episode": "617",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-617"
+            },
+            {
+                "episode": "618",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-618"
+            },
+            {
+                "episode": "619",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-619"
+            },
+            {
+                "episode": "620",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-620"
+            },
+            {
+                "episode": "621",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-621"
+            },
+            {
+                "episode": "622",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-622"
+            },
+            {
+                "episode": "623",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-623"
+            },
+            {
+                "episode": "624",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-624"
+            },
+            {
+                "episode": "625",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-625"
+            },
+            {
+                "episode": "626",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-626"
+            },
+            {
+                "episode": "627",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-627"
+            },
+            {
+                "episode": "628",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-628"
+            },
+            {
+                "episode": "629",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-629"
+            },
+            {
+                "episode": "630",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-630"
+            },
+            {
+                "episode": "631",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-631"
+            },
+            {
+                "episode": "632",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-632"
+            },
+            {
+                "episode": "633",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-633"
+            },
+            {
+                "episode": "634",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-634"
+            },
+            {
+                "episode": "635",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-635"
+            },
+            {
+                "episode": "636",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-636"
+            },
+            {
+                "episode": "637",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-637"
+            },
+            {
+                "episode": "638",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-638"
+            },
+            {
+                "episode": "639",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-639"
+            },
+            {
+                "episode": "640",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-640"
+            },
+            {
+                "episode": "641",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-641"
+            },
+            {
+                "episode": "642",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-642"
+            },
+            {
+                "episode": "643",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-643"
+            },
+            {
+                "episode": "644",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-644"
+            },
+            {
+                "episode": "645",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-645"
+            },
+            {
+                "episode": "646",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-646"
+            },
+            {
+                "episode": "647",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-647"
+            },
+            {
+                "episode": "648",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-648"
+            },
+            {
+                "episode": "649",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-649"
+            },
+            {
+                "episode": "650",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-650"
+            },
+            {
+                "episode": "651",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-651"
+            },
+            {
+                "episode": "652",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-652"
+            },
+            {
+                "episode": "653",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-653"
+            },
+            {
+                "episode": "654",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-654"
+            },
+            {
+                "episode": "655",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-655"
+            },
+            {
+                "episode": "656",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-656"
+            },
+            {
+                "episode": "657",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-657"
+            },
+            {
+                "episode": "658",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-658"
+            },
+            {
+                "episode": "659",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-659"
+            },
+            {
+                "episode": "660",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-660"
+            },
+            {
+                "episode": "661",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-661"
+            },
+            {
+                "episode": "662",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-662"
+            },
+            {
+                "episode": "663",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-663"
+            },
+            {
+                "episode": "664",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-664"
+            },
+            {
+                "episode": "665",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-665"
+            },
+            {
+                "episode": "666",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-666"
+            },
+            {
+                "episode": "667",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-667"
+            },
+            {
+                "episode": "668",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-668"
+            },
+            {
+                "episode": "669",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-669"
+            },
+            {
+                "episode": "670",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-670"
+            },
+            {
+                "episode": "671",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-671"
+            },
+            {
+                "episode": "672",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-672"
+            },
+            {
+                "episode": "673",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-673"
+            },
+            {
+                "episode": "674",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-674"
+            },
+            {
+                "episode": "675",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-675"
+            },
+            {
+                "episode": "676",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-676"
+            },
+            {
+                "episode": "677",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-677"
+            },
+            {
+                "episode": "678",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-678"
+            },
+            {
+                "episode": "679",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-679"
+            },
+            {
+                "episode": "680",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-680"
+            },
+            {
+                "episode": "681",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-681"
+            },
+            {
+                "episode": "682",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-682"
+            },
+            {
+                "episode": "683",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-683"
+            },
+            {
+                "episode": "684",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-684"
+            },
+            {
+                "episode": "685",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-685"
+            },
+            {
+                "episode": "686",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-686"
+            },
+            {
+                "episode": "687",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-687"
+            },
+            {
+                "episode": "688",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-688"
+            },
+            {
+                "episode": "689",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-689"
+            },
+            {
+                "episode": "690",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-690"
+            },
+            {
+                "episode": "691",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-691"
+            },
+            {
+                "episode": "692",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-692"
+            },
+            {
+                "episode": "693",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-693"
+            },
+            {
+                "episode": "694",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-694"
+            },
+            {
+                "episode": "695",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-695"
+            },
+            {
+                "episode": "696",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-696"
+            },
+            {
+                "episode": "697",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-697"
+            },
+            {
+                "episode": "698",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-698"
+            },
+            {
+                "episode": "699",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-699"
+            },
+            {
+                "episode": "700",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-700"
+            }
+        ],
+        "701-800": [
+            {
+                "episode": "701",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-701"
+            },
+            {
+                "episode": "702",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-702"
+            },
+            {
+                "episode": "703",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-703"
+            },
+            {
+                "episode": "704",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-704"
+            },
+            {
+                "episode": "705",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-705"
+            },
+            {
+                "episode": "706",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-706"
+            },
+            {
+                "episode": "707",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-707"
+            },
+            {
+                "episode": "708",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-708"
+            },
+            {
+                "episode": "709",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-709"
+            },
+            {
+                "episode": "710",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-710"
+            },
+            {
+                "episode": "711",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-711"
+            },
+            {
+                "episode": "712",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-712"
+            },
+            {
+                "episode": "713",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-713"
+            },
+            {
+                "episode": "714",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-714"
+            },
+            {
+                "episode": "715",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-715"
+            },
+            {
+                "episode": "716",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-716"
+            },
+            {
+                "episode": "717",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-717"
+            },
+            {
+                "episode": "718",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-718"
+            },
+            {
+                "episode": "719",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-719"
+            },
+            {
+                "episode": "720",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-720"
+            },
+            {
+                "episode": "721",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-721"
+            },
+            {
+                "episode": "722",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-722"
+            },
+            {
+                "episode": "723",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-723"
+            },
+            {
+                "episode": "724",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-724"
+            },
+            {
+                "episode": "725",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-725"
+            },
+            {
+                "episode": "726",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-726"
+            },
+            {
+                "episode": "727",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-727"
+            },
+            {
+                "episode": "728",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-728"
+            },
+            {
+                "episode": "729",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-729"
+            },
+            {
+                "episode": "730",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-730"
+            },
+            {
+                "episode": "731",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-731"
+            },
+            {
+                "episode": "732",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-732"
+            },
+            {
+                "episode": "733",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-733"
+            },
+            {
+                "episode": "734",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-734"
+            },
+            {
+                "episode": "735",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-735"
+            },
+            {
+                "episode": "736",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-736"
+            },
+            {
+                "episode": "737",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-737"
+            },
+            {
+                "episode": "738",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-738"
+            },
+            {
+                "episode": "739",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-739"
+            },
+            {
+                "episode": "740",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-740"
+            },
+            {
+                "episode": "741",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-741"
+            },
+            {
+                "episode": "742",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-742"
+            },
+            {
+                "episode": "743",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-743"
+            },
+            {
+                "episode": "744",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-744"
+            },
+            {
+                "episode": "745",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-745"
+            },
+            {
+                "episode": "746",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-746"
+            },
+            {
+                "episode": "747",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-747"
+            },
+            {
+                "episode": "748",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-748"
+            },
+            {
+                "episode": "749",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-749"
+            },
+            {
+                "episode": "750",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-750"
+            },
+            {
+                "episode": "751",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-751"
+            },
+            {
+                "episode": "752",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-752"
+            },
+            {
+                "episode": "753",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-753"
+            },
+            {
+                "episode": "754",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-754"
+            },
+            {
+                "episode": "755",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-755"
+            },
+            {
+                "episode": "756",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-756"
+            },
+            {
+                "episode": "757",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-757"
+            },
+            {
+                "episode": "758",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-758"
+            },
+            {
+                "episode": "759",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-759"
+            },
+            {
+                "episode": "760",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-760"
+            },
+            {
+                "episode": "761",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-761"
+            },
+            {
+                "episode": "762",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-762"
+            },
+            {
+                "episode": "763",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-763"
+            },
+            {
+                "episode": "764",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-764"
+            },
+            {
+                "episode": "765",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-765"
+            },
+            {
+                "episode": "766",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-766"
+            },
+            {
+                "episode": "767",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-767"
+            },
+            {
+                "episode": "768",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-768"
+            },
+            {
+                "episode": "769",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-769"
+            },
+            {
+                "episode": "770",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-770"
+            },
+            {
+                "episode": "771",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-771"
+            },
+            {
+                "episode": "772",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-772"
+            },
+            {
+                "episode": "773",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-773"
+            },
+            {
+                "episode": "774",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-774"
+            },
+            {
+                "episode": "775",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-775"
+            },
+            {
+                "episode": "776",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-776"
+            },
+            {
+                "episode": "777",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-777"
+            },
+            {
+                "episode": "778",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-778"
+            },
+            {
+                "episode": "779",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-779"
+            },
+            {
+                "episode": "780",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-780"
+            },
+            {
+                "episode": "781",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-781"
+            },
+            {
+                "episode": "782",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-782"
+            },
+            {
+                "episode": "783",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-783"
+            },
+            {
+                "episode": "784",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-784"
+            },
+            {
+                "episode": "785",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-785"
+            },
+            {
+                "episode": "786",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-786"
+            },
+            {
+                "episode": "787",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-787"
+            },
+            {
+                "episode": "788",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-788"
+            },
+            {
+                "episode": "789",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-789"
+            },
+            {
+                "episode": "790",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-790"
+            },
+            {
+                "episode": "791",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-791"
+            },
+            {
+                "episode": "792",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-792"
+            },
+            {
+                "episode": "793",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-793"
+            },
+            {
+                "episode": "794",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-794"
+            },
+            {
+                "episode": "795",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-795"
+            },
+            {
+                "episode": "796",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-796"
+            },
+            {
+                "episode": "797",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-797"
+            },
+            {
+                "episode": "798",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-798"
+            },
+            {
+                "episode": "799",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-799"
+            },
+            {
+                "episode": "800",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-800"
+            }
+        ],
+        "801-900": [
+            {
+                "episode": "801",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-801"
+            },
+            {
+                "episode": "802",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-802"
+            },
+            {
+                "episode": "803",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-803"
+            },
+            {
+                "episode": "804",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-804"
+            },
+            {
+                "episode": "805",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-805"
+            },
+            {
+                "episode": "806",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-806"
+            },
+            {
+                "episode": "807",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-807"
+            },
+            {
+                "episode": "808",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-808"
+            },
+            {
+                "episode": "809",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-809"
+            },
+            {
+                "episode": "810",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-810"
+            },
+            {
+                "episode": "811",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-811"
+            },
+            {
+                "episode": "812",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-812"
+            },
+            {
+                "episode": "813",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-813"
+            },
+            {
+                "episode": "814",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-814"
+            },
+            {
+                "episode": "815",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-815"
+            },
+            {
+                "episode": "816",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-816"
+            },
+            {
+                "episode": "817",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-817"
+            },
+            {
+                "episode": "818",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-818"
+            },
+            {
+                "episode": "819",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-819"
+            },
+            {
+                "episode": "820",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-820"
+            },
+            {
+                "episode": "821",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-821"
+            },
+            {
+                "episode": "822",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-822"
+            },
+            {
+                "episode": "823",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-823"
+            },
+            {
+                "episode": "824",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-824"
+            },
+            {
+                "episode": "825",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-825"
+            },
+            {
+                "episode": "826",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-826"
+            },
+            {
+                "episode": "827",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-827"
+            },
+            {
+                "episode": "828",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-828"
+            },
+            {
+                "episode": "829",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-829"
+            },
+            {
+                "episode": "830",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-830"
+            },
+            {
+                "episode": "831",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-831"
+            },
+            {
+                "episode": "832",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-832"
+            },
+            {
+                "episode": "833",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-833"
+            },
+            {
+                "episode": "834",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-834"
+            },
+            {
+                "episode": "835",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-835"
+            },
+            {
+                "episode": "836",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-836"
+            },
+            {
+                "episode": "837",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-837"
+            },
+            {
+                "episode": "838",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-838"
+            },
+            {
+                "episode": "839",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-839"
+            },
+            {
+                "episode": "840",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-840"
+            },
+            {
+                "episode": "841",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-841"
+            },
+            {
+                "episode": "842",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-842"
+            },
+            {
+                "episode": "843",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-843"
+            },
+            {
+                "episode": "844",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-844"
+            },
+            {
+                "episode": "845",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-845"
+            },
+            {
+                "episode": "846",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-846"
+            },
+            {
+                "episode": "847",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-847"
+            },
+            {
+                "episode": "848",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-848"
+            },
+            {
+                "episode": "849",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-849"
+            },
+            {
+                "episode": "850",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-850"
+            },
+            {
+                "episode": "851",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-851"
+            },
+            {
+                "episode": "852",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-852"
+            },
+            {
+                "episode": "853",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-853"
+            },
+            {
+                "episode": "854",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-854"
+            },
+            {
+                "episode": "855",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-855"
+            },
+            {
+                "episode": "856",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-856"
+            },
+            {
+                "episode": "857",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-857"
+            },
+            {
+                "episode": "858",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-858"
+            },
+            {
+                "episode": "859",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-859"
+            },
+            {
+                "episode": "860",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-860"
+            },
+            {
+                "episode": "861",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-861"
+            },
+            {
+                "episode": "862",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-862"
+            },
+            {
+                "episode": "863",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-863"
+            },
+            {
+                "episode": "864",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-864"
+            },
+            {
+                "episode": "865",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-865"
+            },
+            {
+                "episode": "866",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-866"
+            },
+            {
+                "episode": "867",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-867"
+            },
+            {
+                "episode": "868",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-868"
+            },
+            {
+                "episode": "869",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-869"
+            },
+            {
+                "episode": "870",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-870"
+            },
+            {
+                "episode": "871",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-871"
+            },
+            {
+                "episode": "872",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-872"
+            },
+            {
+                "episode": "873",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-873"
+            },
+            {
+                "episode": "874",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-874"
+            },
+            {
+                "episode": "875",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-875"
+            },
+            {
+                "episode": "876",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-876"
+            },
+            {
+                "episode": "877",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-877"
+            },
+            {
+                "episode": "878",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-878"
+            },
+            {
+                "episode": "879",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-879"
+            },
+            {
+                "episode": "880",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-880"
+            },
+            {
+                "episode": "881",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-881"
+            },
+            {
+                "episode": "882",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-882"
+            },
+            {
+                "episode": "883",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-883"
+            },
+            {
+                "episode": "884",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-884"
+            },
+            {
+                "episode": "885",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-885"
+            },
+            {
+                "episode": "886",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-886"
+            },
+            {
+                "episode": "887",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-887"
+            },
+            {
+                "episode": "888",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-888"
+            },
+            {
+                "episode": "889",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-889"
+            },
+            {
+                "episode": "890",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-890"
+            },
+            {
+                "episode": "891",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-891"
+            },
+            {
+                "episode": "892",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-892"
+            },
+            {
+                "episode": "893",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-893"
+            },
+            {
+                "episode": "894",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-894"
+            },
+            {
+                "episode": "895",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-895"
+            },
+            {
+                "episode": "896",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-896"
+            },
+            {
+                "episode": "897",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-897"
+            },
+            {
+                "episode": "898",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-898"
+            },
+            {
+                "episode": "899",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-899"
+            },
+            {
+                "episode": "900",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-900"
+            }
+        ],
+        "901-1000": [
+            {
+                "episode": "901",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-901"
+            },
+            {
+                "episode": "902",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-902"
+            },
+            {
+                "episode": "903",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-903"
+            },
+            {
+                "episode": "904",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-904"
+            },
+            {
+                "episode": "905",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-905"
+            },
+            {
+                "episode": "906",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-906"
+            },
+            {
+                "episode": "907",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-907"
+            },
+            {
+                "episode": "908",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-908"
+            },
+            {
+                "episode": "909",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-909"
+            },
+            {
+                "episode": "910",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-910"
+            },
+            {
+                "episode": "911",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-911"
+            },
+            {
+                "episode": "912",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-912"
+            },
+            {
+                "episode": "913",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-913"
+            },
+            {
+                "episode": "914",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-914"
+            },
+            {
+                "episode": "915",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-915"
+            },
+            {
+                "episode": "916",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-916"
+            },
+            {
+                "episode": "917",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-917"
+            },
+            {
+                "episode": "918",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-918"
+            },
+            {
+                "episode": "919",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-919"
+            },
+            {
+                "episode": "920",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-920"
+            },
+            {
+                "episode": "921",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-921"
+            },
+            {
+                "episode": "922",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-922"
+            },
+            {
+                "episode": "923",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-923"
+            },
+            {
+                "episode": "924",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-924"
+            },
+            {
+                "episode": "925",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-925"
+            },
+            {
+                "episode": "926",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-926"
+            },
+            {
+                "episode": "927",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-927"
+            },
+            {
+                "episode": "928",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-928"
+            },
+            {
+                "episode": "929",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-929"
+            },
+            {
+                "episode": "930",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-930"
+            },
+            {
+                "episode": "931",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-931"
+            },
+            {
+                "episode": "932",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-932"
+            },
+            {
+                "episode": "933",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-933"
+            },
+            {
+                "episode": "934",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-934"
+            },
+            {
+                "episode": "935",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-935"
+            },
+            {
+                "episode": "936",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-936"
+            },
+            {
+                "episode": "937",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-937"
+            },
+            {
+                "episode": "938",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-938"
+            },
+            {
+                "episode": "939",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-939"
+            },
+            {
+                "episode": "940",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-940"
+            },
+            {
+                "episode": "941",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-941"
+            },
+            {
+                "episode": "942",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-942"
+            },
+            {
+                "episode": "943",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-943"
+            },
+            {
+                "episode": "944",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-944"
+            },
+            {
+                "episode": "945",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-945"
+            },
+            {
+                "episode": "946",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-946"
+            },
+            {
+                "episode": "947",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-947"
+            },
+            {
+                "episode": "948",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-948"
+            },
+            {
+                "episode": "949",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-949"
+            },
+            {
+                "episode": "950",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-950"
+            },
+            {
+                "episode": "951",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-951"
+            },
+            {
+                "episode": "952",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-952"
+            },
+            {
+                "episode": "953",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-953"
+            },
+            {
+                "episode": "954",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-954"
+            },
+            {
+                "episode": "955",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-955"
+            },
+            {
+                "episode": "956",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-956"
+            },
+            {
+                "episode": "957",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-957"
+            },
+            {
+                "episode": "958",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-958"
+            },
+            {
+                "episode": "959",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-959"
+            },
+            {
+                "episode": "960",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-960"
+            },
+            {
+                "episode": "961",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-961"
+            },
+            {
+                "episode": "962",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-962"
+            },
+            {
+                "episode": "963",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-963"
+            },
+            {
+                "episode": "964",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-964"
+            },
+            {
+                "episode": "965",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-965"
+            },
+            {
+                "episode": "966",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-966"
+            },
+            {
+                "episode": "967",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-967"
+            },
+            {
+                "episode": "968",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-968"
+            },
+            {
+                "episode": "969",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-969"
+            },
+            {
+                "episode": "970",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-970"
+            },
+            {
+                "episode": "971",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-971"
+            },
+            {
+                "episode": "972",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-972"
+            },
+            {
+                "episode": "973",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-973"
+            },
+            {
+                "episode": "974",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-974"
+            },
+            {
+                "episode": "975",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-975"
+            },
+            {
+                "episode": "976",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-976"
+            },
+            {
+                "episode": "977",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-977"
+            },
+            {
+                "episode": "978",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-978"
+            },
+            {
+                "episode": "979",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-979"
+            },
+            {
+                "episode": "980",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-980"
+            },
+            {
+                "episode": "981",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-981"
+            },
+            {
+                "episode": "982",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-982"
+            },
+            {
+                "episode": "983",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-983"
+            },
+            {
+                "episode": "984",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-984"
+            },
+            {
+                "episode": "985",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-985"
+            },
+            {
+                "episode": "986",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-986"
+            },
+            {
+                "episode": "987",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-987"
+            },
+            {
+                "episode": "988",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-988"
+            },
+            {
+                "episode": "989",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-989"
+            },
+            {
+                "episode": "990",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-990"
+            },
+            {
+                "episode": "991",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-991"
+            },
+            {
+                "episode": "992",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-992"
+            },
+            {
+                "episode": "993",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-993"
+            },
+            {
+                "episode": "994",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-994"
+            },
+            {
+                "episode": "995",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-995"
+            },
+            {
+                "episode": "996",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-996"
+            },
+            {
+                "episode": "997",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-997"
+            },
+            {
+                "episode": "998",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-998"
+            },
+            {
+                "episode": "999",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-999"
+            },
+            {
+                "episode": "1000",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1000"
+            }
+        ],
+        "1001-1100": [
+            {
+                "episode": "1001",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1001"
+            },
+            {
+                "episode": "1002",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1002"
+            },
+            {
+                "episode": "1003",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1003"
+            },
+            {
+                "episode": "1004",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1004"
+            },
+            {
+                "episode": "1005",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1005"
+            },
+            {
+                "episode": "1006",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1006"
+            },
+            {
+                "episode": "1007",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1007"
+            },
+            {
+                "episode": "1008",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1008"
+            },
+            {
+                "episode": "1009",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1009"
+            },
+            {
+                "episode": "1010",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1010"
+            },
+            {
+                "episode": "1011",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1011"
+            },
+            {
+                "episode": "1012",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1012"
+            },
+            {
+                "episode": "1013",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1013"
+            },
+            {
+                "episode": "1014",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1014"
+            },
+            {
+                "episode": "1015",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1015"
+            },
+            {
+                "episode": "1016",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1016"
+            },
+            {
+                "episode": "1017",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1017"
+            },
+            {
+                "episode": "1018",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1018"
+            },
+            {
+                "episode": "1019",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1019"
+            },
+            {
+                "episode": "1020",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1020"
+            },
+            {
+                "episode": "1021",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1021"
+            },
+            {
+                "episode": "1022",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1022"
+            },
+            {
+                "episode": "1023",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1023"
+            },
+            {
+                "episode": "1024",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1024"
+            },
+            {
+                "episode": "1025",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1025"
+            },
+            {
+                "episode": "1026",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1026"
+            },
+            {
+                "episode": "1027",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1027"
+            },
+            {
+                "episode": "1028",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1028"
+            },
+            {
+                "episode": "1029",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1029"
+            },
+            {
+                "episode": "1030",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1030"
+            },
+            {
+                "episode": "1031",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1031"
+            },
+            {
+                "episode": "1032",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1032"
+            },
+            {
+                "episode": "1033",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1033"
+            },
+            {
+                "episode": "1034",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1034"
+            },
+            {
+                "episode": "1035",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1035"
+            },
+            {
+                "episode": "1036",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1036"
+            },
+            {
+                "episode": "1037",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1037"
+            },
+            {
+                "episode": "1038",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1038"
+            },
+            {
+                "episode": "1039",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1039"
+            },
+            {
+                "episode": "1040",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1040"
+            },
+            {
+                "episode": "1041",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1041"
+            },
+            {
+                "episode": "1042",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1042"
+            },
+            {
+                "episode": "1043",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1043"
+            },
+            {
+                "episode": "1044",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1044"
+            },
+            {
+                "episode": "1045",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1045"
+            },
+            {
+                "episode": "1046",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1046"
+            },
+            {
+                "episode": "1047",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1047"
+            },
+            {
+                "episode": "1048",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1048"
+            },
+            {
+                "episode": "1049",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1049"
+            },
+            {
+                "episode": "1050",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1050"
+            },
+            {
+                "episode": "1051",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1051"
+            },
+            {
+                "episode": "1052",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1052"
+            },
+            {
+                "episode": "1053",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1053"
+            },
+            {
+                "episode": "1054",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1054"
+            },
+            {
+                "episode": "1055",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1055"
+            },
+            {
+                "episode": "1056",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1056"
+            },
+            {
+                "episode": "1057",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1057"
+            },
+            {
+                "episode": "1058",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1058"
+            },
+            {
+                "episode": "1059",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1059"
+            },
+            {
+                "episode": "1060",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1060"
+            },
+            {
+                "episode": "1061",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1061"
+            },
+            {
+                "episode": "1062",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1062"
+            },
+            {
+                "episode": "1063",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1063"
+            },
+            {
+                "episode": "1064",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1064"
+            },
+            {
+                "episode": "1065",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1065"
+            },
+            {
+                "episode": "1066",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1066"
+            },
+            {
+                "episode": "1067",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1067"
+            },
+            {
+                "episode": "1068",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1068"
+            },
+            {
+                "episode": "1069",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1069"
+            },
+            {
+                "episode": "1070",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1070"
+            },
+            {
+                "episode": "1071",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1071"
+            },
+            {
+                "episode": "1072",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1072"
+            },
+            {
+                "episode": "1073",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1073"
+            },
+            {
+                "episode": "1074",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1074"
+            },
+            {
+                "episode": "1075",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1075"
+            },
+            {
+                "episode": "1076",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1076"
+            },
+            {
+                "episode": "1077",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1077"
+            },
+            {
+                "episode": "1078",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1078"
+            },
+            {
+                "episode": "1079",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1079"
+            },
+            {
+                "episode": "1080",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1080"
+            },
+            {
+                "episode": "1081",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1081"
+            },
+            {
+                "episode": "1082",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1082"
+            },
+            {
+                "episode": "1083",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1083"
+            },
+            {
+                "episode": "1084",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1084"
+            },
+            {
+                "episode": "1085",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1085"
+            },
+            {
+                "episode": "1086",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1086"
+            },
+            {
+                "episode": "1087",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1087"
+            },
+            {
+                "episode": "1088",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1088"
+            },
+            {
+                "episode": "1089",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1089"
+            },
+            {
+                "episode": "1090",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1090"
+            },
+            {
+                "episode": "1091",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1091"
+            },
+            {
+                "episode": "1092",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1092"
+            },
+            {
+                "episode": "1093",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1093"
+            },
+            {
+                "episode": "1094",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1094"
+            },
+            {
+                "episode": "1095",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1095"
+            },
+            {
+                "episode": "1096",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1096"
+            },
+            {
+                "episode": "1097",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1097"
+            },
+            {
+                "episode": "1098",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1098"
+            },
+            {
+                "episode": "1099",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1099"
+            },
+            {
+                "episode": "1100",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1100"
+            }
+        ],
+        "1101-1122": [
+            {
+                "episode": "1101",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1101"
+            },
+            {
+                "episode": "1102",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1102"
+            },
+            {
+                "episode": "1103",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1103"
+            },
+            {
+                "episode": "1104",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1104"
+            },
+            {
+                "episode": "1105",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1105"
+            },
+            {
+                "episode": "1106",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1106"
+            },
+            {
+                "episode": "1107",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1107"
+            },
+            {
+                "episode": "1108",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1108"
+            },
+            {
+                "episode": "1109",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1109"
+            },
+            {
+                "episode": "1110",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1110"
+            },
+            {
+                "episode": "1111",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1111"
+            },
+            {
+                "episode": "1112",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1112"
+            },
+            {
+                "episode": "1113",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1113"
+            },
+            {
+                "episode": "1114",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1114"
+            },
+            {
+                "episode": "1115",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1115"
+            },
+            {
+                "episode": "1116",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1116"
+            },
+            {
+                "episode": "1117",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1117"
+            },
+            {
+                "episode": "1118",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1118"
+            },
+            {
+                "episode": "1119",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1119"
+            },
+            {
+                "episode": "1120",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1120"
+            },
+            {
+                "episode": "1121",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1121"
+            },
+            {
+                "episode": "1122",
+                "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1122"
+            }
+        ]
+    }
+}

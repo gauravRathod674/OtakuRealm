@@ -1,0 +1,829 @@
+{
+    "title": "One Piece",
+    "poster": "https://img.flawlessfiles.com/_r/300x400/100/bc/d8/bcd84731a3eda4f4a306250769675065/bcd84731a3eda4f4a306250769675065.jpg",
+    "background": "https://img.flawlessfiles.com/_r/300x400/100/bc/d8/bcd84731a3eda4f4a306250769675065/bcd84731a3eda4f4a306250769675065.jpg",
+    "description": "Gold Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and execution of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\n\n\n\nEnter Monkey Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy's reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.\n\n\n\n[Written by MAL Rewrite]",
+    "film_stats": {
+        "rating": "PG-13",
+        "quality": "HD",
+        "subtitles": "1122",
+        "dubbing": "1108",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    "japanese_title": "ONE PIECE",
+    "synonyms": [
+        "OP"
+    ],
+    "aired": "Oct 20, 1999 to ?",
+    "premiered": "Fall 1999",
+    "duration": "24m",
+    "status": "Currently Airing",
+    "score": "8.62",
+    "studios": [
+        "Toei Animation"
+    ],
+    "producers": [
+        "Fuji TV",
+        "TAP",
+        "Shueisha",
+        "Toei Animation",
+        "Funimation",
+        "4Kids Entertainment"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Shounen",
+        "Super Power"
+    ],
+    "characters": [
+        {
+            "character": "Brook",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/54/cb/54cbbb789b82a8ca6f4b4b360ff5dfb6/54cbbb789b82a8ca6f4b4b360ff5dfb6.jpg",
+            "role": "Main",
+            "voice_actor": "Cho",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/1f/31/1f315c80cb027f22256d54f5ace73f2d/1f315c80cb027f22256d54f5ace73f2d.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Franky",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/a5/1f/a51f54aacfe2ac858c1e2870781449f0/a51f54aacfe2ac858c1e2870781449f0.jpg",
+            "role": "Main",
+            "voice_actor": "Yao, Kazuki",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/2a/76/2a76c55a44f5f042779f9597e263f858/2a76c55a44f5f042779f9597e263f858.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Monkey D., Luffy",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/5a/4e/5a4eaa036b66e63622272c1895bf3401/5a4eaa036b66e63622272c1895bf3401.jpg",
+            "role": "Main",
+            "voice_actor": "Tanaka, Mayumi",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/fd/fe/fdfe8d881f2f15c2e4bbe6c28ba1ab7f/fdfe8d881f2f15c2e4bbe6c28ba1ab7f.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Nami",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/a5/a3/a5a3e09b1ac8a8b479b71b4adeaae1c6/a5a3e09b1ac8a8b479b71b4adeaae1c6.jpg",
+            "role": "Main",
+            "voice_actor": "Okamura, Akemi",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/56/dc/56dc7d925d5e604fd2e4f5721a238221/56dc7d925d5e604fd2e4f5721a238221.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Nico, Robin",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/ff/f3/fff3dfd03470b0bdcce97778d0d23454/fff3dfd03470b0bdcce97778d0d23454.jpg",
+            "role": "Main",
+            "voice_actor": "Yamaguchi, Yuriko",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/9f/95/9f9594aa137886e4fa3e3ac1aa4337ce/9f9594aa137886e4fa3e3ac1aa4337ce.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Roronoa, Zoro",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/c7/df/c7df2fc09984feb9aab02f82c6e44f9c/c7df2fc09984feb9aab02f82c6e44f9c.jpg",
+            "role": "Main",
+            "voice_actor": "Nakai, Kazuya",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/3e/aa/3eaa00f6c293df5146813f869deb0a20/3eaa00f6c293df5146813f869deb0a20.jpg",
+            "nationality": "Japanese"
+        }
+    ],
+    "trailers": [
+        {
+            "title": "Wano Kuni Trailer",
+            "video_url": "https://www.youtube.com/embed/w2oHeq8r08w",
+            "thumbnail": "https://i.ytimg.com/vi/w2oHeq8r08w/hqdefault.jpg"
+        },
+        {
+            "title": "PV Manga UK 6, English dub version",
+            "video_url": "https://www.youtube.com/embed/um-tFlVamOI",
+            "thumbnail": "https://i.ytimg.com/vi/um-tFlVamOI/hqdefault.jpg"
+        },
+        {
+            "title": "PV Manga UK 5, English dub version",
+            "video_url": "https://www.youtube.com/embed/sikXoDxce-s",
+            "thumbnail": "https://i.ytimg.com/vi/sikXoDxce-s/hqdefault.jpg"
+        },
+        {
+            "title": "PV Manga UK 1-4, English dub version",
+            "video_url": "https://www.youtube.com/embed/UqYlbWrZQVo",
+            "thumbnail": "https://i.ytimg.com/vi/UqYlbWrZQVo/hqdefault.jpg"
+        },
+        {
+            "title": "PV Madman 32, English dub version",
+            "video_url": "https://www.youtube.com/embed/-tviZNY6CSw",
+            "thumbnail": "https://i.ytimg.com/vi/-tviZNY6CSw/hqdefault.jpg"
+        }
+    ],
+    "more_seasons": [],
+    "related_anime": [
+        {
+            "title": "One Piece: Episode of Merry - The Tale of One More Friend",
+            "url": "/one-piece-episode-of-merry-the-tale-of-one-more-friend-293",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f9/c0/f9c03a6e40d324f2cfc22f870abe1c15/f9c03a6e40d324f2cfc22f870abe1c15.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece: The Movie 10 - Strong World",
+            "url": "/one-piece-the-movie-10-strong-world-298",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/de/58/de58e554fa74d9a5443799ab84cf0c65/de58e554fa74d9a5443799ab84cf0c65.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: The Movie 12 - Film Z",
+            "url": "/one-piece-the-movie-12-film-z-299",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/4f/20/4f20b80bbae084c6165821c4f490a22a/4f20b80bbae084c6165821c4f490a22a.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: The Movie 14 - Stampede",
+            "url": "/one-piece-the-movie-14-stampede-316",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/e8/a1/e8a122d878c53cddf5730946f3bae6fb/e8a122d878c53cddf5730946f3bae6fb.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "Dragon Ball Z",
+            "url": "/dragon-ball-z-325",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/2a/c3/2ac32c050b4dff7747fcc7f64c01edbd/2ac32c050b4dff7747fcc7f64c01edbd.jpg",
+            "subtitles": "291",
+            "dubbing": "291",
+            "episodes": "291",
+            "type": "TV"
+        },
+        {
+            "title": "One Piece: Episode of Nami - Tears of a Navigator and the Bonds of Friends",
+            "url": "/one-piece-episode-of-nami-tears-of-a-navigator-and-the-bonds-of-friends-336",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/e8/ec/e8ec23b151d2e3e0a392c3ce9f4429b7/e8ec23b151d2e3e0a392c3ce9f4429b7.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece Film: Strong World Episode 0",
+            "url": "/one-piece-film-strong-world-episode-0-499",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/22/8e/228ea6c39b625f78ae75fa95cf9e63ee/228ea6c39b625f78ae75fa95cf9e63ee.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA"
+        },
+        {
+            "title": "One Piece: The Movie 13 - Film: Gold",
+            "url": "/one-piece-the-movie-13-film-gold-550",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/71/56/7156c377053c230cc42b66bbf7260325/7156c377053c230cc42b66bbf7260325.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece 3D2Y: 15th Anniversary",
+            "url": "/one-piece-3d2y-15th-anniversary-609",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/bc/f2/bcf230a574c9b8dabbc871043f0a8443/bcf230a574c9b8dabbc871043f0a8443.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece: Episode of East Blue",
+            "url": "/one-piece-episode-of-east-blue-634",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/12/27/122753b7529b699e7ee65e31bdd85e17/122753b7529b699e7ee65e31bdd85e17.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece: Episode of Sabo - The Three Brothers' Bond",
+            "url": "/one-piece-episode-of-sabo-the-three-brothers-bond-943",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/c1/1a/c11aa8226ea5ae258307936838025535/c11aa8226ea5ae258307936838025535.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece: Baron Omatsuri and the Secret Island",
+            "url": "/one-piece-baron-omatsuri-and-the-secret-island-1043",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f1/10/f1101d8772c508a881d49595b7c86679/f1101d8772c508a881d49595b7c86679.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Baron Omatsuri and the Secret Island",
+            "url": "/one-piece-baron-omatsuri-and-the-secret-island-1043",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f1/10/f1101d8772c508a881d49595b7c86679/f1101d8772c508a881d49595b7c86679.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Episode of Luffy - Hand Island Adventure",
+            "url": "/one-piece-episode-of-luffy-hand-island-adventure-1085",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/31/b6/31b60e5d857308aac024e5981d47221a/31b60e5d857308aac024e5981d47221a.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece: Dead End",
+            "url": "/one-piece-dead-end-1284",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/08/5b/085b2c99e12b21786da1a7cfdc314c42/085b2c99e12b21786da1a7cfdc314c42.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Dead End",
+            "url": "/one-piece-dead-end-1284",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/08/5b/085b2c99e12b21786da1a7cfdc314c42/085b2c99e12b21786da1a7cfdc314c42.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "Toriko",
+            "url": "/toriko-1300",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/82/f0/82f0ba3df246ee32b51e16e976d074d3/82f0ba3df246ee32b51e16e976d074d3.jpg",
+            "subtitles": "147",
+            "dubbing": "",
+            "episodes": "147",
+            "type": "TV"
+        },
+        {
+            "title": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+            "url": "/one-piece-movie-9-episode-of-chopper-plus-fuyu-ni-saku-kiseki-no-sakura-1481",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/65/f8/65f80950ef7dd9fe39ee705123d90265/65f80950ef7dd9fe39ee705123d90265.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Romance Dawn Story",
+            "url": "/one-piece-romance-dawn-story-1860",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a7/d7/a7d7242012fbb0209ec15aba2e8edd67/a7d7242012fbb0209ec15aba2e8edd67.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA"
+        },
+        {
+            "title": "One Piece Special: Protect! The Last Great Performance",
+            "url": "/one-piece-special-protect-the-last-great-performance-1933",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/4c/9d/4c9d06b236c92929ad415f78950dbf43/4c9d06b236c92929ad415f78950dbf43.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece: The Movie 8 - Adventures in Alabasta",
+            "url": "/one-piece-the-movie-8-adventures-in-alabasta-2076",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a2/3e/a23edd40c184ec10e6acfbf6771231ca/a23edd40c184ec10e6acfbf6771231ca.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Adventure of Nebulandia",
+            "url": "/one-piece-adventure-of-nebulandia-2254",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/31/b5/31b57d916ab1c020bea5aca7f50fe678/31b57d916ab1c020bea5aca7f50fe678.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+            "url": "/one-piece-movie-7-karakuri-jou-no-mecha-kyohei-2266",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/41/52/41526ff58363bf9cea33002c065296e0/41526ff58363bf9cea33002c065296e0.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+            "url": "/one-piece-movie-7-karakuri-jou-no-mecha-kyohei-2266",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/41/52/41526ff58363bf9cea33002c065296e0/41526ff58363bf9cea33002c065296e0.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
+            "url": "/one-piece-special-open-upon-the-great-sea-a-fathers-huge-huge-dream-2347",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f7/62/f76225081860e89adacad5ef06af20f2/f76225081860e89adacad5ef06af20f2.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece Special: Adventure in the Ocean's Navel",
+            "url": "/one-piece-special-adventure-in-the-oceans-navel-2348",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/87/8c/878cfee15c8fab4b1341462f72461cad/878cfee15c8fab4b1341462f72461cad.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece Special: Adventure in the Ocean's Navel",
+            "url": "/one-piece-special-adventure-in-the-oceans-navel-2348",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/87/8c/878cfee15c8fab4b1341462f72461cad/878cfee15c8fab4b1341462f72461cad.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece: The Curse of the Sacred Sword",
+            "url": "/one-piece-the-curse-of-the-sacred-sword-2451",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/90/0d/900d9390ae10b86336a2acad56acc976/900d9390ae10b86336a2acad56acc976.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: The Curse of the Sacred Sword",
+            "url": "/one-piece-the-curse-of-the-sacred-sword-2451",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/90/0d/900d9390ae10b86336a2acad56acc976/900d9390ae10b86336a2acad56acc976.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy",
+            "url": "/one-piece-special-the-detective-memoirs-of-chief-straw-hat-luffy-2538",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/1e/92/1e92eef56e90c0a4c2457b68f8da51e3/1e92eef56e90c0a4c2457b68f8da51e3.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece: Glorious Island",
+            "url": "/one-piece-glorious-island-2688",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/62/21/622144a3ae59c58a9cfa2787c27722cb/622144a3ae59c58a9cfa2787c27722cb.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece: Django's Dance Carnival",
+            "url": "/one-piece-djangos-dance-carnival-2761",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ca/6a/ca6a1dfa56f1bf1fdc8bf073860b9f01/ca6a1dfa56f1bf1fdc8bf073860b9f01.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "ONA"
+        },
+        {
+            "title": "One Piece: Clockwork Island Adventure",
+            "url": "/one-piece-clockwork-island-adventure-2776",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ec/52/ec524a9783f942b07a6ddd8d775b2cdb/ec524a9783f942b07a6ddd8d775b2cdb.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Clockwork Island Adventure",
+            "url": "/one-piece-clockwork-island-adventure-2776",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ec/52/ec524a9783f942b07a6ddd8d775b2cdb/ec524a9783f942b07a6ddd8d775b2cdb.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Soccer King of Dreams",
+            "url": "/one-piece-soccer-king-of-dreams-2777",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/d5/03/d503eeb571d83c10b5d937275e397d63/d503eeb571d83c10b5d937275e397d63.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece Recap",
+            "url": "/one-piece-recap-2836",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/80/cb/80cbbff9ab97108fb57908d05930133a/80cbbff9ab97108fb57908d05930133a.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA"
+        },
+        {
+            "title": "One Piece Movie 1",
+            "url": "/one-piece-movie-1-3096",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ff/73/ff736656ba002e0dd51363c3d889d9ff/ff736656ba002e0dd51363c3d889d9ff.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece Movie 1",
+            "url": "/one-piece-movie-1-3096",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ff/73/ff736656ba002e0dd51363c3d889d9ff/ff736656ba002e0dd51363c3d889d9ff.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Episode of Skypiea",
+            "url": "/one-piece-episode-of-skypiea-3097",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/6a/59/6a593442adebb95308e506e969852aa0/6a593442adebb95308e506e969852aa0.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Special"
+        },
+        {
+            "title": "One Piece 3D: Strawhat Chase",
+            "url": "/one-piece-3d-strawhat-chase-3188",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/01/60/01605691c2a52ce8c5f3226ec4a631a9/01605691c2a52ce8c5f3226ec4a631a9.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Take Aim! The Pirate Baseball King",
+            "url": "/one-piece-mezase-kaizoku-yakyuu-ou-3391",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5d/09/5d09255209e6f32a295d81557416c403/5d09255209e6f32a295d81557416c403.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA"
+        },
+        {
+            "title": "One Piece 3D: Gekisou! Trap Coaster",
+            "url": "/one-piece-3d-gekisou-trap-coaster-3400",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f0/a8/f0a890203ee84a3c205d149b6e91a724/f0a890203ee84a3c205d149b6e91a724.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA"
+        },
+        {
+            "title": "One Piece: Chopper Kingdom of Strange Animal Island",
+            "url": "/one-piece-chopper-kingdom-of-strange-animal-island-3533",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/1f/ed/1fed4b5260a27fe18d3e2dee6e5c068a/1fed4b5260a27fe18d3e2dee6e5c068a.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Chopper Kingdom of Strange Animal Island",
+            "url": "/one-piece-chopper-kingdom-of-strange-animal-island-3533",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/1f/ed/1fed4b5260a27fe18d3e2dee6e5c068a/1fed4b5260a27fe18d3e2dee6e5c068a.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "One Piece: Defeat the Pirate Ganzack!",
+            "url": "/one-piece-defeat-the-pirate-ganzack-4498",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/cf/42/cf42f6e03566212945df91b25bb62510/cf42f6e03566212945df91b25bb62510.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA"
+        },
+        {
+            "title": "One Piece: Defeat the Pirate Ganzack!",
+            "url": "/one-piece-defeat-the-pirate-ganzack-4498",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/cf/42/cf42f6e03566212945df91b25bb62510/cf42f6e03566212945df91b25bb62510.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA"
+        }
+    ],
+    "most_popular_anime": [
+        {
+            "title": "Attack on Titan",
+            "url": "/attack-on-titan-112",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/de/bf/debf027d032c6d40b91fab16b2ff9bd4/debf027d032c6d40b91fab16b2ff9bd4.jpg",
+            "subtitles": "25",
+            "dubbing": "25",
+            "episodes": "25",
+            "type": "TV"
+        },
+        {
+            "title": "Death Note",
+            "url": "/death-note-60",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5e/61/5e61f3e7c0045e46b670d31a5bb39c68/5e61f3e7c0045e46b670d31a5bb39c68.jpg",
+            "subtitles": "37",
+            "dubbing": "37",
+            "episodes": "37",
+            "type": "TV"
+        },
+        {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "url": "/fullmetal-alchemist-brotherhood-1",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/0d/2d/0d2d0a1d4276e7e2595702dc4cebbda9/0d2d0a1d4276e7e2595702dc4cebbda9.jpeg",
+            "subtitles": "64",
+            "dubbing": "64",
+            "episodes": "64",
+            "type": "TV"
+        },
+        {
+            "title": "One Punch Man",
+            "url": "/one-punch-man-63",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f5/d1/f5d173f8317f592c6c70d594829b89e4/f5d173f8317f592c6c70d594829b89e4.jpg",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV"
+        },
+        {
+            "title": "Demon Slayer: Kimetsu no Yaiba",
+            "url": "/demon-slayer-kimetsu-no-yaiba-47",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/30/df/30df93feaa422101659e14d0a2a2f582/30df93feaa422101659e14d0a2a2f582.jpg",
+            "subtitles": "26",
+            "dubbing": "26",
+            "episodes": "26",
+            "type": "TV"
+        },
+        {
+            "title": "Sword Art Online",
+            "url": "/sword-art-online-2274",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/90/dc/90dca175561e61180622bc79218104cb/90dca175561e61180622bc79218104cb.jpg",
+            "subtitles": "25",
+            "dubbing": "25",
+            "episodes": "25",
+            "type": "TV"
+        },
+        {
+            "title": "My Hero Academia",
+            "url": "/my-hero-academia-322",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/d1/ae/d1ae1f3d3324e24dfdfa64e4c2e687f8/d1ae1f3d3324e24dfdfa64e4c2e687f8.jpg",
+            "subtitles": "13",
+            "dubbing": "13",
+            "episodes": "13",
+            "type": "TV"
+        },
+        {
+            "title": "Hunter x Hunter",
+            "url": "/hunter-x-hunter-2",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/99/3c/993c0361975cce4c7fbb11f8558f9664/993c0361975cce4c7fbb11f8558f9664.jpg",
+            "subtitles": "148",
+            "dubbing": "148",
+            "episodes": "148",
+            "type": "TV"
+        },
+        {
+            "title": "Naruto",
+            "url": "/naruto-677",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5d/b4/5db400c33f7494bc8ae96f9e634958d0/5db400c33f7494bc8ae96f9e634958d0.jpg",
+            "subtitles": "220",
+            "dubbing": "220",
+            "episodes": "220",
+            "type": "TV"
+        },
+        {
+            "title": "Tokyo Ghoul",
+            "url": "/tokyo-ghoul-790",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a6/ff/a6ffd8294e7a5d540d7c462e94400189/a6ffd8294e7a5d540d7c462e94400189.jpg",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV"
+        }
+    ],
+    "recommended_anime": [
+        {
+            "title": "Assassination Classroom",
+            "url": "/assassination-classroom-372",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/02/f4/02f4fdbe5a518ec0a88b4c6cad9ce0e4/02f4fdbe5a518ec0a88b4c6cad9ce0e4.jpg",
+            "rate": "",
+            "subtitles": "22",
+            "dubbing": "22",
+            "episodes": "22",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Darker than Black",
+            "url": "/darker-than-black-373",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/30/7f/307f414bf33ef9ea887048b68fceb9f9/307f414bf33ef9ea887048b68fceb9f9.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Ace of Diamond",
+            "url": "/ace-of-diamond-374",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/57/cf/57cfd69b78c0ed9a6b9c08216be41dec/57cfd69b78c0ed9a6b9c08216be41dec.jpg",
+            "rate": "",
+            "subtitles": "75",
+            "dubbing": "",
+            "episodes": "75",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture",
+            "url": "/ginga-eiyuu-densetsu-arata-naru-tatakai-no-overture-375",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/84/d5/84d585fd6c90fb82cfd0bc97d5f99339/84d585fd6c90fb82cfd0bc97d5f99339.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "90m"
+        },
+        {
+            "title": "Interstella5555: The 5tory of The 5ecret 5tar 5ystem",
+            "url": "/interstella5555-the-5tory-of-the-5ecret-5tar-5ystem-377",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f3/52/f35275f188caf6c0509ab2a61236dc86/f35275f188caf6c0509ab2a61236dc86.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Music",
+            "runtime": "65m"
+        },
+        {
+            "title": "Soul Land: 2nd Season",
+            "url": "/soul-land-2nd-season-386",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/cd/4c/cd4cbfbbae123185246046309426a733/cd4cbfbbae123185246046309426a733.jpg",
+            "rate": "",
+            "subtitles": "26",
+            "dubbing": "",
+            "episodes": "26",
+            "type": "ONA",
+            "runtime": "20m"
+        },
+        {
+            "title": "Initial D Second Stage",
+            "url": "/initial-d-second-stage-376",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/c0/29/c029deda2b66b6c044122b3c8b12ec94/c029deda2b66b6c044122b3c8b12ec94.jpg",
+            "rate": "",
+            "subtitles": "13",
+            "dubbing": "13",
+            "episodes": "13",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Kuroko no Basket: Saikou no Present Desu",
+            "url": "/kuroko-no-basket-saikou-no-present-desu-378",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/e5/79/e5794415b91f0421ff726c3113da1829/e5794415b91f0421ff726c3113da1829.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "23m"
+        },
+        {
+            "title": "KenIchi: The Mightiest Disciple",
+            "url": "/kenichi-the-mightiest-disciple-379",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/07/6e/076ea0ae627208d3a9d9d22a5401a117/076ea0ae627208d3a9d9d22a5401a117.jpg",
+            "rate": "",
+            "subtitles": "50",
+            "dubbing": "50",
+            "episodes": "50",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "Beastars",
+            "url": "/beastars-382",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/eb/53/eb532a0deb7f6d001acaeb9bbf4077a7/eb532a0deb7f6d001acaeb9bbf4077a7.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "22m"
+        },
+        {
+            "title": "My Hero Academia the Movie 2: Heroes Rising",
+            "url": "/my-hero-academia-the-movie-2-heroes-rising-383",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/db/fa/dbfa193d8d6d2a68b9f4b9710cd0c5c8/dbfa193d8d6d2a68b9f4b9710cd0c5c8.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "104m"
+        },
+        {
+            "title": "Dorohedoro",
+            "url": "/dorohedoro-385",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f8/25/f8258c3b1cabf1a1f273453e59ef1a55/f8258c3b1cabf1a1f273453e59ef1a55.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Dragon Ball Super: Broly",
+            "url": "/dragon-ball-super-broly-387",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/6b/13/6b138786ca53a86413d89806cb6836dd/6b138786ca53a86413d89806cb6836dd.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "100m"
+        },
+        {
+            "title": "Durarara!! x2 Ketsu",
+            "url": "/durarara-x2-ketsu-388",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/08/fc/08fcdab3d6b421db6756d69e17c2fffd/08fcdab3d6b421db6756d69e17c2fffd.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Fate/stay night: Unlimited Blade Works - Prologue",
+            "url": "/fatestay-night-unlimited-blade-works-prologue-389",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f4/2a/f42ac14fc94fdb866fe617749efa5b14/f42ac14fc94fdb866fe617749efa5b14.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "51m"
+        },
+        {
+            "title": "Silver Spoon",
+            "url": "/silver-spoon-390",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f3/8b/f38b95fe0fde2c3cb6636d215eb05d35/f38b95fe0fde2c3cb6636d215eb05d35.jpg",
+            "rate": "",
+            "subtitles": "11",
+            "dubbing": "",
+            "episodes": "11",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Hikaru no Go",
+            "url": "/hikaru-no-go-392",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/8f/2c/8f2c83be41b276f12ef2151c61d5f1de/8f2c83be41b276f12ef2151c61d5f1de.jpg",
+            "rate": "",
+            "subtitles": "75",
+            "dubbing": "75",
+            "episodes": "75",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "KILL la KILL",
+            "url": "/kill-la-kill-393",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/d5/39/d53922598579799ef65ac975e51f0922/d53922598579799ef65ac975e51f0922.jpg",
+            "rate": "",
+            "subtitles": "24",
+            "dubbing": "24",
+            "episodes": "24",
+            "type": "TV",
+            "runtime": "24m"
+        }
+    ]
+}

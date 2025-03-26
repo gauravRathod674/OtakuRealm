@@ -1,0 +1,1194 @@
+{
+    "servers_info": {
+        "Sub:": [
+            "VidPlay",
+            "Vidstack",
+            "MyCloud"
+        ],
+        "H-SUB:": [
+            "Kiwi-Stream",
+            "Animegg"
+        ],
+        "Dub:": [
+            "VidPlay",
+            "Vidstack",
+            "MyCloud"
+        ],
+        "A-DUB:": [
+            "Kiwi-Stream",
+            "Animegg"
+        ]
+    },
+    "episode_ranges": {
+        "001-100": [
+            {
+                "episode": "1",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-1"
+            },
+            {
+                "episode": "2",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-2"
+            },
+            {
+                "episode": "3",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-3"
+            },
+            {
+                "episode": "4",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-4"
+            },
+            {
+                "episode": "5",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-5"
+            },
+            {
+                "episode": "6",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-6"
+            },
+            {
+                "episode": "7",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-7"
+            },
+            {
+                "episode": "8",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-8"
+            },
+            {
+                "episode": "9",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-9"
+            },
+            {
+                "episode": "10",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-10"
+            },
+            {
+                "episode": "11",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-11"
+            },
+            {
+                "episode": "12",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-12"
+            },
+            {
+                "episode": "13",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-13"
+            },
+            {
+                "episode": "14",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-14"
+            },
+            {
+                "episode": "15",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-15"
+            },
+            {
+                "episode": "16",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-16"
+            },
+            {
+                "episode": "17",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-17"
+            },
+            {
+                "episode": "18",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-18"
+            },
+            {
+                "episode": "19",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-19"
+            },
+            {
+                "episode": "20",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-20"
+            },
+            {
+                "episode": "21",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-21"
+            },
+            {
+                "episode": "22",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-22"
+            },
+            {
+                "episode": "23",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-23"
+            },
+            {
+                "episode": "24",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-24"
+            },
+            {
+                "episode": "25",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-25"
+            },
+            {
+                "episode": "26",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-26"
+            },
+            {
+                "episode": "27",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-27"
+            },
+            {
+                "episode": "28",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-28"
+            },
+            {
+                "episode": "29",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-29"
+            },
+            {
+                "episode": "30",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-30"
+            },
+            {
+                "episode": "31",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-31"
+            },
+            {
+                "episode": "32",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-32"
+            },
+            {
+                "episode": "33",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-33"
+            },
+            {
+                "episode": "34",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-34"
+            },
+            {
+                "episode": "35",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-35"
+            },
+            {
+                "episode": "36",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-36"
+            },
+            {
+                "episode": "37",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-37"
+            },
+            {
+                "episode": "38",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-38"
+            },
+            {
+                "episode": "39",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-39"
+            },
+            {
+                "episode": "40",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-40"
+            },
+            {
+                "episode": "41",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-41"
+            },
+            {
+                "episode": "42",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-42"
+            },
+            {
+                "episode": "43",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-43"
+            },
+            {
+                "episode": "44",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-44"
+            },
+            {
+                "episode": "45",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-45"
+            },
+            {
+                "episode": "46",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-46"
+            },
+            {
+                "episode": "47",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-47"
+            },
+            {
+                "episode": "48",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-48"
+            },
+            {
+                "episode": "49",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-49"
+            },
+            {
+                "episode": "50",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-50"
+            },
+            {
+                "episode": "51",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-51"
+            },
+            {
+                "episode": "52",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-52"
+            },
+            {
+                "episode": "53",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-53"
+            },
+            {
+                "episode": "54",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-54"
+            },
+            {
+                "episode": "55",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-55"
+            },
+            {
+                "episode": "56",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-56"
+            },
+            {
+                "episode": "57",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-57"
+            },
+            {
+                "episode": "58",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-58"
+            },
+            {
+                "episode": "59",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-59"
+            },
+            {
+                "episode": "60",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-60"
+            },
+            {
+                "episode": "61",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-61"
+            },
+            {
+                "episode": "62",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-62"
+            },
+            {
+                "episode": "63",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-63"
+            },
+            {
+                "episode": "64",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-64"
+            },
+            {
+                "episode": "65",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-65"
+            },
+            {
+                "episode": "66",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-66"
+            },
+            {
+                "episode": "67",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-67"
+            },
+            {
+                "episode": "68",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-68"
+            },
+            {
+                "episode": "69",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-69"
+            },
+            {
+                "episode": "70",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-70"
+            },
+            {
+                "episode": "71",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-71"
+            },
+            {
+                "episode": "72",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-72"
+            },
+            {
+                "episode": "73",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-73"
+            },
+            {
+                "episode": "74",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-74"
+            },
+            {
+                "episode": "75",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-75"
+            },
+            {
+                "episode": "76",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-76"
+            },
+            {
+                "episode": "77",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-77"
+            },
+            {
+                "episode": "78",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-78"
+            },
+            {
+                "episode": "79",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-79"
+            },
+            {
+                "episode": "80",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-80"
+            },
+            {
+                "episode": "81",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-81"
+            },
+            {
+                "episode": "82",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-82"
+            },
+            {
+                "episode": "83",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-83"
+            },
+            {
+                "episode": "84",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-84"
+            },
+            {
+                "episode": "85",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-85"
+            },
+            {
+                "episode": "86",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-86"
+            },
+            {
+                "episode": "87",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-87"
+            },
+            {
+                "episode": "88",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-88"
+            },
+            {
+                "episode": "89",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-89"
+            },
+            {
+                "episode": "90",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-90"
+            },
+            {
+                "episode": "91",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-91"
+            },
+            {
+                "episode": "92",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-92"
+            },
+            {
+                "episode": "93",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-93"
+            },
+            {
+                "episode": "94",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-94"
+            },
+            {
+                "episode": "95",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-95"
+            },
+            {
+                "episode": "96",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-96"
+            },
+            {
+                "episode": "97",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-97"
+            },
+            {
+                "episode": "98",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-98"
+            },
+            {
+                "episode": "99",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-99"
+            },
+            {
+                "episode": "100",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-100"
+            }
+        ],
+        "101-200": [
+            {
+                "episode": "101",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-101"
+            },
+            {
+                "episode": "102",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-102"
+            },
+            {
+                "episode": "103",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-103"
+            },
+            {
+                "episode": "104",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-104"
+            },
+            {
+                "episode": "105",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-105"
+            },
+            {
+                "episode": "106",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-106"
+            },
+            {
+                "episode": "107",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-107"
+            },
+            {
+                "episode": "108",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-108"
+            },
+            {
+                "episode": "109",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-109"
+            },
+            {
+                "episode": "110",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-110"
+            },
+            {
+                "episode": "111",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-111"
+            },
+            {
+                "episode": "112",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-112"
+            },
+            {
+                "episode": "113",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-113"
+            },
+            {
+                "episode": "114",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-114"
+            },
+            {
+                "episode": "115",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-115"
+            },
+            {
+                "episode": "116",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-116"
+            },
+            {
+                "episode": "117",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-117"
+            },
+            {
+                "episode": "118",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-118"
+            },
+            {
+                "episode": "119",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-119"
+            },
+            {
+                "episode": "120",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-120"
+            },
+            {
+                "episode": "121",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-121"
+            },
+            {
+                "episode": "122",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-122"
+            },
+            {
+                "episode": "123",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-123"
+            },
+            {
+                "episode": "124",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-124"
+            },
+            {
+                "episode": "125",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-125"
+            },
+            {
+                "episode": "126",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-126"
+            },
+            {
+                "episode": "127",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-127"
+            },
+            {
+                "episode": "128",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-128"
+            },
+            {
+                "episode": "129",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-129"
+            },
+            {
+                "episode": "130",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-130"
+            },
+            {
+                "episode": "131",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-131"
+            },
+            {
+                "episode": "132",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-132"
+            },
+            {
+                "episode": "133",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-133"
+            },
+            {
+                "episode": "134",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-134"
+            },
+            {
+                "episode": "135",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-135"
+            },
+            {
+                "episode": "136",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-136"
+            },
+            {
+                "episode": "137",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-137"
+            },
+            {
+                "episode": "138",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-138"
+            },
+            {
+                "episode": "139",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-139"
+            },
+            {
+                "episode": "140",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-140"
+            },
+            {
+                "episode": "141",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-141"
+            },
+            {
+                "episode": "142",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-142"
+            },
+            {
+                "episode": "143",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-143"
+            },
+            {
+                "episode": "144",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-144"
+            },
+            {
+                "episode": "145",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-145"
+            },
+            {
+                "episode": "146",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-146"
+            },
+            {
+                "episode": "147",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-147"
+            },
+            {
+                "episode": "148",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-148"
+            },
+            {
+                "episode": "149",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-149"
+            },
+            {
+                "episode": "150",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-150"
+            },
+            {
+                "episode": "151",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-151"
+            },
+            {
+                "episode": "152",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-152"
+            },
+            {
+                "episode": "153",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-153"
+            },
+            {
+                "episode": "154",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-154"
+            },
+            {
+                "episode": "155",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-155"
+            },
+            {
+                "episode": "156",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-156"
+            },
+            {
+                "episode": "157",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-157"
+            },
+            {
+                "episode": "158",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-158"
+            },
+            {
+                "episode": "159",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-159"
+            },
+            {
+                "episode": "160",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-160"
+            },
+            {
+                "episode": "161",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-161"
+            },
+            {
+                "episode": "162",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-162"
+            },
+            {
+                "episode": "163",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-163"
+            },
+            {
+                "episode": "164",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-164"
+            },
+            {
+                "episode": "165",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-165"
+            },
+            {
+                "episode": "166",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-166"
+            },
+            {
+                "episode": "167",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-167"
+            },
+            {
+                "episode": "168",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-168"
+            },
+            {
+                "episode": "169",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-169"
+            },
+            {
+                "episode": "170",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-170"
+            },
+            {
+                "episode": "171",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-171"
+            },
+            {
+                "episode": "172",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-172"
+            },
+            {
+                "episode": "173",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-173"
+            },
+            {
+                "episode": "174",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-174"
+            },
+            {
+                "episode": "175",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-175"
+            },
+            {
+                "episode": "176",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-176"
+            },
+            {
+                "episode": "177",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-177"
+            },
+            {
+                "episode": "178",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-178"
+            },
+            {
+                "episode": "179",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-179"
+            },
+            {
+                "episode": "180",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-180"
+            },
+            {
+                "episode": "181",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-181"
+            },
+            {
+                "episode": "182",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-182"
+            },
+            {
+                "episode": "183",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-183"
+            },
+            {
+                "episode": "184",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-184"
+            },
+            {
+                "episode": "185",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-185"
+            },
+            {
+                "episode": "186",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-186"
+            },
+            {
+                "episode": "187",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-187"
+            },
+            {
+                "episode": "188",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-188"
+            },
+            {
+                "episode": "189",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-189"
+            },
+            {
+                "episode": "190",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-190"
+            },
+            {
+                "episode": "191",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-191"
+            },
+            {
+                "episode": "192",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-192"
+            },
+            {
+                "episode": "193",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-193"
+            },
+            {
+                "episode": "194",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-194"
+            },
+            {
+                "episode": "195",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-195"
+            },
+            {
+                "episode": "196",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-196"
+            },
+            {
+                "episode": "197",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-197"
+            },
+            {
+                "episode": "198",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-198"
+            },
+            {
+                "episode": "199",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-199"
+            },
+            {
+                "episode": "200",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-200"
+            }
+        ],
+        "201-291": [
+            {
+                "episode": "201",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-201"
+            },
+            {
+                "episode": "202",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-202"
+            },
+            {
+                "episode": "203",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-203"
+            },
+            {
+                "episode": "204",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-204"
+            },
+            {
+                "episode": "205",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-205"
+            },
+            {
+                "episode": "206",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-206"
+            },
+            {
+                "episode": "207",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-207"
+            },
+            {
+                "episode": "208",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-208"
+            },
+            {
+                "episode": "209",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-209"
+            },
+            {
+                "episode": "210",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-210"
+            },
+            {
+                "episode": "211",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-211"
+            },
+            {
+                "episode": "212",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-212"
+            },
+            {
+                "episode": "213",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-213"
+            },
+            {
+                "episode": "214",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-214"
+            },
+            {
+                "episode": "215",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-215"
+            },
+            {
+                "episode": "216",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-216"
+            },
+            {
+                "episode": "217",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-217"
+            },
+            {
+                "episode": "218",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-218"
+            },
+            {
+                "episode": "219",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-219"
+            },
+            {
+                "episode": "220",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-220"
+            },
+            {
+                "episode": "221",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-221"
+            },
+            {
+                "episode": "222",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-222"
+            },
+            {
+                "episode": "223",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-223"
+            },
+            {
+                "episode": "224",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-224"
+            },
+            {
+                "episode": "225",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-225"
+            },
+            {
+                "episode": "226",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-226"
+            },
+            {
+                "episode": "227",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-227"
+            },
+            {
+                "episode": "228",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-228"
+            },
+            {
+                "episode": "229",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-229"
+            },
+            {
+                "episode": "230",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-230"
+            },
+            {
+                "episode": "231",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-231"
+            },
+            {
+                "episode": "232",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-232"
+            },
+            {
+                "episode": "233",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-233"
+            },
+            {
+                "episode": "234",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-234"
+            },
+            {
+                "episode": "235",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-235"
+            },
+            {
+                "episode": "236",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-236"
+            },
+            {
+                "episode": "237",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-237"
+            },
+            {
+                "episode": "238",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-238"
+            },
+            {
+                "episode": "239",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-239"
+            },
+            {
+                "episode": "240",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-240"
+            },
+            {
+                "episode": "241",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-241"
+            },
+            {
+                "episode": "242",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-242"
+            },
+            {
+                "episode": "243",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-243"
+            },
+            {
+                "episode": "244",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-244"
+            },
+            {
+                "episode": "245",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-245"
+            },
+            {
+                "episode": "246",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-246"
+            },
+            {
+                "episode": "247",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-247"
+            },
+            {
+                "episode": "248",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-248"
+            },
+            {
+                "episode": "249",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-249"
+            },
+            {
+                "episode": "250",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-250"
+            },
+            {
+                "episode": "251",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-251"
+            },
+            {
+                "episode": "252",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-252"
+            },
+            {
+                "episode": "253",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-253"
+            },
+            {
+                "episode": "254",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-254"
+            },
+            {
+                "episode": "255",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-255"
+            },
+            {
+                "episode": "256",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-256"
+            },
+            {
+                "episode": "257",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-257"
+            },
+            {
+                "episode": "258",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-258"
+            },
+            {
+                "episode": "259",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-259"
+            },
+            {
+                "episode": "260",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-260"
+            },
+            {
+                "episode": "261",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-261"
+            },
+            {
+                "episode": "262",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-262"
+            },
+            {
+                "episode": "263",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-263"
+            },
+            {
+                "episode": "264",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-264"
+            },
+            {
+                "episode": "265",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-265"
+            },
+            {
+                "episode": "266",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-266"
+            },
+            {
+                "episode": "267",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-267"
+            },
+            {
+                "episode": "268",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-268"
+            },
+            {
+                "episode": "269",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-269"
+            },
+            {
+                "episode": "270",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-270"
+            },
+            {
+                "episode": "271",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-271"
+            },
+            {
+                "episode": "272",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-272"
+            },
+            {
+                "episode": "273",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-273"
+            },
+            {
+                "episode": "274",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-274"
+            },
+            {
+                "episode": "275",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-275"
+            },
+            {
+                "episode": "276",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-276"
+            },
+            {
+                "episode": "277",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-277"
+            },
+            {
+                "episode": "278",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-278"
+            },
+            {
+                "episode": "279",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-279"
+            },
+            {
+                "episode": "280",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-280"
+            },
+            {
+                "episode": "281",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-281"
+            },
+            {
+                "episode": "282",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-282"
+            },
+            {
+                "episode": "283",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-283"
+            },
+            {
+                "episode": "284",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-284"
+            },
+            {
+                "episode": "285",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-285"
+            },
+            {
+                "episode": "286",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-286"
+            },
+            {
+                "episode": "287",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-287"
+            },
+            {
+                "episode": "288",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-288"
+            },
+            {
+                "episode": "289",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-289"
+            },
+            {
+                "episode": "290",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-290"
+            },
+            {
+                "episode": "291",
+                "url": "https://animesugetv.to/watch/dragon-ball-z-3gzan/ep-291"
+            }
+        ]
+    }
+}

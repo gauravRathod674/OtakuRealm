@@ -1,0 +1,420 @@
+{
+    "title": "Death Note",
+    "poster": "https://img.flawlessfiles.com/_r/300x400/100/5e/61/5e61f3e7c0045e46b670d31a5bb39c68/5e61f3e7c0045e46b670d31a5bb39c68.jpg",
+    "background": "https://img.flawlessfiles.com/_r/300x400/100/5e/61/5e61f3e7c0045e46b670d31a5bb39c68/5e61f3e7c0045e46b670d31a5bb39c68.jpg",
+    "description": "A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm.\n\n\n\nHigh school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be.            \n\n\n\nWith this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L.\n\n\n\n[Written by MAL Rewrite]",
+    "film_stats": {
+        "rating": "R",
+        "quality": "HD",
+        "subtitles": "37",
+        "dubbing": "37",
+        "type": "TV",
+        "runtime": "23m"
+    },
+    "japanese_title": "デスノート",
+    "synonyms": [
+        "DN"
+    ],
+    "aired": "Oct 4, 2006 to Jun 27, 2007",
+    "premiered": "Fall 2006",
+    "duration": "23m",
+    "status": "Finished Airing",
+    "score": "8.63",
+    "studios": [
+        "Madhouse"
+    ],
+    "producers": [
+        "VAP",
+        "Konami",
+        "Ashi Production",
+        "Nippon Television Network",
+        "Shueisha",
+        "Madhouse",
+        "Viz Media"
+    ],
+    "genres": [
+        "Mystery",
+        "Shounen",
+        "Supernatural",
+        "Police",
+        "Psychological",
+        "Thriller"
+    ],
+    "characters": [
+        {
+            "character": "Lawliet, L",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/66/6e/666e41cb84b375c74539a2338b43ebe3/666e41cb84b375c74539a2338b43ebe3.jpg",
+            "role": "Main",
+            "voice_actor": "Yamaguchi, Kappei",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/59/78/597833213a419d231f01d84ba87d7b35/597833213a419d231f01d84ba87d7b35.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Ryuk",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/4a/05/4a0512c6d556c06be3f9e3fd6eb4df69/4a0512c6d556c06be3f9e3fd6eb4df69.jpg",
+            "role": "Main",
+            "voice_actor": "Nakamura, Shidou",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/32/3c/323c744f5b3053ffa9ffc27ee4c35362/323c744f5b3053ffa9ffc27ee4c35362.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Yagami, Light",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/52/c6/52c62cf9cba508ae81ec46be488822e9/52c62cf9cba508ae81ec46be488822e9.jpg",
+            "role": "Main",
+            "voice_actor": "Miyano, Mamoru",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/1e/2a/1e2a746d4a2e61a55c2ffa90ccb18c60/1e2a746d4a2e61a55c2ffa90ccb18c60.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Aizawa, Yumi",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/46/64/466427290342dc7ab74801a7ea41c66c/466427290342dc7ab74801a7ea41c66c.jpg",
+            "role": "Supporting",
+            "voice_actor": "Arishima, Moyu",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/51/d3/51d38a45ef04da84e788e2086de6e75a/51d38a45ef04da84e788e2086de6e75a.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Aizawa, Eriko",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/ff/79/ff792d4fc0753fcd9b821c6346485f2c/ff792d4fc0753fcd9b821c6346485f2c.jpg",
+            "role": "Supporting",
+            "voice_actor": "Kawaragi, Shiho",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/17/e3/17e361920c58bed5aef0145b43d77b6c/17e361920c58bed5aef0145b43d77b6c.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Aizawa, Shuuichi",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/15/6e/156e05f0062e9769c96481faab4dfc93/156e05f0062e9769c96481faab4dfc93.jpg",
+            "role": "Supporting",
+            "voice_actor": "Fujiwara, Keiji",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/93/90/9390866d50f9a2d806a54ed416273212/9390866d50f9a2d806a54ed416273212.jpg",
+            "nationality": "Japanese"
+        }
+    ],
+    "trailers": [
+        {
+            "title": "PV Blu-ray version",
+            "video_url": "https://www.youtube.com/embed/Vt_3c8BgxV4",
+            "thumbnail": "https://i.ytimg.com/vi/Vt_3c8BgxV4/hqdefault.jpg"
+        },
+        {
+            "title": "PV 1",
+            "video_url": "https://www.youtube.com/embed/4TrEY9Zs_FQ",
+            "thumbnail": "https://i.ytimg.com/vi/4TrEY9Zs_FQ/hqdefault.jpg"
+        }
+    ],
+    "more_seasons": [
+        {
+            "title": "The Series",
+            "url": "/death-note-60",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/5e/61/5e61f3e7c0045e46b670d31a5bb39c68/5e61f3e7c0045e46b670d31a5bb39c68.jpg"
+        },
+        {
+            "title": "Specials: RE-LIGHT",
+            "url": "/death-note-relight-975",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/a9/1d/a91d55d6c5c88678e3b3e81b7a9925fa/a91d55d6c5c88678e3b3e81b7a9925fa.jpg"
+        }
+    ],
+    "related_anime": [
+        {
+            "title": "Death Note: Relight",
+            "url": "/death-note-relight-975",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a9/1d/a91d55d6c5c88678e3b3e81b7a9925fa/a91d55d6c5c88678e3b3e81b7a9925fa.jpg",
+            "subtitles": "2",
+            "dubbing": "2",
+            "episodes": "2",
+            "type": "Special"
+        }
+    ],
+    "most_popular_anime": [
+        {
+            "title": "Attack on Titan",
+            "url": "/attack-on-titan-112",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/de/bf/debf027d032c6d40b91fab16b2ff9bd4/debf027d032c6d40b91fab16b2ff9bd4.jpg",
+            "subtitles": "25",
+            "dubbing": "25",
+            "episodes": "25",
+            "type": "TV"
+        },
+        {
+            "title": "Death Note",
+            "url": "/death-note-60",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5e/61/5e61f3e7c0045e46b670d31a5bb39c68/5e61f3e7c0045e46b670d31a5bb39c68.jpg",
+            "subtitles": "37",
+            "dubbing": "37",
+            "episodes": "37",
+            "type": "TV"
+        },
+        {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "url": "/fullmetal-alchemist-brotherhood-1",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/0d/2d/0d2d0a1d4276e7e2595702dc4cebbda9/0d2d0a1d4276e7e2595702dc4cebbda9.jpeg",
+            "subtitles": "64",
+            "dubbing": "64",
+            "episodes": "64",
+            "type": "TV"
+        },
+        {
+            "title": "One Punch Man",
+            "url": "/one-punch-man-63",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f5/d1/f5d173f8317f592c6c70d594829b89e4/f5d173f8317f592c6c70d594829b89e4.jpg",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV"
+        },
+        {
+            "title": "Demon Slayer: Kimetsu no Yaiba",
+            "url": "/demon-slayer-kimetsu-no-yaiba-47",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/30/df/30df93feaa422101659e14d0a2a2f582/30df93feaa422101659e14d0a2a2f582.jpg",
+            "subtitles": "26",
+            "dubbing": "26",
+            "episodes": "26",
+            "type": "TV"
+        },
+        {
+            "title": "Sword Art Online",
+            "url": "/sword-art-online-2274",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/90/dc/90dca175561e61180622bc79218104cb/90dca175561e61180622bc79218104cb.jpg",
+            "subtitles": "25",
+            "dubbing": "25",
+            "episodes": "25",
+            "type": "TV"
+        },
+        {
+            "title": "My Hero Academia",
+            "url": "/my-hero-academia-322",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/d1/ae/d1ae1f3d3324e24dfdfa64e4c2e687f8/d1ae1f3d3324e24dfdfa64e4c2e687f8.jpg",
+            "subtitles": "13",
+            "dubbing": "13",
+            "episodes": "13",
+            "type": "TV"
+        },
+        {
+            "title": "Hunter x Hunter",
+            "url": "/hunter-x-hunter-2",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/99/3c/993c0361975cce4c7fbb11f8558f9664/993c0361975cce4c7fbb11f8558f9664.jpg",
+            "subtitles": "148",
+            "dubbing": "148",
+            "episodes": "148",
+            "type": "TV"
+        },
+        {
+            "title": "Naruto",
+            "url": "/naruto-677",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5d/b4/5db400c33f7494bc8ae96f9e634958d0/5db400c33f7494bc8ae96f9e634958d0.jpg",
+            "subtitles": "220",
+            "dubbing": "220",
+            "episodes": "220",
+            "type": "TV"
+        },
+        {
+            "title": "Tokyo Ghoul",
+            "url": "/tokyo-ghoul-790",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a6/ff/a6ffd8294e7a5d540d7c462e94400189/a6ffd8294e7a5d540d7c462e94400189.jpg",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV"
+        }
+    ],
+    "recommended_anime": [
+        {
+            "title": "Tsubasa RESERVoir CHRoNiCLE: Spring Thunder Chronicle",
+            "url": "/tsubasa-reservoir-chronicle-spring-thunder-chronicle-363",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/15/23/1523cce75ca447f1571db215f3051d43/1523cce75ca447f1571db215f3051d43.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "29m"
+        },
+        {
+            "title": "Yowamushi Pedal: Grande Road",
+            "url": "/yowamushi-pedal-grande-road-364",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/2b/6c/2b6ca043274ef7013f990e9f0e1308bc/2b6ca043274ef7013f990e9f0e1308bc.jpg",
+            "rate": "",
+            "subtitles": "24",
+            "dubbing": "",
+            "episodes": "24",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "My Hero Academia 4",
+            "url": "/my-hero-academia-4-365",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a7/27/a727d8e34cba9a4bb8f151397533e662/a727d8e34cba9a4bb8f151397533e662.jpg",
+            "rate": "",
+            "subtitles": "25",
+            "dubbing": "25",
+            "episodes": "25",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "JoJo's Bizarre Adventure (Uncensored)",
+            "url": "/jojos-bizarre-adventure-uncensored-368",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/37/9f/379fe285468f6b5f621f534d2d4850d9/379fe285468f6b5f621f534d2d4850d9.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
+            "url": "/ghost-in-the-shell-stand-alone-complex-solid-state-society-370",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/8f/ef/8fef67e354e6b1825930541f7d1682b4/8fef67e354e6b1825930541f7d1682b4.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "108m"
+        },
+        {
+            "title": "Soul Land: 2nd Season",
+            "url": "/soul-land-2nd-season-386",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/cd/4c/cd4cbfbbae123185246046309426a733/cd4cbfbbae123185246046309426a733.jpg",
+            "rate": "",
+            "subtitles": "26",
+            "dubbing": "",
+            "episodes": "26",
+            "type": "ONA",
+            "runtime": "20m"
+        },
+        {
+            "title": "Assassination Classroom",
+            "url": "/assassination-classroom-372",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/02/f4/02f4fdbe5a518ec0a88b4c6cad9ce0e4/02f4fdbe5a518ec0a88b4c6cad9ce0e4.jpg",
+            "rate": "",
+            "subtitles": "22",
+            "dubbing": "22",
+            "episodes": "22",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Darker than Black",
+            "url": "/darker-than-black-373",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/30/7f/307f414bf33ef9ea887048b68fceb9f9/307f414bf33ef9ea887048b68fceb9f9.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Ace of Diamond",
+            "url": "/ace-of-diamond-374",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/57/cf/57cfd69b78c0ed9a6b9c08216be41dec/57cfd69b78c0ed9a6b9c08216be41dec.jpg",
+            "rate": "",
+            "subtitles": "75",
+            "dubbing": "",
+            "episodes": "75",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Kuroko no Basket: Saikou no Present Desu",
+            "url": "/kuroko-no-basket-saikou-no-present-desu-378",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/e5/79/e5794415b91f0421ff726c3113da1829/e5794415b91f0421ff726c3113da1829.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "23m"
+        },
+        {
+            "title": "KenIchi: The Mightiest Disciple",
+            "url": "/kenichi-the-mightiest-disciple-379",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/07/6e/076ea0ae627208d3a9d9d22a5401a117/076ea0ae627208d3a9d9d22a5401a117.jpg",
+            "rate": "",
+            "subtitles": "50",
+            "dubbing": "50",
+            "episodes": "50",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "Terror in Resonance",
+            "url": "/terror-in-resonance-380",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/96/f9/96f95b821b6e04dd6f40a36e843dbf27/96f95b821b6e04dd6f40a36e843dbf27.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "22m"
+        },
+        {
+            "title": "Beastars",
+            "url": "/beastars-382",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/eb/53/eb532a0deb7f6d001acaeb9bbf4077a7/eb532a0deb7f6d001acaeb9bbf4077a7.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "22m"
+        },
+        {
+            "title": "My Hero Academia the Movie 2: Heroes Rising",
+            "url": "/my-hero-academia-the-movie-2-heroes-rising-383",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/db/fa/dbfa193d8d6d2a68b9f4b9710cd0c5c8/dbfa193d8d6d2a68b9f4b9710cd0c5c8.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "104m"
+        },
+        {
+            "title": "Dragon Ball Super: Broly",
+            "url": "/dragon-ball-super-broly-387",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/6b/13/6b138786ca53a86413d89806cb6836dd/6b138786ca53a86413d89806cb6836dd.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "100m"
+        },
+        {
+            "title": "Durarara!! x2 Ketsu",
+            "url": "/durarara-x2-ketsu-388",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/08/fc/08fcdab3d6b421db6756d69e17c2fffd/08fcdab3d6b421db6756d69e17c2fffd.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Fate/stay night: Unlimited Blade Works - Prologue",
+            "url": "/fatestay-night-unlimited-blade-works-prologue-389",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f4/2a/f42ac14fc94fdb866fe617749efa5b14/f42ac14fc94fdb866fe617749efa5b14.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "51m"
+        },
+        {
+            "title": "Silver Spoon",
+            "url": "/silver-spoon-390",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f3/8b/f38b95fe0fde2c3cb6636d215eb05d35/f38b95fe0fde2c3cb6636d215eb05d35.jpg",
+            "rate": "",
+            "subtitles": "11",
+            "dubbing": "",
+            "episodes": "11",
+            "type": "TV",
+            "runtime": "23m"
+        }
+    ]
+}
