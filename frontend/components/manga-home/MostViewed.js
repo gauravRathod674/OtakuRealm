@@ -17,6 +17,9 @@ import Link from "next/link";
  *   <MostViewed mostViewed={homepageData.most_viewed} />
  */
 export default function MostViewed({ mostViewed }) {
+  // Ensure useState is always called first, before any conditional logic
+  const [activeIndex, setActiveIndex] = useState(0);
+
   // If data is not present or is empty, return null
   if (!mostViewed || Object.keys(mostViewed).length === 0) {
     return null;
@@ -24,7 +27,6 @@ export default function MostViewed({ mostViewed }) {
 
   // Convert object keys (e.g. "today", "week", "month") into a categories array
   const categories = Object.keys(mostViewed);
-  const [activeIndex, setActiveIndex] = useState(0);
 
   // Get the data for the active category
   const currentData = mostViewed[categories[activeIndex]] || [];
@@ -120,14 +122,6 @@ export default function MostViewed({ mostViewed }) {
                         </>
                       )}
                     </p>
-
-                    {/* Chapter */}
-                    {/* {manga.chapter && (
-                      <p className="text-sm text-[#bb5052] flex items-center gap-1 mt-1">
-                        <FontAwesomeIcon icon={faFileAlt} />
-                        <Link href={manga.chapter_link}>{manga.chapter}</Link>
-                      </p>
-                    )} */}
                   </div>
                 </div>
 

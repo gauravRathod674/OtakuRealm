@@ -1,10 +1,10 @@
-// next.config.mjs
 import nextPWA from "next-pwa";
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
   images: {
+    disableStaticImages: true,  // Disable static image optimization by Next.js
     remotePatterns: [
       { protocol: "https", hostname: "img.flawlessfiles.com" },
       { protocol: "https", hostname: "m.gettywallpapers.com" },
