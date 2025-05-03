@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-6d+ki42x!s0675i#l!-fn82-6l=b+p#pzs-13z7(zd+!ikr&x3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -77,17 +77,31 @@ WSGI_APPLICATION = "backend.wsgi.application"
 
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
+import environ
+env = environ.Env()
+environ.Env.read_env()
 
 DATABASES = {
-    "default": {
-           "ENGINE": "django.db.backends.mysql",
-        "NAME": "otakurealm_animesite_db",
-        "USER": "root",
-        "PASSWORD": "G@ur@v01@06@01",
-        "HOST": "localhost",
-        "PORT": "3306",
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': env('DB_NAME'),
+        'USER': env('DB_USER'),
+        'PASSWORD': env('DB_PASSWORD'),
+        'HOST': env('DB_HOST'),
+        'PORT': env('DB_PORT'),
     }
 }
+
+# DATABASES = {
+#     "default": {
+#            "ENGINE": "django.db.backends.mysql",
+#         "NAME": "otakurealm_animesite_db",
+#         "USER": "root",
+#         "PASSWORD": "G@ur@v01@06@01",
+#         "HOST": "localhost",
+#         "PORT": "3306",
+#     }
+# }
 
 
 # Password validation
@@ -125,7 +139,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
 STATIC_URL = "static/"
-
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'sources'),
+]
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
