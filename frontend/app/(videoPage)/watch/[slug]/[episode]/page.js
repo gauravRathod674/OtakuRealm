@@ -196,7 +196,7 @@ export default function WatchPage() {
                 </span>
               </p>
               <p className="text-sm text-gray-400 text-center mt-2">
-                (If the current server doesn't work, try other servers.)
+                (If the current server doesn&apos;t work, try other servers.)
               </p>
             </div>
             {/* Server Listing */}

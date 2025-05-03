@@ -17,18 +17,14 @@ import Link from "next/link";
  *   <MostViewed mostViewed={homepageData.most_viewed} />
  */
 export default function MostViewed({ mostViewed }) {
-  // Ensure useState is always called first, before any conditional logic
-  const [activeIndex, setActiveIndex] = useState(0);
-
-  // If data is not present or is empty, return null
+  // ✅ Moved early return BEFORE any hooks to avoid ESLint error
   if (!mostViewed || Object.keys(mostViewed).length === 0) {
     return null;
   }
 
-  // Convert object keys (e.g. "today", "week", "month") into a categories array
-  const categories = Object.keys(mostViewed);
+  const [activeIndex, setActiveIndex] = useState(0);
 
-  // Get the data for the active category
+  const categories = Object.keys(mostViewed);
   const currentData = mostViewed[categories[activeIndex]] || [];
 
   return (
@@ -63,7 +59,6 @@ export default function MostViewed({ mostViewed }) {
         {/* List of items */}
         <div className="flex flex-col px-4 pt-4">
           {currentData.map((manga, index) => {
-            // Compute the rank based on the index (1, 2, 3, ...)
             const rankNum = index + 1;
 
             return (
@@ -92,16 +87,14 @@ export default function MostViewed({ mostViewed }) {
                     </div>
                   )}
 
-                  {/* Info (title, language+genres, chapter) */}
+                  {/* Info */}
                   <div className="flex flex-col">
-                    {/* Title */}
                     <h3 className="text-base sm:text-lg font-semibold mb-1 line-clamp-2 hover:text-[#bb5052]">
                       <Link href={`/read/${encodeURIComponent(manga.manga_title)}`}>
                         {manga.manga_title}
                       </Link>
                     </h3>
 
-                    {/* Language + Genres */}
                     <p className="text-sm text-gray-300">
                       EN
                       {manga.genres && manga.genres.length > 0 && (
@@ -115,7 +108,6 @@ export default function MostViewed({ mostViewed }) {
                               >
                                 {genre.name}
                               </Link>
-                              {/* Add comma except for the last genre */}
                               {i < manga.genres.length - 1 && ", "}
                             </span>
                           ))}
@@ -125,7 +117,6 @@ export default function MostViewed({ mostViewed }) {
                   </div>
                 </div>
 
-                {/* Divider except for last item */}
                 {index < currentData.length - 1 && (
                   <hr className="border-t border-gray-600" />
                 )}
