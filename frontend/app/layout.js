@@ -103,7 +103,7 @@ export default function RootLayout({ children }) {
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <LayoutWrapper footerData={footerData}>{children}</LayoutWrapper>
-        <Script
+        {/* <Script
   strategy="beforeInteractive"
   dangerouslySetInnerHTML={{
     __html: `
@@ -146,7 +146,7 @@ export default function RootLayout({ children }) {
 })();
     `,
   }}
-/>
+/> */}
 
       </body>
     </html>
