@@ -5,6 +5,8 @@ import {
   faClosedCaptioning,
   faMicrophone,
 } from "@fortawesome/free-solid-svg-icons";
+import Image from "next/image";
+import Link from "next/link";
 
 /**
  * Props:
@@ -47,7 +49,9 @@ export default function MostViewed({ mostViewed }) {
 
   return (
     <div className="most-viewed">
-      <h2 className="text-2xl font-bold mb-6 mt-4 text-[#BB5052]">Most Viewed</h2>
+      <h2 className="text-2xl font-bold mb-6 mt-4 text-[#BB5052]">
+        Most Viewed
+      </h2>
       <div className="bg-[#191919] rounded-md">
         {/* Heading */}
 
@@ -76,16 +80,16 @@ export default function MostViewed({ mostViewed }) {
         </div>
 
         {/* List of items */}
-        <div className="flex flex-col pl-4 pr-4 pt-4">
+        <div className="flex flex-col pl-4 pr-4 pt-4 ">
           {currentData.map((anime, index) => {
             const rankNum = parseInt(anime.rank, 10) || 0;
             return (
               <div key={index}>
                 {/* Single item row */}
-                <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3 py-4">
-                  {/* Rank + green bar for top 3 */}
+                <div className="flex flex-row items-start sm:items-center max-[640px]:items-center gap-3 py-4">
+                {/* Rank + green bar for top 3 */}
                   <div className="flex flex-col items-center justify-center">
-                    <span className="text-2xl font-bold text-gray-100 leading-none">
+                    <span className="text-2xl font-bold text-gray-100 leading-none max-[640px]:self-center">
                       {anime.rank}
                     </span>
                     {rankNum > 0 && rankNum <= 3 && (
@@ -95,19 +99,23 @@ export default function MostViewed({ mostViewed }) {
 
                   {/* Poster + Title/Badges */}
                   <div className="flex-1 flex items-center">
-                  {/* Poster (hidden on very small screens if you like) */}
+                    {/* Poster (hidden on very small screens if you like) */}
                     {anime.image && (
-                      <img
+                      <Image
                         src={anime.image}
                         alt={anime.title}
-                        className="w-16 h-24 object-cover rounded-md hidden sm:block"
+                        width={64} // 16 * 4 = 64px
+                        height={96} // 24 * 4 = 96px
+                        className="rounded-md object-cover"
                       />
                     )}
 
                     <div className="flex flex-col justify-center gap-1 ml-5">
                       {/* Title */}
-                      <h3 className="text-base sm:text-lg font-semibold mb-1 line-clamp-2">
-                        {anime.title}
+                      <h3 className="text-base sm:text-lg font-semibold mb-1 line-clamp-2 hover:text-[#bb5052]">
+                        <Link href={`animedetailpage${anime.url}`}>
+                          {anime.title}
+                        </Link>
                       </h3>
                       {/* Badges row */}
                       <div className="flex items-center gap-1 text-sm">

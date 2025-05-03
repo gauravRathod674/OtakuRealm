@@ -1,0 +1,27 @@
+{
+    "timestamp": "2025-04-21T19:21:58.939414",
+    "data": {
+        "servers_info": {
+            "Sub:": [
+                "Megaplay-1"
+            ],
+            "Dub:": [
+                "Megaplay-1"
+            ]
+        },
+        "episode_ranges": {
+            "001-002": [
+                {
+                    "episode": "1",
+                    "url": "https://animesugetv.to/watch/death-note-relight-zxhwn/ep-1",
+                    "is_filler": false
+                },
+                {
+                    "episode": "2",
+                    "url": "https://animesugetv.to/watch/death-note-relight-zxhwn/ep-2",
+                    "is_filler": false
+                }
+            ]
+        }
+    }
+}

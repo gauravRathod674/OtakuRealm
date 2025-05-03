@@ -1,0 +1,344 @@
+{
+    "title": "Sword Art Online",
+    "poster": "https://img.flawlessfiles.com/_r/300x400/100/90/dc/90dca175561e61180622bc79218104cb/90dca175561e61180622bc79218104cb.jpg",
+    "background": "https://img.flawlessfiles.com/_r/300x400/100/90/dc/90dca175561e61180622bc79218104cb/90dca175561e61180622bc79218104cb.jpg",
+    "description": "In the year 2022, virtual reality has progressed by leaps and bounds, and a massive online role-playing game called Sword Art Online (SAO) is launched. With the aid of \"NerveGear\" technology, players can control their avatars within the game using nothing but their own thoughts.\n\n\n\nKazuto Kirigaya, nicknamed \"Kirito,\" is among the lucky few enthusiasts who get their hands on the first shipment of the game. He logs in to find himself, with ten-thousand others, in the scenic and elaborate world of Aincrad, one full of fantastic medieval weapons and gruesome monsters. However, in a cruel turn of events, the players soon realize they cannot log out; the game's creator has trapped them in his new world until they complete all one hundred levels of the game.\n\n\n\nIn order to escape Aincrad, Kirito will now have to interact and cooperate with his fellow players. Some are allies, while others are foes, like Asuna Yuuki, who commands the leading group attempting to escape from the ruthless game. To make matters worse, Sword Art Online is not all fun and games: if they die in Aincrad, they die in real life. Kirito must adapt to his new reality, fight for his survival, and hopefully break free from his virtual hell.\n\n\n\n[Written by MAL Rewrite]",
+    "film_stats": {
+        "rating": "PG-13",
+        "quality": "HD",
+        "subtitles": "25",
+        "dubbing": "25",
+        "type": "TV",
+        "runtime": "23m"
+    },
+    "japanese_title": "ソードアート・オンライン",
+    "synonyms": [
+        "S.A.O",
+        "SAO"
+    ],
+    "aired": "Jul 8, 2012 to Dec 23, 2012",
+    "premiered": "Summer 2012",
+    "duration": "23m",
+    "status": "Finished Airing",
+    "score": "7.3",
+    "studios": [
+        "A-1 Pictures"
+    ],
+    "producers": [
+        "Aniplex",
+        "Genco",
+        "DAX Production",
+        "ASCII Media Works",
+        "Bandai Namco Games",
+        "A-1 Pictures",
+        "Aniplex of America"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Game",
+        "Romance",
+        "Isekai"
+    ],
+    "characters": [
+        {
+            "character": "Kirigaya, Kazuto",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/79/66/79661ec6689f6cdeed73234b836376cc/79661ec6689f6cdeed73234b836376cc.jpg",
+            "role": "Main",
+            "voice_actor": "Papenbrook, Bryce",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/57/fa/57fa8c4e22370b5c9872c62a5b85fff4/57fa8c4e22370b5c9872c62a5b85fff4.jpg",
+            "nationality": "English"
+        },
+        {
+            "character": "Kirigaya, Suguha",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/c7/32/c7323686d611d5006022326753756ff1/c7323686d611d5006022326753756ff1.jpg",
+            "role": "Main",
+            "voice_actor": "Padoan, Eva",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/53/99/5399beaf7d465a3f83682777ea674f8e/5399beaf7d465a3f83682777ea674f8e.jpg",
+            "nationality": "Italian"
+        },
+        {
+            "character": "Yuuki, Asuna",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/3f/6d/3f6d397fdf6d8301375a97763df0b3bd/3f6d397fdf6d8301375a97763df0b3bd.jpg",
+            "role": "Main",
+            "voice_actor": "Tomatsu, Haruka",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/47/42/4742d0f9506930c605738ed0189d2d5a/4742d0f9506930c605738ed0189d2d5a.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Alicia Rue",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/1c/d2/1cd28174072362baad3aa2dbc85e1e7d/1cd28174072362baad3aa2dbc85e1e7d.jpg",
+            "role": "Supporting",
+            "voice_actor": "Saito, Chiwa",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/0a/5f/0a5f56af7fd9096fb5af062c6fab187b/0a5f56af7fd9096fb5af062c6fab187b.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Argo",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/84/3d/843db7a5d130ed21106354b233551009/843db7a5d130ed21106354b233551009.jpg",
+            "role": "Supporting",
+            "voice_actor": "Morris, Cassandra Lee",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/41/12/4112878a164890f2622e14afef3d3aaf/4112878a164890f2622e14afef3d3aaf.jpg",
+            "nationality": "English"
+        },
+        {
+            "character": "Ayano, Keiko",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/ce/1d/ce1d9b356f8e07bfa6c459e2e7e2ba94/ce1d9b356f8e07bfa6c459e2e7e2ba94.jpg",
+            "role": "Supporting",
+            "voice_actor": "Clerici, Serena",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/ae/6b/ae6bd30e782bc008e8f17bd35697b8df/ae6bd30e782bc008e8f17bd35697b8df.jpg",
+            "nationality": "Italian"
+        }
+    ],
+    "trailers": [
+        {
+            "title": "PV English dub version",
+            "video_url": "https://www.youtube.com/embed/6ohYYtxfDCg",
+            "thumbnail": "https://i.ytimg.com/vi/6ohYYtxfDCg/hqdefault.jpg"
+        }
+    ],
+    "more_seasons": [
+        {
+            "title": "Season 1",
+            "url": "/sword-art-online-2274",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/90/dc/90dca175561e61180622bc79218104cb/90dca175561e61180622bc79218104cb.jpg"
+        },
+        {
+            "title": "Season 2",
+            "url": "/sword-art-online-ii-4172",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/c2/1f/c21f94e50cc309e88172e54328492056/c21f94e50cc309e88172e54328492056.jpg"
+        },
+        {
+            "title": "Gun Gala Online",
+            "url": "/sword-art-online-alternative-gun-gale-online-3106",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/19/fd/19fdf9012efd098ddcb762dfc09c9e7d/19fdf9012efd098ddcb762dfc09c9e7d.jpg"
+        },
+        {
+            "title": "Season 3",
+            "url": "/sword-art-online-alicization-1298",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/19/55/19551cc7bfb4b94894014d2802763913/19551cc7bfb4b94894014d2802763913.jpg"
+        },
+        {
+            "title": "Season 4",
+            "url": "/sword-art-online-alicization-war-of-underworld-1037",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/d6/03/d603f410f92a9cc7f5a31110c2da8c60/d603f410f92a9cc7f5a31110c2da8c60.jpg"
+        },
+        {
+            "title": "Season 4, Part 2",
+            "url": "/sword-art-online-alicization-war-of-underworld-part-2-1666",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/85/19/851942b533808db227d51c2dd7bafbbf/851942b533808db227d51c2dd7bafbbf.jpg"
+        }
+    ],
+    "related_anime": [
+        {
+            "title": "Sword Art Online: Progressive",
+            "url": "/sword-art-online-progressive-15568",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/d9/00/d90056d307fb7c0a71edec939d4a6266/d90056d307fb7c0a71edec939d4a6266.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie"
+        }
+    ],
+    "recommended_anime": [
+        {
+            "title": "Initial D Fifth Stage",
+            "url": "/initial-d-fifth-stage-421",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f3/c2/f3c2a15a85578ec0f764c5d249982605/f3c2a15a85578ec0f764c5d249982605.jpg",
+            "rate": "",
+            "subtitles": "14",
+            "dubbing": "",
+            "episodes": "14",
+            "type": "TV",
+            "runtime": "27m"
+        },
+        {
+            "title": "the Garden of sinners Chapter 3: Remaining Sense of Pain",
+            "url": "/the-garden-of-sinners-chapter-3-remaining-sense-of-pain-422",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/b7/be/b7be668ed257e57554ef3a51159f70bb/b7be668ed257e57554ef3a51159f70bb.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "59m"
+        },
+        {
+            "title": "Made in Abyss Movie 1: Journey's Dawn",
+            "url": "/made-in-abyss-movie-1-journeys-dawn-424",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a1/0c/a10c4e42d3800be2075c548ba10c24dc/a10c4e42d3800be2075c548ba10c24dc.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "119m"
+        },
+        {
+            "title": "Magi: The Labyrinth of Magic",
+            "url": "/magi-the-labyrinth-of-magic-425",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/11/9d/119db3171acab63d95dc40a3cb8aeee9/119db3171acab63d95dc40a3cb8aeee9.jpg",
+            "rate": "",
+            "subtitles": "25",
+            "dubbing": "25",
+            "episodes": "25",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Saint Seiya: The Hades Chapter - Sanctuary",
+            "url": "/saint-seiya-the-hades-chapter-sanctuary-427",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/2b/02/2b0260a78eb9d7439cae49b95c9099d3/2b0260a78eb9d7439cae49b95c9099d3.jpg",
+            "rate": "",
+            "subtitles": "13",
+            "dubbing": "",
+            "episodes": "13",
+            "type": "OVA",
+            "runtime": "25m"
+        },
+        {
+            "title": "Tales of Saiunkoku",
+            "url": "/tales-of-saiunkoku-428",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a8/b0/a8b0fb3b355a219be76c89b850075221/a8b0fb3b355a219be76c89b850075221.jpg",
+            "rate": "",
+            "subtitles": "39",
+            "dubbing": "39",
+            "episodes": "39",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "High Score Girl: Extra Stage",
+            "url": "/high-score-girl-extra-stage-436",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/98/2a/982a63018f262d74a0b6dc5a1073a05e/982a63018f262d74a0b6dc5a1073a05e.jpg",
+            "rate": "",
+            "subtitles": "3",
+            "dubbing": "3",
+            "episodes": "3",
+            "type": "OVA",
+            "runtime": "25m"
+        },
+        {
+            "title": "Golden Kamuy Season 3",
+            "url": "/golden-kamuy-season-3-445",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/05/af/05af4af9518a27c70d892dacd36350c6/05af4af9518a27c70d892dacd36350c6.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "That Time I Got Reincarnated as a Slime",
+            "url": "/that-time-i-got-reincarnated-as-a-slime-429",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f6/f0/f6f0a1657b0f119bb850fe3b1bbf81b5/f6f0a1657b0f119bb850fe3b1bbf81b5.jpg",
+            "rate": "",
+            "subtitles": "24",
+            "dubbing": "24",
+            "episodes": "24",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "GaoGaiGar Final",
+            "url": "/gaogaigar-final-431",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/cf/db/cfdb960e4e898403fe071259db895bab/cfdb960e4e898403fe071259db895bab.jpg",
+            "rate": "",
+            "subtitles": "8",
+            "dubbing": "",
+            "episodes": "8",
+            "type": "OVA",
+            "runtime": "32m"
+        },
+        {
+            "title": "Baby Steps 2nd Season",
+            "url": "/baby-steps-2nd-season-432",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/83/80/838019c4ea7ae9b0a18f84891681dfdd/838019c4ea7ae9b0a18f84891681dfdd.jpg",
+            "rate": "",
+            "subtitles": "25",
+            "dubbing": "",
+            "episodes": "25",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Evangelion: 1.0 You Are (Not) Alone",
+            "url": "/evangelion-10-you-are-not-alone-433",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/41/7b/417b1d0c5ad84200d68cc2335d20cc80/417b1d0c5ad84200d68cc2335d20cc80.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "101m"
+        },
+        {
+            "title": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+            "url": "/gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi-434",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/4e/31/4e314b4c312604128ab6ceecac3546a1/4e314b4c312604128ab6ceecac3546a1.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "32m"
+        },
+        {
+            "title": "Class President is a Maid!",
+            "url": "/class-president-is-a-maid-437",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f2/25/f225b0927a3a1304240904b5c010abe5/f225b0927a3a1304240904b5c010abe5.jpg",
+            "rate": "",
+            "subtitles": "26",
+            "dubbing": "26",
+            "episodes": "26",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "KonoSuba: God's Blessing on This Wonderful World! 2: God's blessing on this wonderful Art!",
+            "url": "/konosuba-gods-blessing-on-this-wonderful-world-2-gods-blessing-on-this-wonderful-art-438",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/c7/02/c702027ad43b64cd5483e379f21e783f/c702027ad43b64cd5483e379f21e783f.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "28m"
+        },
+        {
+            "title": "Yona of the Dawn",
+            "url": "/yona-of-the-dawn-439",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/1f/25/1f25045ed5c1e81d9644ab11f1ffd485/1f25045ed5c1e81d9644ab11f1ffd485.jpg",
+            "rate": "",
+            "subtitles": "24",
+            "dubbing": "24",
+            "episodes": "24",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "D.Gray-man",
+            "url": "/dgray-man-441",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/3a/23/3a23fc057bd632f76096a962e8d78f4f/3a23fc057bd632f76096a962e8d78f4f.jpg",
+            "rate": "",
+            "subtitles": "103",
+            "dubbing": "103",
+            "episodes": "103",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Ginga Eiyuu Densetsu Gaiden (1999)",
+            "url": "/ginga-eiyuu-densetsu-gaiden-1999-443",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/75/b9/75b9aec4f00caf34e8e39e9f26294ff4/75b9aec4f00caf34e8e39e9f26294ff4.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "26m"
+        }
+    ]
+}

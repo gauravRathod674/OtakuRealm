@@ -24,7 +24,7 @@ export default function GenresList({ genres = [] }) {
     return (
       <div className="bg-[#191919] p-4 rounded-md">
         <h2 className="text-xl font-bold text-[#BB5052] mb-4">Genres</h2>
-        <p className="text-gray-300">No genres found.</p>
+        <p className="text-gray-400">No genres found.</p>
       </div>
     );
   }
@@ -41,7 +41,7 @@ export default function GenresList({ genres = [] }) {
         <h2 className="text-2xl font-bold text-[#BB5052] mb-8 mt-4">Genres</h2>
         <div className="bg-[#191919] p-4 rounded-md">
       {/* Use a grid with 1 column on mobile, 2 columns on small screens, and 3 columns on medium+ screens */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-x-4 gap-y-3">
+      <div className="grid grid-cols-3 gap-x-4 gap-y-3">
         {visibleGenres.map((genre, index) => {
           // Cycle through the 7 color classes
           const colorClass = colorPalette[index % colorPalette.length];

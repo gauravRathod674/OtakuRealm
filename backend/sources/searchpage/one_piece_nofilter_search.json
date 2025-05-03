@@ -1,0 +1,3299 @@
+{
+   "filters": [
+      {
+         "filter": "Type",
+         "options": [
+            {
+               "name": "Movie",
+               "value": "Movie"
+            },
+            {
+               "name": "Music",
+               "value": "Music"
+            },
+            {
+               "name": "ONA",
+               "value": "ONA"
+            },
+            {
+               "name": "OVA",
+               "value": "OVA"
+            },
+            {
+               "name": "Special",
+               "value": "Special"
+            },
+            {
+               "name": "TV",
+               "value": "TV"
+            }
+         ]
+      },
+      {
+         "filter": "Genre",
+         "options": [
+            {
+               "name": "Action",
+               "value": "1"
+            },
+            {
+               "name": "Adventure",
+               "value": "2"
+            },
+            {
+               "name": "Cars",
+               "value": "538"
+            },
+            {
+               "name": "Comedy",
+               "value": "8"
+            },
+            {
+               "name": "Dementia",
+               "value": "453"
+            },
+            {
+               "name": "Demons",
+               "value": "119"
+            },
+            {
+               "name": "Drama",
+               "value": "62"
+            },
+            {
+               "name": "Ecchi",
+               "value": "214"
+            },
+            {
+               "name": "Fantasy",
+               "value": "3"
+            },
+            {
+               "name": "Game",
+               "value": "180"
+            },
+            {
+               "name": "Harem",
+               "value": "215"
+            },
+            {
+               "name": "Historical",
+               "value": "70"
+            },
+            {
+               "name": "Horror",
+               "value": "222"
+            },
+            {
+               "name": "Isekai",
+               "value": "74"
+            },
+            {
+               "name": "Josei",
+               "value": "404"
+            },
+            {
+               "name": "Kids",
+               "value": "46"
+            },
+            {
+               "name": "Magic",
+               "value": "203"
+            },
+            {
+               "name": "Martial Arts",
+               "value": "114"
+            },
+            {
+               "name": "Mecha",
+               "value": "123"
+            },
+            {
+               "name": "Military",
+               "value": "125"
+            },
+            {
+               "name": "Music",
+               "value": "242"
+            },
+            {
+               "name": "Mystery",
+               "value": "57"
+            },
+            {
+               "name": "Parody",
+               "value": "162"
+            },
+            {
+               "name": "Police",
+               "value": "136"
+            },
+            {
+               "name": "Psychological",
+               "value": "73"
+            },
+            {
+               "name": "Romance",
+               "value": "28"
+            },
+            {
+               "name": "Samurai",
+               "value": "163"
+            },
+            {
+               "name": "School",
+               "value": "14"
+            },
+            {
+               "name": "Sci-Fi",
+               "value": "12"
+            },
+            {
+               "name": "Seinen",
+               "value": "50"
+            },
+            {
+               "name": "Shoujo",
+               "value": "252"
+            },
+            {
+               "name": "Shoujo Ai",
+               "value": "235"
+            },
+            {
+               "name": "Shounen",
+               "value": "15"
+            },
+            {
+               "name": "Shounen Ai",
+               "value": "233"
+            },
+            {
+               "name": "Slice of Life",
+               "value": "35"
+            },
+            {
+               "name": "Space",
+               "value": "124"
+            },
+            {
+               "name": "Sports",
+               "value": "29"
+            },
+            {
+               "name": "Super Power",
+               "value": "16"
+            },
+            {
+               "name": "Supernatural",
+               "value": "9"
+            },
+            {
+               "name": "Thriller",
+               "value": "54"
+            },
+            {
+               "name": "unknown",
+               "value": "32"
+            },
+            {
+               "name": "Vampire",
+               "value": "58"
+            }
+         ]
+      },
+      {
+         "filter": "Year",
+         "options": [
+            {
+               "name": "2025",
+               "value": "2025"
+            },
+            {
+               "name": "2024",
+               "value": "2024"
+            },
+            {
+               "name": "2023",
+               "value": "2023"
+            },
+            {
+               "name": "2022",
+               "value": "2022"
+            },
+            {
+               "name": "2021",
+               "value": "2021"
+            },
+            {
+               "name": "2020",
+               "value": "2020"
+            },
+            {
+               "name": "2019",
+               "value": "2019"
+            },
+            {
+               "name": "2018",
+               "value": "2018"
+            },
+            {
+               "name": "2017",
+               "value": "2017"
+            },
+            {
+               "name": "2016",
+               "value": "2016"
+            },
+            {
+               "name": "2015",
+               "value": "2015"
+            },
+            {
+               "name": "2014",
+               "value": "2014"
+            },
+            {
+               "name": "2013",
+               "value": "2013"
+            },
+            {
+               "name": "2012",
+               "value": "2012"
+            },
+            {
+               "name": "2011",
+               "value": "2011"
+            },
+            {
+               "name": "2010",
+               "value": "2010"
+            },
+            {
+               "name": "2009",
+               "value": "2009"
+            },
+            {
+               "name": "2008",
+               "value": "2008"
+            },
+            {
+               "name": "2007",
+               "value": "2007"
+            },
+            {
+               "name": "2006",
+               "value": "2006"
+            },
+            {
+               "name": "2005",
+               "value": "2005"
+            },
+            {
+               "name": "2004",
+               "value": "2004"
+            },
+            {
+               "name": "2003",
+               "value": "2003"
+            },
+            {
+               "name": "2002",
+               "value": "2002"
+            },
+            {
+               "name": "2001",
+               "value": "2001"
+            },
+            {
+               "name": "2000",
+               "value": "2000"
+            },
+            {
+               "name": "1999",
+               "value": "1999"
+            },
+            {
+               "name": "1998",
+               "value": "1998"
+            },
+            {
+               "name": "1997",
+               "value": "1997"
+            },
+            {
+               "name": "1996",
+               "value": "1996"
+            },
+            {
+               "name": "1995",
+               "value": "1995"
+            },
+            {
+               "name": "1994",
+               "value": "1994"
+            },
+            {
+               "name": "1993",
+               "value": "1993"
+            },
+            {
+               "name": "1992",
+               "value": "1992"
+            },
+            {
+               "name": "1991",
+               "value": "1991"
+            },
+            {
+               "name": "1990",
+               "value": "1990"
+            },
+            {
+               "name": "1989",
+               "value": "1989"
+            },
+            {
+               "name": "1988",
+               "value": "1988"
+            },
+            {
+               "name": "1987",
+               "value": "1987"
+            },
+            {
+               "name": "1986",
+               "value": "1986"
+            },
+            {
+               "name": "1985",
+               "value": "1985"
+            },
+            {
+               "name": "1984",
+               "value": "1984"
+            },
+            {
+               "name": "1983",
+               "value": "1983"
+            },
+            {
+               "name": "1982",
+               "value": "1982"
+            },
+            {
+               "name": "1981",
+               "value": "1981"
+            },
+            {
+               "name": "1980",
+               "value": "1980"
+            }
+         ]
+      },
+      {
+         "filter": "Rating",
+         "options": [
+            {
+               "name": "PG - Children",
+               "value": "pg"
+            },
+            {
+               "name": "PG 13 - Teens 13 and Older",
+               "value": "pg_13"
+            },
+            {
+               "name": "G - All Ages",
+               "value": "g"
+            },
+            {
+               "name": "R - 17+, Violence & Profanity",
+               "value": "r"
+            },
+            {
+               "name": "R+ - Profanity & Mild Nudity",
+               "value": "r+"
+            },
+            {
+               "name": "Rx - Hentai",
+               "value": "rx"
+            }
+         ]
+      },
+      {
+         "filter": "Status",
+         "options": [
+            {
+               "name": "Finished Airing",
+               "value": "finished-airing"
+            },
+            {
+               "name": "Currently Airing",
+               "value": "currently-airing"
+            },
+            {
+               "name": "Not yet aired",
+               "value": "not-yet-aired"
+            }
+         ]
+      },
+      {
+         "filter": "Country",
+         "options": [
+            {
+               "name": "All",
+               "value": ""
+            }
+         ]
+      },
+      {
+         "filter": "Season",
+         "options": [
+            {
+               "name": "Fall",
+               "value": "fall"
+            },
+            {
+               "name": "Summer",
+               "value": "summer"
+            },
+            {
+               "name": "Spring",
+               "value": "spring"
+            },
+            {
+               "name": "Winter",
+               "value": "winter"
+            },
+            {
+               "name": "Unknown",
+               "value": "unknown"
+            }
+         ]
+      },
+      {
+         "filter": "Language",
+         "options": [
+            {
+               "name": "Sub",
+               "value": "sub"
+            },
+            {
+               "name": "Dub",
+               "value": "dub"
+            }
+         ]
+      },
+      {
+         "filter": "Sort by",
+         "options": [
+            {
+               "name": "Default",
+               "value": "default"
+            },
+            {
+               "name": "Latest Updated",
+               "value": "latest-updated"
+            },
+            {
+               "name": "Score",
+               "value": "score"
+            },
+            {
+               "name": "Name A-Z",
+               "value": "name-az"
+            },
+            {
+               "name": "Release Date",
+               "value": "release-date"
+            },
+            {
+               "name": "Most Viewed",
+               "value": "most-viewed"
+            },
+            {
+               "name": "Number of episodes",
+               "value": "number_of_episodes"
+            }
+         ]
+      }
+   ],
+   "cards": [
+      {
+         "url": "https://animesugetv.to/watch/one-piece-log-fish-man-island-saga-bs83t/ep-20",
+         "data_tip": "7319",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/65/ee/65eebbb906e8dab6e9efc4bf096db3fb/65eebbb906e8dab6e9efc4bf096db3fb.jpg",
+         "alt": "One Piece Log: Fish-Man Island Saga",
+         "type": "TV",
+         "title": "One Piece Log: Fish-Man Island Saga",
+         "japanese_title": "One Piece: Gyojin Tou-hen",
+         "sub": "20"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1122",
+         "data_tip": "1642",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/bc/d8/bcd84731a3eda4f4a306250769675065/bcd84731a3eda4f4a306250769675065.jpg",
+         "alt": "One Piece",
+         "type": "TV",
+         "title": "One Piece",
+         "japanese_title": "One Piece",
+         "sub": "1122",
+         "dub": "1122"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-fan-letter-zlh6d/ep-1",
+         "data_tip": "7314",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/08367d0a68b3952cb14a1e72b84aaae3.jpg",
+         "alt": "One Piece Fan Letter",
+         "type": "SPECIAL",
+         "title": "One Piece Fan Letter",
+         "japanese_title": "One Piece Fan Letter",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-wano-kuni-sp-r0xwk/ep-16",
+         "data_tip": "7177",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/fd758a025129d9fb3806b27d3e5f428b.jpg",
+         "alt": "One Piece - Wano Kuni SP",
+         "type": "SPECIAL",
+         "title": "One Piece - Wano Kuni SP",
+         "japanese_title": "One Piece - Wano Kuni SP",
+         "sub": "16"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-barto-s-secret-room-xgpkr/ep-4",
+         "data_tip": "7050",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f754bde8fa48765250e63f94b1f89f3b.png",
+         "alt": "One Piece: Barto's Secret Room",
+         "type": "TV",
+         "title": "One Piece: Barto's Secret Room",
+         "japanese_title": "One Piece: Barto no Himitsu no Heya!",
+         "sub": "4"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-the-log-of-the-turbulent-revolution-the-revolutionary-army-maneuvers-in-secret-rzvjk/ep-1",
+         "data_tip": "6642",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a651dbea6b15d54dd638ff35423b6a84.jpg",
+         "alt": "One Piece: The Log of the Turbulent Revolution - The Revolutionary Army Maneuvers in Secret!",
+         "type": "SPECIAL",
+         "title": "One Piece: The Log of the Turbulent Revolution - The Revolutionary Army Maneuvers in Secret!",
+         "japanese_title": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-film-red-hmwzx/ep-1",
+         "data_tip": "6519",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a1e98b07e290cd9653b41a895342a377.jpg",
+         "alt": "One Piece Film: Red",
+         "type": "MOVIE",
+         "title": "One Piece Film: Red",
+         "japanese_title": "One Piece Film: Red",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-a-comprehensive-anatomy-the-legend-of-kozuki-oden-wxvoe/ep-1",
+         "data_tip": "6184",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f6cfb0d0e1452b3746b75955c01272ea.jpg",
+         "alt": "One Piece: A Comprehensive Anatomy! The Legend of Kozuki Oden!",
+         "type": "SPECIAL",
+         "title": "One Piece: A Comprehensive Anatomy! The Legend of Kozuki Oden!",
+         "japanese_title": "One Piece: Dai Tettei Kaibou! Kouzuki Oden Densetsu!",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-defeat-the-pirate-ganzack-dp2gd/ep-1",
+         "data_tip": "3448",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/cf42f6e03566212945df91b25bb62510.jpg",
+         "alt": "One Piece: Defeat the Pirate Ganzack!",
+         "type": "OVA",
+         "title": "One Piece: Defeat the Pirate Ganzack!",
+         "japanese_title": "One Piece: Taose! Kaizoku Ganzack",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-chopper-kingdom-of-strange-animal-island-hqwz6/ep-1",
+         "data_tip": "2827",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/1fed4b5260a27fe18d3e2dee6e5c068a.jpg",
+         "alt": "One Piece: Chopper Kingdom of Strange Animal Island",
+         "type": "MOVIE",
+         "title": "One Piece: Chopper Kingdom of Strange Animal Island",
+         "japanese_title": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-3d-strawhat-chase-0q8wy/ep-1",
+         "data_tip": "2701",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/01605691c2a52ce8c5f3226ec4a631a9.jpg",
+         "alt": "One Piece 3D: Strawhat Chase",
+         "type": "MOVIE",
+         "title": "One Piece 3D: Strawhat Chase",
+         "japanese_title": "One Piece 3D: Mugiwara Chase",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-take-aim-the-pirate-baseball-king-kz8pm/ep-1",
+         "data_tip": "2615",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/5d09255209e6f32a295d81557416c403.jpg",
+         "alt": "One Piece: Take Aim! The Pirate Baseball King",
+         "type": "OVA",
+         "title": "One Piece: Take Aim! The Pirate Baseball King",
+         "japanese_title": "One Piece: Mezase! Kaizoku Yakyuu Ou",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-3d-gekisou-trap-coaster-trqrr/ep-1",
+         "data_tip": "2611",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f0a890203ee84a3c205d149b6e91a724.jpg",
+         "alt": "One Piece 3D: Gekisou! Trap Coaster",
+         "type": "OVA",
+         "title": "One Piece 3D: Gekisou! Trap Coaster",
+         "japanese_title": "One Piece 3D: Gekisou! Trap Coaster",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-recap-10hdm/ep-1",
+         "data_tip": "2511",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/80cbbff9ab97108fb57908d05930133a.jpg",
+         "alt": "One Piece Recap",
+         "type": "OVA",
+         "title": "One Piece Recap",
+         "japanese_title": "One Piece Recap",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-film-gold-episode-0-kbzls/ep-1",
+         "data_tip": "2500",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e4b191bf7af9d38d4548af84d3c1573b.jpg",
+         "alt": "ONE PIECE FILM GOLD \u301cepisode 0\u301c",
+         "type": "SPECIAL",
+         "title": "ONE PIECE FILM GOLD \u301cepisode 0\u301c",
+         "japanese_title": "One Piece Film: Gold Episode 0 - 711 ver.",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-django-s-dance-carnival-aiknl/ep-1",
+         "data_tip": "2431",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/ca6a1dfa56f1bf1fdc8bf073860b9f01.jpg",
+         "alt": "One Piece: Django's Dance Carnival",
+         "type": "ONA",
+         "title": "One Piece: Django's Dance Carnival",
+         "japanese_title": "One Piece: Jango no Dance Carnival",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-clockwork-island-adventure-e64ux/ep-1",
+         "data_tip": "2419",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/ec524a9783f942b07a6ddd8d775b2cdb.jpg",
+         "alt": "One Piece: Clockwork Island Adventure",
+         "type": "MOVIE",
+         "title": "One Piece: Clockwork Island Adventure",
+         "japanese_title": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-soccer-king-of-dreams-p8ujl/ep-1",
+         "data_tip": "2418",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d503eeb571d83c10b5d937275e397d63.jpg",
+         "alt": "One Piece: Soccer King of Dreams",
+         "type": "MOVIE",
+         "title": "One Piece: Soccer King of Dreams",
+         "japanese_title": "One Piece: Yume no Soccer Ou!",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-movie-1-8bhn7/ep-1",
+         "data_tip": "2405",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/ff736656ba002e0dd51363c3d889d9ff.jpg",
+         "alt": "One Piece Movie 1",
+         "type": "MOVIE",
+         "title": "One Piece Movie 1",
+         "japanese_title": "One Piece Movie 1",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-episode-of-skypiea-tfilo/ep-1",
+         "data_tip": "2404",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/6a593442adebb95308e506e969852aa0.jpg",
+         "alt": "One Piece: Episode of Skypiea",
+         "type": "SPECIAL",
+         "title": "One Piece: Episode of Skypiea",
+         "japanese_title": "One Piece: Episode of Sorajima",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-glorious-island-fnagk/ep-1",
+         "data_tip": "2337",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/622144a3ae59c58a9cfa2787c27722cb.jpg",
+         "alt": "One Piece: Glorious Island",
+         "type": "SPECIAL",
+         "title": "One Piece: Glorious Island",
+         "japanese_title": "One Piece: Glorious Island",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-adventure-of-nebulandia-kdcjw/ep-1",
+         "data_tip": "2157",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/31b57d916ab1c020bea5aca7f50fe678.jpg",
+         "alt": "One Piece: Adventure of Nebulandia",
+         "type": "SPECIAL",
+         "title": "One Piece: Adventure of Nebulandia",
+         "japanese_title": "One Piece: Adventure of Nebulandia",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-movie-7-karakuri-jou-no-mecha-kyohei-r2x7e/ep-1",
+         "data_tip": "2149",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/41526ff58363bf9cea33002c065296e0.jpg",
+         "alt": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+         "type": "MOVIE",
+         "title": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+         "japanese_title": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-special-open-upon-the-great-sea-a-father-s-huge-huge-dream-rxmwf/ep-1",
+         "data_tip": "2094",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f76225081860e89adacad5ef06af20f2.jpg",
+         "alt": "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
+         "type": "SPECIAL",
+         "title": "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
+         "japanese_title": "One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-special-adventure-in-the-ocean-s-navel-dzii6/ep-1",
+         "data_tip": "2093",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/878cfee15c8fab4b1341462f72461cad.jpg",
+         "alt": "One Piece Special: Adventure in the Ocean's Navel",
+         "type": "SPECIAL",
+         "title": "One Piece Special: Adventure in the Ocean's Navel",
+         "japanese_title": "One Piece: Umi no Heso no Daibouken-hen",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-the-curse-of-the-sacred-sword-kszyl/ep-1",
+         "data_tip": "2022",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/900d9390ae10b86336a2acad56acc976.jpg",
+         "alt": "One Piece: The Curse of the Sacred Sword",
+         "type": "MOVIE",
+         "title": "One Piece: The Curse of the Sacred Sword",
+         "japanese_title": "One Piece Movie 5: Norowareta Seiken",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-romance-dawn-story-gt5ls/ep-1",
+         "data_tip": "1948",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a7d7242012fbb0209ec15aba2e8edd67.jpg",
+         "alt": "One Piece: Romance Dawn Story",
+         "type": "OVA",
+         "title": "One Piece: Romance Dawn Story",
+         "japanese_title": "One Piece: Romance Dawn Story",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-special-protect-the-last-great-performance-du0ng/ep-1",
+         "data_tip": "1835",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4c9d06b236c92929ad415f78950dbf43.jpg",
+         "alt": "One Piece Special: Protect! The Last Great Performance",
+         "type": "SPECIAL",
+         "title": "One Piece Special: Protect! The Last Great Performance",
+         "japanese_title": "One Piece: Mamore! Saigo no Dai Butai",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-special-the-detective-memoirs-of-chief-straw-hat-luffy-akhta/ep-1",
+         "data_tip": "1691",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/1e92eef56e90c0a4c2457b68f8da51e3.jpg",
+         "alt": "One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy",
+         "type": "SPECIAL",
+         "title": "One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy",
+         "japanese_title": "One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-episode-of-nami-tears-of-a-navigator-and-the-bonds-of-friends-wwew4/ep-1",
+         "data_tip": "1445",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e8ec23b151d2e3e0a392c3ce9f4429b7.jpg",
+         "alt": "One Piece: Episode of Nami - Tears of a Navigator and the Bonds of Friends",
+         "type": "SPECIAL",
+         "title": "One Piece: Episode of Nami - Tears of a Navigator and the Bonds of Friends",
+         "japanese_title": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-the-movie-10-strong-world-asdpv/ep-1",
+         "data_tip": "1363",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/de58e554fa74d9a5443799ab84cf0c65.jpg",
+         "alt": "One Piece: The Movie 10 - Strong World",
+         "type": "MOVIE",
+         "title": "One Piece: The Movie 10 - Strong World",
+         "japanese_title": "One Piece Film: Strong World",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-the-movie-12-film-z-2mrfl/ep-1",
+         "data_tip": "1362",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4f20b80bbae084c6165821c4f490a22a.jpg",
+         "alt": "One Piece: The Movie 12 - Film Z",
+         "type": "MOVIE",
+         "title": "One Piece: The Movie 12 - Film Z",
+         "japanese_title": "One Piece Film: Z",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-the-movie-14-stampede-4qhmf/ep-1",
+         "data_tip": "1346",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e8a122d878c53cddf5730946f3bae6fb.jpg",
+         "alt": "One Piece: The Movie 14 - Stampede",
+         "type": "MOVIE",
+         "title": "One Piece: The Movie 14 - Stampede",
+         "japanese_title": "One Piece: The Movie 14 - Stampede",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-episode-of-merry-the-tale-of-one-more-friend-3xnsp/ep-1",
+         "data_tip": "1295",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f9c03a6e40d324f2cfc22f870abe1c15.jpg",
+         "alt": "One Piece: Episode of Merry - The Tale of One More Friend",
+         "type": "SPECIAL",
+         "title": "One Piece: Episode of Merry - The Tale of One More Friend",
+         "japanese_title": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-film-strong-world-episode-0-2kxzq/ep-1",
+         "data_tip": "1241",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/228ea6c39b625f78ae75fa95cf9e63ee.jpg",
+         "alt": "One Piece Film: Strong World Episode 0",
+         "type": "OVA",
+         "title": "One Piece Film: Strong World Episode 0",
+         "japanese_title": "One Piece Film: Strong World Episode 0",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-3d2y-15th-anniversary-r04hj/ep-1",
+         "data_tip": "1181",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/bcf230a574c9b8dabbc871043f0a8443.jpg",
+         "alt": "One Piece 3D2Y: 15th Anniversary",
+         "type": "SPECIAL",
+         "title": "One Piece 3D2Y: 15th Anniversary",
+         "japanese_title": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-the-movie-13-film-gold-biztd/ep-1",
+         "data_tip": "1088",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/7156c377053c230cc42b66bbf7260325.jpg",
+         "alt": "One Piece: The Movie 13 - Film: Gold",
+         "type": "MOVIE",
+         "title": "One Piece: The Movie 13 - Film: Gold",
+         "japanese_title": "One Piece Film: Gold",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-episode-of-east-blue-f58nd/ep-1",
+         "data_tip": "921",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/122753b7529b699e7ee65e31bdd85e17.jpg",
+         "alt": "One Piece: Episode of East Blue",
+         "type": "SPECIAL",
+         "title": "One Piece: Episode of East Blue",
+         "japanese_title": "One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-episode-of-luffy-hand-island-adventure-br7lf/ep-1",
+         "data_tip": "769",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/31b60e5d857308aac024e5981d47221a.jpg",
+         "alt": "One Piece: Episode of Luffy - Hand Island Adventure",
+         "type": "SPECIAL",
+         "title": "One Piece: Episode of Luffy - Hand Island Adventure",
+         "japanese_title": "One Piece: Episode of Luffy - Hand Island no Bouken",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-baron-omatsuri-and-the-secret-island-jl2ao/ep-1",
+         "data_tip": "733",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f1101d8772c508a881d49595b7c86679.jpg",
+         "alt": "One Piece: Baron Omatsuri and the Secret Island",
+         "type": "MOVIE",
+         "title": "One Piece: Baron Omatsuri and the Secret Island",
+         "japanese_title": "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-heart-of-gold-lq2ti/ep-1",
+         "data_tip": "685",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b4c06d31192bcd16b0daae746b120a76.jpg",
+         "alt": "One Piece: Heart of Gold",
+         "type": "SPECIAL",
+         "title": "One Piece: Heart of Gold",
+         "japanese_title": "One Piece: Heart of Gold",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-movie-9-episode-of-chopper-plus-fuyu-ni-saku-kiseki-no-sakura-3kdqm/ep-1",
+         "data_tip": "579",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/65f80950ef7dd9fe39ee705123d90265.jpg",
+         "alt": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+         "type": "MOVIE",
+         "title": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+         "japanese_title": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-episode-of-sabo-the-three-brothers-bond-hamg1/ep-1",
+         "data_tip": "477",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/c11aa8226ea5ae258307936838025535.jpg",
+         "alt": "One Piece: Episode of Sabo - The Three Brothers' Bond",
+         "type": "SPECIAL",
+         "title": "One Piece: Episode of Sabo - The Three Brothers' Bond",
+         "japanese_title": "One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-the-movie-8-adventures-in-alabasta-mllmk/ep-1",
+         "data_tip": "333",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a23edd40c184ec10e6acfbf6771231ca.jpg",
+         "alt": "One Piece: The Movie 8 - Adventures in Alabasta",
+         "type": "MOVIE",
+         "title": "One Piece: The Movie 8 - Adventures in Alabasta",
+         "japanese_title": "One Piece Movie 8: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-dead-end-n6fbv/ep-1",
+         "data_tip": "262",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/085b2c99e12b21786da1a7cfdc314c42.jpg",
+         "alt": "One Piece: Dead End",
+         "type": "MOVIE",
+         "title": "One Piece: Dead End",
+         "japanese_title": "One Piece Movie 4: Dead End no Bouken",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/toriko-cwtfr/ep-147",
+         "data_tip": "251",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/82f0ba3df246ee32b51e16e976d074d3.jpg",
+         "alt": "Toriko",
+         "type": "TV",
+         "title": "Toriko",
+         "japanese_title": "Toriko",
+         "sub": "147"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dr-stone-science-future-10zlv/ep-12",
+         "data_tip": "7479",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/62/56/6256426cfa94332309fa3b10b37dde06/6256426cfa94332309fa3b10b37dde06.jpg",
+         "alt": "Dr. Stone: Science Future",
+         "type": "TV",
+         "title": "Dr. Stone: Science Future",
+         "japanese_title": "Dr. Stone: Science Future",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/loner-life-in-another-world-g9rqp/ep-12",
+         "data_tip": "2",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/5d/c6/5dc640871a61596483b630918f8c2e04/5dc640871a61596483b630918f8c2e04.jpg",
+         "alt": "Loner Life in Another World",
+         "type": "TV",
+         "title": "Loner Life in Another World",
+         "japanese_title": "Hitoribocchi no Isekai Kouryaku",
+         "sub": "12",
+         "dub": "7"
+      },
+      {
+         "url": "https://animesugetv.to/watch/honey-lemon-soda-dzceb/ep-12",
+         "data_tip": "7472",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/86/f9/86f9c642f26b43fc3c7925abefe80e5e/86f9c642f26b43fc3c7925abefe80e5e.jpg",
+         "alt": "Honey Lemon Soda",
+         "type": "TV",
+         "title": "Honey Lemon Soda",
+         "japanese_title": "Honey Lemon Soda",
+         "sub": "12",
+         "dub": "10"
+      },
+      {
+         "url": "https://animesugetv.to/watch/lockdown-zone-lv-x-season-2-k2tnp/ep-5",
+         "data_tip": "7549",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/7e/89/7e89aafbf045d589463f5bf4a2f59f43/7e89aafbf045d589463f5bf4a2f59f43.jpg",
+         "alt": "Lockdown Zone: Lv. X Season 2",
+         "type": "TV",
+         "title": "Lockdown Zone: Lv. X Season 2",
+         "japanese_title": "Kankin Kuiki Level X 2nd Season",
+         "sub": "5"
+      },
+      {
+         "url": "https://animesugetv.to/watch/throne-of-seal-2nd-season-9pzla/ep-120",
+         "data_tip": "6177",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/e7/ea/e7eae90b00f92055c4cb250605b10879/e7eae90b00f92055c4cb250605b10879.jpg",
+         "alt": "Throne of Seal 2nd Season",
+         "type": "ONA",
+         "title": "Throne of Seal 2nd Season",
+         "japanese_title": "Shen Yin Wangzuo 2nd Season",
+         "sub": "120"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-hundred-thousand-years-of-qi-refining-k9gom/ep-203",
+         "data_tip": "6126",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/6a/a3/6aa3770a48ac6a8500d378819d0de918/6aa3770a48ac6a8500d378819d0de918.jpg",
+         "alt": "One Hundred Thousand Years of Qi Refining",
+         "type": "ONA",
+         "title": "One Hundred Thousand Years of Qi Refining",
+         "japanese_title": "Lian Qi Shi Wan Nian",
+         "sub": "203"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-path-toward-heaven-dhkx2/ep-7",
+         "data_tip": "7327",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/11/5f/115f93f3329aa48671222ce11b8d9ec2/115f93f3329aa48671222ce11b8d9ec2.jpg",
+         "alt": "One Way or Another",
+         "type": "ONA",
+         "title": "One Way or Another",
+         "japanese_title": "Dadao Chaotian",
+         "sub": "7"
+      },
+      {
+         "url": "https://animesugetv.to/watch/kitty-s-studio-m17me/ep-1",
+         "data_tip": "7383",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/6f358f59f19931369e8ec2faca5fbd5e.jpg",
+         "alt": "Kitty's Studio",
+         "type": "MOVIE",
+         "title": "Kitty's Studio",
+         "japanese_title": "Koneko no Studio",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/you-re-my-love-prize-fbvmf/ep-2",
+         "data_tip": "7351",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e94982ae55f3f51d2821df63fc9c577d.jpg",
+         "alt": "You're My Love Prize",
+         "type": "OVA",
+         "title": "You're My Love Prize",
+         "japanese_title": "Finder Series",
+         "sub": "2"
+      },
+      {
+         "url": "https://animesugetv.to/watch/no-love-zone-knz7d/ep-10",
+         "data_tip": "7350",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/c3cf105fa347e6d38ba927dd597d10a7.jpg",
+         "alt": "No Love Zone",
+         "type": "ONA",
+         "title": "No Love Zone",
+         "japanese_title": "Yeon-aejehanguyeog",
+         "sub": "10"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-step-toward-freedom-dqk9x/ep-445",
+         "data_tip": "5581",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8ec9babc641cc191acfbecf93b51a349.jpg",
+         "alt": "One Step Toward Freedom",
+         "type": "ONA",
+         "title": "One Step Toward Freedom",
+         "japanese_title": "Dubu Xiaoyao",
+         "sub": "445"
+      },
+      {
+         "url": "https://animesugetv.to/watch/level-1-demon-lord-and-one-room-hero-rcidm/ep-12",
+         "data_tip": "6037",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/40a75a631e0c29da6d093d4e089a11d0.jpg",
+         "alt": "Level 1 Demon Lord and One Room Hero",
+         "type": "TV",
+         "title": "Level 1 Demon Lord and One Room Hero",
+         "japanese_title": "Lv1 Maou to One Room Yuusha",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/my-life-after-i-became-a-dummy-head-mic-one-morning-aru-asa-dummy-head-mike-ni-natteita-ore-kun-no-jinsei-l2qoy/ep-12",
+         "data_tip": "7207",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/1eb62eb9c7402a8d1744bd114b308e5a.jpg",
+         "alt": "My Life After I Became a Dummy Head Mic One Morning, Aru Asa Dummy Head Mike ni Natteita Ore-kun no Jinsei",
+         "type": "TV",
+         "title": "My Life After I Became a Dummy Head Mic One Morning, Aru Asa Dummy Head Mike ni Natteita Ore-kun no Jinsei",
+         "japanese_title": "Aru Asa Dummy Head Mic ni Natteita Ore-kun no Jinsei",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/to-me-the-one-who-loved-you-f2u1w/ep-1",
+         "data_tip": "7204",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e4ae390c3bd72654a60019bbad8e51e2.jpg",
+         "alt": "To Me, The One Who Loved You",
+         "type": "MOVIE",
+         "title": "To Me, The One Who Loved You",
+         "japanese_title": "Kimi wo Aishita Hitori no Boku e",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/mob-psycho-100-iii-4ez1e/ep-12",
+         "data_tip": "7164",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e3d22899f42d913cf47a96b7b575aab3.png",
+         "alt": "Mob Psycho 100 III",
+         "type": "TV",
+         "title": "Mob Psycho 100 III",
+         "japanese_title": "Mob Psycho 100 III",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/kotaro-lives-alone-sjoax/ep-10",
+         "data_tip": "7126",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/70506bc9285c0710eb319789b4c6f6e1.jpg",
+         "alt": "Kotaro Lives Alone",
+         "type": "ONA",
+         "title": "Kotaro Lives Alone",
+         "japanese_title": "Kotarou wa Hitorigurashi",
+         "sub": "10",
+         "dub": "10"
+      },
+      {
+         "url": "https://animesugetv.to/watch/oresuki-are-you-the-only-one-who-loves-me-game-over-5btud/ep-1",
+         "data_tip": "7035",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/0f8b745a574abe160c23919431b1c957.jpg",
+         "alt": "ORESUKI Are you the only one who loves me: Game Over",
+         "type": "OVA",
+         "title": "ORESUKI Are you the only one who loves me: Game Over",
+         "japanese_title": "ORESUKI Are you the only one who loves me: Game Over",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-executioner-and-her-way-of-life-e76r8/ep-12",
+         "data_tip": "7012",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/55ba9a400222c9ce7c60153c54aaf57e.jpg",
+         "alt": "The Executioner and Her Way of Life",
+         "type": "TV",
+         "title": "The Executioner and Her Way of Life",
+         "japanese_title": "Shokei Shoujo no Virgin Road",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dr-stone-ryuusui-cyjms/ep-1",
+         "data_tip": "6994",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/ad996e7a1f5391a68b19f80a479fc43c.jpg",
+         "alt": "Dr. Stone: Ryuusui",
+         "type": "SPECIAL",
+         "title": "Dr. Stone: Ryuusui",
+         "japanese_title": "Dr. Stone: Ryuusui",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-tale-of-the-spirit-stone-6xspb/ep-20",
+         "data_tip": "6955",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/98d2f552d8e22aa60d8380a8a8ae86a9.png",
+         "alt": "The Tale of The Spirit Stone",
+         "type": "ONA",
+         "title": "The Tale of The Spirit Stone",
+         "japanese_title": "Jing Cui Xian Zun",
+         "sub": "20"
+      },
+      {
+         "url": "https://animesugetv.to/watch/black-summoner-qwpxw/ep-12",
+         "data_tip": "6945",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/c4885983848251a200947a0e0e3b415f.png",
+         "alt": "Black Summoner",
+         "type": "TV",
+         "title": "Black Summoner",
+         "japanese_title": "Kuro no Shoukanshi",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/throne-of-seal-a7tsb/ep-26",
+         "data_tip": "6912",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/77ef2bf03a06c9917f349edf5051120a.jpg",
+         "alt": "Throne of Seal",
+         "type": "ONA",
+         "title": "Throne of Seal",
+         "japanese_title": "Shen Yin Wangzuo",
+         "sub": "26"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-2045-mbjgs/ep-1",
+         "data_tip": "6900",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/44f706d2dc60a2e88d2dd0df5db072c6.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex 2045",
+         "type": "MOVIE",
+         "title": "Ghost in the Shell: Stand Alone Complex 2045",
+         "japanese_title": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/jojo-s-bizarre-adventure-part-6-stone-ocean-7fkfo/ep-12",
+         "data_tip": "6793",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/523d71be1895a9426b94ad2a756d6720.jpg",
+         "alt": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+         "type": "ONA",
+         "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+         "japanese_title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/aria-the-benedizione-1f4zi/ep-1",
+         "data_tip": "6732",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a5c4a55da70abc25520803b656f2c679.jpg",
+         "alt": "Aria the Benedizione",
+         "type": "MOVIE",
+         "title": "Aria the Benedizione",
+         "japanese_title": "Aria the Benedizione",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/koukaku-kidoutai-sac-2045-2nd-season-8hyhx/ep-12",
+         "data_tip": "6706",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4249a77601eee2efa75766cbc6259323.jpg",
+         "alt": "Koukaku Kidoutai: SAC_2045 2nd Season",
+         "type": "ONA",
+         "title": "Koukaku Kidoutai: SAC_2045 2nd Season",
+         "japanese_title": "Koukaku Kidoutai: SAC_2045 2nd Season",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dr-stone-new-world-uvvrn/ep-11",
+         "data_tip": "6700",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/0cab1ee2bbe1a4def0790121df2c1fc7.jpg",
+         "alt": "Dr. Stone: New World",
+         "type": "TV",
+         "title": "Dr. Stone: New World",
+         "japanese_title": "Dr. Stone 3rd Season",
+         "sub": "11",
+         "dub": "11"
+      },
+      {
+         "url": "https://animesugetv.to/watch/jojo-s-bizarre-adventure-part-6-stone-ocean-part-2-pz5u8/ep-12",
+         "data_tip": "6678",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/40658eaf20b54d13f296f40724d23839.jpg",
+         "alt": "JoJo's Bizarre Adventure Part 6: Stone Ocean Part 2",
+         "type": "ONA",
+         "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean Part 2",
+         "japanese_title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/lockdown-zone-lv-x-oif7i/ep-6",
+         "data_tip": "6635",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/638e0e70fe237ba0806a2ff2d8128d8b.jpg",
+         "alt": "Lockdown Zone: Lv. X",
+         "type": "TV",
+         "title": "Lockdown Zone: Lv. X",
+         "japanese_title": "Kankin Kuiki Level X",
+         "sub": "6"
+      },
+      {
+         "url": "https://animesugetv.to/watch/onimai-i-m-now-your-sister-uncensored-wjtvj/ep-12",
+         "data_tip": "6592",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3ae4c13db5851cb7003e9516143625e2.jpg",
+         "alt": "Onimai: I'm Now Your Sister! (Uncensored)",
+         "type": "TV",
+         "title": "Onimai: I'm Now Your Sister! (Uncensored)",
+         "japanese_title": "Oniichan wa Oshimai! (Uncensored)",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/onimai-i-m-now-your-sister-bb1bs/ep-12",
+         "data_tip": "6582",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/5d9356c9cbf38c8d9e49bd22894ffc30.jpg",
+         "alt": "Onimai: I'm Now Your Sister!",
+         "type": "TV",
+         "title": "Onimai: I'm Now Your Sister!",
+         "japanese_title": "Oniichan wa Oshimai!",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ningen-fushin-adventurers-who-don-t-believe-in-humanity-will-save-the-world-wv2d5/ep-12",
+         "data_tip": "6551",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/6e64124e0caeb41efed91e30cf29a2b9.png",
+         "alt": "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World",
+         "type": "TV",
+         "title": "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World",
+         "japanese_title": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/horimiya-the-missing-pieces-joi77/ep-13",
+         "data_tip": "6534",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/041a335c530fda22477df522037c92c5.png",
+         "alt": "Horimiya: The Missing Pieces",
+         "type": "TV",
+         "title": "Horimiya: The Missing Pieces",
+         "japanese_title": "Horimiya: Piece",
+         "sub": "13",
+         "dub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/jojo-s-bizarre-adventure-stone-ocean-part-3-1jhfz/ep-14",
+         "data_tip": "6524",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b59e46f13d954d950eeae33bed2b5df8.jpg",
+         "alt": "JoJo's Bizarre Adventure: Stone Ocean Part 3",
+         "type": "ONA",
+         "title": "JoJo's Bizarre Adventure: Stone Ocean Part 3",
+         "japanese_title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+         "sub": "14",
+         "dub": "14"
+      },
+      {
+         "url": "https://animesugetv.to/watch/run-for-money-the-great-mission-ayoka/ep-44",
+         "data_tip": "6501",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/06567097f088d5c93295fdba91dad2d4.jpg",
+         "alt": "Run For Money : The Great Mission",
+         "type": "TV",
+         "title": "Run For Money : The Great Mission",
+         "japanese_title": "Tousouchuu: Great Mission",
+         "sub": "44"
+      },
+      {
+         "url": "https://animesugetv.to/watch/in-another-world-with-my-smartphone-2-miszv/ep-12",
+         "data_tip": "6464",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/bacb7124d070a26097c77601250a205e.jpg",
+         "alt": "In Another World With My Smartphone 2",
+         "type": "TV",
+         "title": "In Another World With My Smartphone 2",
+         "japanese_title": "Isekai wa Smartphone to Tomo ni. 2",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/summoned-to-another-world-for-a-second-time-jcx90/ep-12",
+         "data_tip": "6460",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/98fc1ac81870a0920af1f49fdcc1014a.jpg",
+         "alt": "Summoned to Another World for a Second Time",
+         "type": "TV",
+         "title": "Summoned to Another World for a Second Time",
+         "japanese_title": "Isekai Shoukan wa Nidome desu",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/my-one-hit-kill-sister-tdx1t/ep-12",
+         "data_tip": "6450",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3e17f74c2bc11fb7ef6d436968eee4f6.jpg",
+         "alt": "My One-Hit Kill Sister",
+         "type": "TV",
+         "title": "My One-Hit Kill Sister",
+         "japanese_title": "Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dr-stone-3rd-season-part-2-ryadt/ep-11",
+         "data_tip": "6397",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/533d9ca61bd99ff5c4c5f6d754feb33d.jpg",
+         "alt": "Dr. Stone 3rd Season Part 2",
+         "type": "TV",
+         "title": "Dr. Stone 3rd Season Part 2",
+         "japanese_title": "Dr. Stone: New World Part 2",
+         "sub": "11",
+         "dub": "11"
+      },
+      {
+         "url": "https://animesugetv.to/watch/my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-8ldbk/ep-12",
+         "data_tip": "6253",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e670bd9fd14f8659450e9be3d87f517b.jpg",
+         "alt": "My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!",
+         "type": "TV",
+         "title": "My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!",
+         "japanese_title": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/first-trip-alone-1qq1h/ep-1",
+         "data_tip": "6238",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/9b08778378d838721a0a2146b3a8f69b.jpg",
+         "alt": "First Trip Alone",
+         "type": "OVA",
+         "title": "First Trip Alone",
+         "japanese_title": "Hajimete no Futarikkiri Ryokou",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/solo-leveling-ilh08/ep-12",
+         "data_tip": "6224",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b147d331e311a5d5c8ee81269725fc92.png",
+         "alt": "Solo Leveling",
+         "type": "TV",
+         "title": "Solo Leveling",
+         "japanese_title": "Ore dake Level Up na Ken",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/time-prisoner-u2ph9/ep-12",
+         "data_tip": "6200",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e449972933af54a391e45e8dc12cd938.jpg",
+         "alt": "Time Prisoner",
+         "type": "ONA",
+         "title": "Time Prisoner",
+         "japanese_title": "Shijian Qiutu",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/time-prisoner-2-garuo/ep-12",
+         "data_tip": "6199",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/41befcf67957ce0c2581b6fa2e14d2ce.jpg",
+         "alt": "Time Prisoner 2",
+         "type": "ONA",
+         "title": "Time Prisoner 2",
+         "japanese_title": "Shijian Qiutu Zhi Miwu",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/tenpuru-no-one-can-live-on-loneliness-specials-ht1nt/ep-1",
+         "data_tip": "6163",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/481658ebcc2057a540c9a55e2309c417.jpg",
+         "alt": "TenPuru: No One Can Live on Loneliness Specials",
+         "type": "SPECIAL",
+         "title": "TenPuru: No One Can Live on Loneliness Specials",
+         "japanese_title": "Temple Specials",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/garouden-the-way-of-the-lone-wolf-27xl3/ep-8",
+         "data_tip": "6142",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/91d04b295d2701576ca1c48b68701e54.jpg",
+         "alt": "Garouden: The Way of the Lone Wolf",
+         "type": "ONA",
+         "title": "Garouden: The Way of the Lone Wolf",
+         "japanese_title": "Garouden: The Way of the Lone Wolf",
+         "sub": "8",
+         "dub": "8"
+      },
+      {
+         "url": "https://animesugetv.to/watch/studio-apartment-good-lighting-angel-included-u00nw/ep-12",
+         "data_tip": "6116",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4062457189c82116441b055eb07acec3.jpg",
+         "alt": "Studio Apartment, Good Lighting, Angel Included",
+         "type": "TV",
+         "title": "Studio Apartment, Good Lighting, Angel Included",
+         "japanese_title": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/tenpuru-no-one-can-live-on-loneliness-gn2ug/ep-12",
+         "data_tip": "6029",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f71651dc0db000ecee90fa11dcc93d5c.png",
+         "alt": "TenPuru: No One Can Live on Loneliness",
+         "type": "TV",
+         "title": "TenPuru: No One Can Live on Loneliness",
+         "japanese_title": "Temple",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-richest-man-in-game-f4xny/ep-16",
+         "data_tip": "5961",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/67ea9ab2c8bcacb2546df3fe87c14b51.jpg",
+         "alt": "The Richest Man in Game",
+         "type": "ONA",
+         "title": "The Richest Man in Game",
+         "japanese_title": "Kui Cheng Shoufu Cong Youxi Kaishi",
+         "sub": "16"
+      },
+      {
+         "url": "https://animesugetv.to/watch/weather-report-girl-fdopj/ep-2",
+         "data_tip": "5942",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/6890f1e09d56e0c7a5cfcd3e637123a4.jpg",
+         "alt": "Weather Report Girl",
+         "type": "OVA",
+         "title": "Weather Report Girl",
+         "japanese_title": "Otenki Oneesan",
+         "sub": "2",
+         "dub": "2"
+      },
+      {
+         "url": "https://animesugetv.to/watch/no-money-3zdph/ep-4",
+         "data_tip": "5941",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/0b02196cadc8dfc79b0cf51c352c36d6.jpg",
+         "alt": "No Money",
+         "type": "OVA",
+         "title": "No Money",
+         "japanese_title": "Okane ga Nai",
+         "sub": "4"
+      },
+      {
+         "url": "https://animesugetv.to/watch/no-money-omake-episodes-wrial/ep-4",
+         "data_tip": "5939",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/08c72fc048225fddf55c868517203d9d.jpg",
+         "alt": "No Money Omake episodes",
+         "type": "SPECIAL",
+         "title": "No Money Omake episodes",
+         "japanese_title": "Okane ga Nai Specials",
+         "sub": "4"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dr-stone-stone-wars-eve-of-the-battle-special-feature-yatmz/ep-1",
+         "data_tip": "5899",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/c133b5d3ae580d33d8ef95296dffe1b7.jpg",
+         "alt": "Dr. Stone: Stone Wars Eve of the Battle Special Feature",
+         "type": "SPECIAL",
+         "title": "Dr. Stone: Stone Wars Eve of the Battle Special Feature",
+         "japanese_title": "Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/when-i-woke-up-i-became-a-bagel-girl-cqayl/ep-15",
+         "data_tip": "5887",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4f5fa2f7dfbe5430195335942453d3dd.jpg",
+         "alt": "When I Woke Up I Became a Bagel Girl",
+         "type": "ONA",
+         "title": "When I Woke Up I Became a Bagel Girl",
+         "japanese_title": "Eoneu Nal Jameseo Kkaeeoboni Bagelyeoga Doeeo Isseotda",
+         "sub": "15"
+      },
+      {
+         "url": "https://animesugetv.to/watch/how-not-to-summon-a-demon-lord-o-w3vfu/ep-10",
+         "data_tip": "5813",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8f3b248223c972b90a15688537e36053.jpg",
+         "alt": "How Not to Summon a Demon Lord \u03a9",
+         "type": "TV",
+         "title": "How Not to Summon a Demon Lord \u03a9",
+         "japanese_title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu \u03a9",
+         "sub": "10",
+         "dub": "10"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dr-stone-stone-wars-yvphy/ep-11",
+         "data_tip": "5781",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/61d7f06300f4ca0d8db04cd3fb9524b7.jpg",
+         "alt": "Dr. Stone: Stone Wars",
+         "type": "TV",
+         "title": "Dr. Stone: Stone Wars",
+         "japanese_title": "Dr. Stone: Stone Wars",
+         "sub": "11",
+         "dub": "11"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-last-summoner-57q8n/ep-12",
+         "data_tip": "5754",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a917404283deb8050c873826f79e9ab3.jpg",
+         "alt": "The Last Summoner",
+         "type": "ONA",
+         "title": "The Last Summoner",
+         "japanese_title": "Zuihou de Zhaohuan Shi",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/stand-my-heroes-piece-of-truth-yjrfs/ep-12",
+         "data_tip": "5335",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3aebd7ebf0a16b198f660deb9a46e54e.jpg",
+         "alt": "Stand My Heroes: Piece of Truth",
+         "type": "TV",
+         "title": "Stand My Heroes: Piece of Truth",
+         "japanese_title": "Stand My Heroes: Piece of Truth",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/majokko-club-yoningumi-a-kuukan-kara-no-alien-x-8h9o1/ep-1",
+         "data_tip": "5304",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/82505ac27c70c0480c514ac6ae012f91.jpg",
+         "alt": "Majokko Club Yoningumi: A Kuukan kara no Alien X",
+         "type": "OVA",
+         "title": "Majokko Club Yoningumi: A Kuukan kara no Alien X",
+         "japanese_title": "Majokko Club Yoningumi: A Kuukan kara no Alien X",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-million-year-trip-bander-book-kafmc/ep-1",
+         "data_tip": "5303",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a0f35c9a41eb8043591ea342b5def17e.jpg",
+         "alt": "One-Million Year Trip: Bander Book",
+         "type": "SPECIAL",
+         "title": "One-Million Year Trip: Bander Book",
+         "japanese_title": "100-man-nen Chikyuu no Tabi: Bander Book",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/bloodivores-vdukk/ep-12",
+         "data_tip": "5287",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/53077000a93ea3e58e1cec79958db684.jpg",
+         "alt": "Bloodivores",
+         "type": "TV",
+         "title": "Bloodivores",
+         "japanese_title": "Bloodivores",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-room-second-season-special-qj2zh/ep-1",
+         "data_tip": "5280",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/ccb112fd262ac83f6827c018f5cac465.jpg",
+         "alt": "One Room Second Season Special",
+         "type": "SPECIAL",
+         "title": "One Room Second Season Special",
+         "japanese_title": "One Room Second Season Special",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-room-fcurj/ep-12",
+         "data_tip": "5233",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b7c9846544417b7adaeb1190712cdcb4.jpg",
+         "alt": "One Room",
+         "type": "TV",
+         "title": "One Room",
+         "japanese_title": "One Room",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/queen-s-blade-inheritor-of-the-throne-specials-hnjyi/ep-6",
+         "data_tip": "5203",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4d4ce49cfa503eafa8cb3310a7a87925.jpg",
+         "alt": "Queen's Blade: Inheritor of the Throne Specials",
+         "type": "SPECIAL",
+         "title": "Queen's Blade: Inheritor of the Throne Specials",
+         "japanese_title": "Queen's Blade: Gyokuza wo Tsugu Mono Specials",
+         "sub": "6"
+      },
+      {
+         "url": "https://animesugetv.to/watch/009-1-6izea/ep-12",
+         "data_tip": "5188",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3cb71cdfad7874c5223c16f15e732421.jpg",
+         "alt": "009-1",
+         "type": "TV",
+         "title": "009-1",
+         "japanese_title": "009-1",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-room-second-season-n5lao/ep-12",
+         "data_tip": "5150",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/743e4a10f3613e7dda65e9e3c16e3d26.jpg",
+         "alt": "One Room Second Season",
+         "type": "TV",
+         "title": "One Room Second Season",
+         "japanese_title": "One Room Second Season",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ar-tonelico-sekai-no-owari-de-utai-tsuzukeru-shoujo-l3sl9/ep-1",
+         "data_tip": "5095",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4ec04221e59cdfb4632709a74fc9803e.jpg",
+         "alt": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
+         "type": "OVA",
+         "title": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
+         "japanese_title": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/futari-ecchi-2014-oszbo/ep-3",
+         "data_tip": "5056",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b6becfd3db1f5e08bddd1bede4d66a3c.jpg",
+         "alt": "Futari Ecchi (2014)",
+         "type": "OVA",
+         "title": "Futari Ecchi (2014)",
+         "japanese_title": "Futari Ecchi (2014)",
+         "sub": "3"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-room-third-season-2ddnm/ep-12",
+         "data_tip": "4982",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/14f2be76eee4a497ad81a5039425ff06.jpg",
+         "alt": "One Room Third Season",
+         "type": "TV",
+         "title": "One Room Third Season",
+         "japanese_title": "One Room Third Season",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/clione-no-akari-1thsc/ep-12",
+         "data_tip": "4900",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4dc915c437dc4ed3a17a692ad6b3fe1f.jpg",
+         "alt": "Clione no Akari",
+         "type": "TV",
+         "title": "Clione no Akari",
+         "japanese_title": "Clione no Akari",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/shironeko-project-zero-chronicle-kor7v/ep-12",
+         "data_tip": "4864",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/834a5d5bd5ea4ceaa4dda5ae402d4901.jpg",
+         "alt": "Shironeko Project ZERO CHRONICLE",
+         "type": "TV",
+         "title": "Shironeko Project ZERO CHRONICLE",
+         "japanese_title": "Shironeko Project: Zero Chronicle",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/cutie-honey-universe-4byyh/ep-12",
+         "data_tip": "4834",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4e66646f547b16ae47907f56a41d3db5.jpg",
+         "alt": "Cutie Honey Universe",
+         "type": "TV",
+         "title": "Cutie Honey Universe",
+         "japanese_title": "Cutie Honey Universe",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/keitai-shoujo-vs3kj/ep-6",
+         "data_tip": "4799",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/eee0b4b3530d41a232b949455e26a1da.jpg",
+         "alt": "Keitai Shoujo",
+         "type": "ONA",
+         "title": "Keitai Shoujo",
+         "japanese_title": "Keitai Shoujo",
+         "sub": "6"
+      },
+      {
+         "url": "https://animesugetv.to/watch/my-sister-my-writer-dwxn5/ep-10",
+         "data_tip": "4773",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/bc3b62d6f32ec221bbfd4ca11c9e5d53.jpg",
+         "alt": "My Sister, My Writer",
+         "type": "TV",
+         "title": "My Sister, My Writer",
+         "japanese_title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai",
+         "sub": "10"
+      },
+      {
+         "url": "https://animesugetv.to/watch/barom-one-pf03k/ep-13",
+         "data_tip": "4770",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/cd6ffd4ecbe99d4481fdf415b4bdfa34.jpg",
+         "alt": "Barom One",
+         "type": "TV",
+         "title": "Barom One",
+         "japanese_title": "Barom One",
+         "sub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-kagayaku-kisetsu-e-mzzvz/ep-4",
+         "data_tip": "4765",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8dab354ed34192f59ddae22050f565e8.jpg",
+         "alt": "One: Kagayaku Kisetsu e",
+         "type": "OVA",
+         "title": "One: Kagayaku Kisetsu e",
+         "japanese_title": "One: Kagayaku Kisetsu e",
+         "sub": "4"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ichigeki-sacchuu-hoihoi-san-axobp/ep-1",
+         "data_tip": "4753",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/6c146ac1b14091dc8e9e458ae175b940.jpg",
+         "alt": "Ichigeki Sacchuu!! Hoihoi-san",
+         "type": "OVA",
+         "title": "Ichigeki Sacchuu!! Hoihoi-san",
+         "japanese_title": "Ichigeki Sacchuu!! Hoihoi-san",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/fight-iczer-1-ug0bz/ep-3",
+         "data_tip": "4692",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/cba253596adcfd4187598ccc26909051.jpg",
+         "alt": "Fight!! Iczer-1",
+         "type": "OVA",
+         "title": "Fight!! Iczer-1",
+         "japanese_title": "Tatakae!! Iczer-1",
+         "sub": "3",
+         "dub": "3"
+      },
+      {
+         "url": "https://animesugetv.to/watch/minna-atsumare-falcom-gakuen-edgge/ep-13",
+         "data_tip": "4659",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/81bb03f35d4ca1c2058eb05778c66655.jpg",
+         "alt": "Minna Atsumare! Falcom Gakuen",
+         "type": "TV",
+         "title": "Minna Atsumare! Falcom Gakuen",
+         "japanese_title": "Minna Atsumare! Falcom Gakuen",
+         "sub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ba-la-la-xiao-mo-xian-zhi-caihong-xin-shi-ezyhd/ep-36",
+         "data_tip": "4652",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/7a2395a8c9daad29c2c493eaa34c0e6d.jpg",
+         "alt": "Ba La La Xiao Mo Xian Zhi: Caihong Xin Shi",
+         "type": "TV",
+         "title": "Ba La La Xiao Mo Xian Zhi: Caihong Xin Shi",
+         "japanese_title": "Ba La La Xiao Mo Xian Zhi: Caihong Xin Shi",
+         "sub": "36"
+      },
+      {
+         "url": "https://animesugetv.to/watch/honey-x-honey-drops-cfyxb/ep-2",
+         "data_tip": "4623",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d01d93a6409e7431e6cc9111111f056e.jpg",
+         "alt": "Honey x Honey Drops",
+         "type": "OVA",
+         "title": "Honey x Honey Drops",
+         "japanese_title": "Mitsu x Mitsu Drops",
+         "sub": "2"
+      },
+      {
+         "url": "https://animesugetv.to/watch/hakone-chan-awkeu/ep-13",
+         "data_tip": "4566",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/0d2ba05328650971b46a1faea7174278.jpg",
+         "alt": "Hakone-chan",
+         "type": "TV",
+         "title": "Hakone-chan",
+         "japanese_title": "Onsen Yousei Hakone-chan",
+         "sub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/fairy-gone-ncjpl/ep-12",
+         "data_tip": "4554",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a0015519636eb12abd7e0348d17a3de7.jpg",
+         "alt": "Fairy Gone",
+         "type": "TV",
+         "title": "Fairy Gone",
+         "japanese_title": "Fairy Gone",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/minna-agechau-zhokx/ep-1",
+         "data_tip": "4552",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/0017e8ed39cd001eaa86220a2d0a9638.jpg",
+         "alt": "Minna Agechau\u2661",
+         "type": "OVA",
+         "title": "Minna Agechau\u2661",
+         "japanese_title": "Minna Agechau\u2661",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/to-the-abandoned-sacred-beasts-oalu9/ep-12",
+         "data_tip": "4387",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/201eadf2331f22da6d386744129f333b.jpg",
+         "alt": "To the Abandoned Sacred Beasts",
+         "type": "TV",
+         "title": "To the Abandoned Sacred Beasts",
+         "japanese_title": "Katsute Kami Datta Kemono-tachi e",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/fairy-gone-season-1-part-2-uyi61/ep-12",
+         "data_tip": "4373",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/1b1730d089cb956cbac1eee7783e9759.jpg",
+         "alt": "Fairy gone Season 1 Part 2",
+         "type": "TV",
+         "title": "Fairy gone Season 1 Part 2",
+         "japanese_title": "Fairy Gone 2nd Season",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/sky-of-connection-rzxcu/ep-12",
+         "data_tip": "4361",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8380af552adcb0f577802a9d6611152c.jpg",
+         "alt": "Sky of Connection",
+         "type": "TV",
+         "title": "Sky of Connection",
+         "japanese_title": "Yosuga no Sora: In Solitude, Where We Are Least Alone.",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ryu-the-primitive-boy-ga1mo/ep-22",
+         "data_tip": "4352",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/802e023ba1fb9cf8a440715e93e68eb2.jpg",
+         "alt": "Ryu the Primitive Boy",
+         "type": "TV",
+         "title": "Ryu the Primitive Boy",
+         "japanese_title": "Genshi Shounen Ryuu",
+         "sub": "22"
+      },
+      {
+         "url": "https://animesugetv.to/watch/in-another-world-with-my-smartphone-njsyl/ep-12",
+         "data_tip": "4347",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/948037c2ba3806e3a36d1480348ddca9.jpg",
+         "alt": "In Another World With My Smartphone",
+         "type": "TV",
+         "title": "In Another World With My Smartphone",
+         "japanese_title": "Isekai wa Smartphone to Tomo ni.",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/oneechan-ga-kita-wnkec/ep-12",
+         "data_tip": "4315",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/0ccf9ff3e8c4bcacf3d5607631314e16.jpg",
+         "alt": "Oneechan ga Kita",
+         "type": "TV",
+         "title": "Oneechan ga Kita",
+         "japanese_title": "Oneechan ga Kita",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/blessing-of-the-campanella-rhyjz/ep-12",
+         "data_tip": "4300",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/643e2582b3abc244062c5b18fa0d118c.jpg",
+         "alt": "Blessing of the Campanella",
+         "type": "TV",
+         "title": "Blessing of the Campanella",
+         "japanese_title": "Shukufuku no Campanella",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/009-1-r-b-mqqcs/ep-1",
+         "data_tip": "4281",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d8cf7735a70766edfbb1c857d49b09a4.jpg",
+         "alt": "009-1: R&amp;B",
+         "type": "SPECIAL",
+         "title": "009-1: R&amp;B",
+         "japanese_title": "009-1: R&amp;B",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/utawarerumono-ova-picture-drama-zggin/ep-3",
+         "data_tip": "4277",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8ca65e993ce72467ae488b373ca3967b.jpg",
+         "alt": "Utawarerumono OVA Picture Drama",
+         "type": "SPECIAL",
+         "title": "Utawarerumono OVA Picture Drama",
+         "japanese_title": "Utawarerumono OVA Picture Drama",
+         "sub": "3"
+      },
+      {
+         "url": "https://animesugetv.to/watch/gurazeni-money-pitch-ydzme/ep-12",
+         "data_tip": "4228",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b3ba10742ef50cf2fdbc3ae142f104e0.jpg",
+         "alt": "Gurazeni: Money Pitch",
+         "type": "TV",
+         "title": "Gurazeni: Money Pitch",
+         "japanese_title": "Gurazeni",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/hitorigurashi-no-shougakusei-lupia/ep-10",
+         "data_tip": "4163",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/ebc29cab3c49077f836794a0c2328b9e.jpg",
+         "alt": "Hitorigurashi no Shougakusei",
+         "type": "ONA",
+         "title": "Hitorigurashi no Shougakusei",
+         "japanese_title": "Hitorigurashi no Shougakusei",
+         "sub": "10"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-pound-gospel-ee4ec/ep-1",
+         "data_tip": "4133",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/32514cc081a1b871c62a8ff18a6d290a.jpg",
+         "alt": "One Pound Gospel",
+         "type": "OVA",
+         "title": "One Pound Gospel",
+         "japanese_title": "One Pound Gospel",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/power-stone-qm3hk/ep-26",
+         "data_tip": "4132",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/96645fa9f6abe9045027edd1a1b6620d.jpg",
+         "alt": "Power Stone",
+         "type": "TV",
+         "title": "Power Stone",
+         "japanese_title": "Power Stone",
+         "sub": "26",
+         "dub": "26"
+      },
+      {
+         "url": "https://animesugetv.to/watch/shounan-bakusouzoku-nmmdm/ep-12",
+         "data_tip": "4128",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f920b32ac9949ffc6c143c0016aa44d8.jpg",
+         "alt": "Shounan Bakusouzoku",
+         "type": "OVA",
+         "title": "Shounan Bakusouzoku",
+         "japanese_title": "Shounan Bakusouzoku",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dog-days-limone-resort-tenbou-onsen-tw0fb/ep-1",
+         "data_tip": "4108",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/39145d75e0455db7c207095807388538.jpg",
+         "alt": "Dog Days'': Limone Resort Tenbou Onsen!",
+         "type": "SPECIAL",
+         "title": "Dog Days'': Limone Resort Tenbou Onsen!",
+         "japanese_title": "Dog Days'': Limone Resort Tenbou Onsen!",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/queen-s-blade-inheritor-of-the-throne-4fwnv/ep-12",
+         "data_tip": "4066",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/7333ba014c2484f8d7e98033d63c6918.jpg",
+         "alt": "Queen's Blade: Inheritor of the Throne",
+         "type": "TV",
+         "title": "Queen's Blade: Inheritor of the Throne",
+         "japanese_title": "Queen's Blade: Gyokuza wo Tsugu Mono",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/saber-marionette-r-6ubto/ep-3",
+         "data_tip": "3983",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/6e2d66b793b72dac44c35f70b0aa0066.jpg",
+         "alt": "Saber Marionette R",
+         "type": "OVA",
+         "title": "Saber Marionette R",
+         "japanese_title": "Saber Marionette R",
+         "sub": "3",
+         "dub": "3"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ex-driver-nina-rei-danger-zone-jwqdl/ep-1",
+         "data_tip": "3934",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8e3e535db32c40add047f454a99bd616.jpg",
+         "alt": "eX-Driver: Nina &amp; Rei Danger Zone",
+         "type": "OVA",
+         "title": "eX-Driver: Nina &amp; Rei Danger Zone",
+         "japanese_title": "eX-Driver: Nina &amp; Rei Danger Zone",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/puppet-princess-y32fb/ep-1",
+         "data_tip": "3932",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e24e9f1278fe22503bcb4ab6e4fa95a5.jpg",
+         "alt": "Puppet Princess",
+         "type": "OVA",
+         "title": "Puppet Princess",
+         "japanese_title": "Karakuri no Kimi",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/cutey-honey-f-q2ney/ep-39",
+         "data_tip": "3926",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/ef27591ca5d678c6662b888cdca40295.jpg",
+         "alt": "Cutey Honey F",
+         "type": "TV",
+         "title": "Cutey Honey F",
+         "japanese_title": "Cutey Honey F",
+         "sub": "39"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-off-hma5n/ep-2",
+         "data_tip": "3883",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/ec54d54ed842316425a305aec3a95e39.jpg",
+         "alt": "One Off",
+         "type": "OVA",
+         "title": "One Off",
+         "japanese_title": "One Off",
+         "sub": "2"
+      },
+      {
+         "url": "https://animesugetv.to/watch/shin-cutey-honey-krddv/ep-8",
+         "data_tip": "3782",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3f9a6a12560d2f48440a2d477786019f.jpg",
+         "alt": "Shin Cutey Honey",
+         "type": "OVA",
+         "title": "Shin Cutey Honey",
+         "japanese_title": "Shin Cutey Honey",
+         "sub": "8"
+      },
+      {
+         "url": "https://animesugetv.to/watch/bayonetta-bloody-fate-y8wfn/ep-1",
+         "data_tip": "3777",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/5f6c97c189ff6d5f445a7c1da024e30d.jpg",
+         "alt": "Bayonetta: Bloody Fate",
+         "type": "MOVIE",
+         "title": "Bayonetta: Bloody Fate",
+         "japanese_title": "Bayonetta: Bloody Fate",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/angel-s-3piece-noyaz/ep-12",
+         "data_tip": "3696",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/2073932fa4aed6239ecb4eb94efee46f.jpg",
+         "alt": "Angel's 3Piece!",
+         "type": "TV",
+         "title": "Angel's 3Piece!",
+         "japanese_title": "Tenshi no 3P!",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/isshuukan-friends-specials-wgv3d/ep-12",
+         "data_tip": "3646",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/6c86e76a49fdf158732e5a75cbbcda73.jpg",
+         "alt": "Isshuukan Friends. Specials",
+         "type": "SPECIAL",
+         "title": "Isshuukan Friends. Specials",
+         "japanese_title": "Isshuukan Friends. Specials",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/crayon-shin-chan-movie-27-dangerous-honeymoon-the-lost-daddy-w4gep/ep-1",
+         "data_tip": "3641",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/cb3ecfa158d84bc30fe551dff6f14b2a.jpg",
+         "alt": "Crayon Shin-chan Movie 27: Dangerous Honeymoon - The Lost Daddy",
+         "type": "MOVIE",
+         "title": "Crayon Shin-chan Movie 27: Dangerous Honeymoon - The Lost Daddy",
+         "japanese_title": "Crayon Shin-chan Movie 27: Shinkon Ryokou Hurricane - Ushinawareta Hiroshi",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-solid-state-society-3d-tachikomatic-days-sfnra/ep-3",
+         "data_tip": "3635",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/2a4fd034d0ce7a315adc0493101f0d9f.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex: Solid State Society 3D: Tachikomatic Days",
+         "type": "SPECIAL",
+         "title": "Ghost in the Shell: Stand Alone Complex: Solid State Society 3D: Tachikomatic Days",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D - Tachikoma na Hibi",
+         "sub": "3"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dragon-ball-z-dead-zone-4d3kg/ep-1",
+         "data_tip": "3602",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/c8e99d3890528e9c7e81589db71fa8cd.jpg",
+         "alt": "Dragon Ball Z: Dead Zone",
+         "type": "MOVIE",
+         "title": "Dragon Ball Z: Dead Zone",
+         "japanese_title": "Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-punch-man-2nd-season-commemorative-special-cra29/ep-1",
+         "data_tip": "3584",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d2980949001f919dced6f4912004890e.jpg",
+         "alt": "One Punch Man 2nd Season Commemorative Special",
+         "type": "SPECIAL",
+         "title": "One Punch Man 2nd Season Commemorative Special",
+         "japanese_title": "One Punch Man 2nd Season Commemorative Special",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/hi-no-tori-2772-ai-no-cosmozone-aqiyu/ep-1",
+         "data_tip": "3562",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/2869de26fa0941dd976acbdcd4482f91.jpg",
+         "alt": "Hi no Tori 2772: Ai no CosmoZone",
+         "type": "MOVIE",
+         "title": "Hi no Tori 2772: Ai no CosmoZone",
+         "japanese_title": "Hi no Tori 2772: Ai no CosmoZone",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/nakaimo-my-little-sister-is-among-them-gkpm8/ep-12",
+         "data_tip": "3559",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/7a37887704243f05435cfebc46ad049c.jpg",
+         "alt": "NAKAIMO - My Little Sister Is Among Them!",
+         "type": "TV",
+         "title": "NAKAIMO - My Little Sister Is Among Them!",
+         "japanese_title": "Kono Naka ni Hitori, Imouto ga Iru!",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/nakanohito-genome-jikkyouchuu-knots-of-memories-atehf/ep-1",
+         "data_tip": "3536",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/dec47f6bb0457a5b9d9fd6ac2b0f9cb4.jpg",
+         "alt": "Nakanohito Genome [Jikkyouchuu]: Knots of Memories",
+         "type": "OVA",
+         "title": "Nakanohito Genome [Jikkyouchuu]: Knots of Memories",
+         "japanese_title": "Nakanohito Genome [Jikkyouchuu]: Knots of Memories",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/koukaku-kidoutai-sac-2045-2evz8/ep-12",
+         "data_tip": "3491",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/c9bfa8c142f5bc666de060ab568413c6.jpg",
+         "alt": "Koukaku Kidoutai: SAC_2045",
+         "type": "ONA",
+         "title": "Koukaku Kidoutai: SAC_2045",
+         "japanese_title": "Koukaku Kidoutai: SAC_2045",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/kono-naka-ni-hitori-imouto-ga-iru-ani-imouto-koibito-zgnx8/ep-1",
+         "data_tip": "3460",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/06c36ad00eef5fac1846529ccc104784.jpg",
+         "alt": "Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito",
+         "type": "OVA",
+         "title": "Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito",
+         "japanese_title": "Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikomatic-days-6admg/ep-1",
+         "data_tip": "3459",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d72f61f8d90a5543a21df83af316ba8a.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikomatic Days",
+         "type": "SPECIAL",
+         "title": "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikomatic Days",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man - Tachikoma na Hibi",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/baka-to-test-to-shoukanjuu-mini-anime-zr4ir/ep-1",
+         "data_tip": "3418",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/06b15f15daf520a2a676c50c719d6756.jpg",
+         "alt": "Baka to Test to Shoukanjuu Mini Anime",
+         "type": "SPECIAL",
+         "title": "Baka to Test to Shoukanjuu Mini Anime",
+         "japanese_title": "Baka to Test to Shoukanjuu Mini Anime",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-outcast-3rd-season-stqjc/ep-8",
+         "data_tip": "3406",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b9a68bad706c172f42c12957078a63bf.jpg",
+         "alt": "The Outcast 3rd Season",
+         "type": "ONA",
+         "title": "The Outcast 3rd Season",
+         "japanese_title": "Hitori no Shita: The Outcast 3rd Season",
+         "sub": "8"
+      },
+      {
+         "url": "https://animesugetv.to/watch/chi-s-sweet-adventure-geuo2/ep-51",
+         "data_tip": "3402",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/cb8eb3d47a0c5f6c9d169d37f934dc3d.jpg",
+         "alt": "Chi's Sweet Adventure",
+         "type": "TV",
+         "title": "Chi's Sweet Adventure",
+         "japanese_title": "Koneko no Chi: Ponponra Daibouken",
+         "sub": "51",
+         "dub": "51"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-galaxy-railways-a-letter-from-the-abandoned-planet-akxml/ep-4",
+         "data_tip": "3397",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/1f14d8786579d34ec7159c5eae34de36.jpg",
+         "alt": "The Galaxy Railways: A Letter from the Abandoned Planet",
+         "type": "OVA",
+         "title": "The Galaxy Railways: A Letter from the Abandoned Planet",
+         "japanese_title": "Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei",
+         "sub": "4"
+      },
+      {
+         "url": "https://animesugetv.to/watch/attack-no-1-zxpv3/ep-104",
+         "data_tip": "3387",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/0b8aa7b114b01b525f158b5a89fdf291.jpg",
+         "alt": "Attack No.1",
+         "type": "TV",
+         "title": "Attack No.1",
+         "japanese_title": "Attack No.1",
+         "sub": "104"
+      },
+      {
+         "url": "https://animesugetv.to/watch/galactic-cyclone-braiger-afapb/ep-39",
+         "data_tip": "3347",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/53c68413ed79a300a3e0e8a4451008f5.jpg",
+         "alt": "Galactic Cyclone Braiger",
+         "type": "TV",
+         "title": "Galactic Cyclone Braiger",
+         "japanese_title": "Ginga Senpuu Braiger",
+         "sub": "39"
+      },
+      {
+         "url": "https://animesugetv.to/watch/majin-bone-d7dzf/ep-52",
+         "data_tip": "3340",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/bb75f5f051f785f76818236cc73611d8.jpg",
+         "alt": "Majin Bone",
+         "type": "TV",
+         "title": "Majin Bone",
+         "japanese_title": "Majin Bone",
+         "sub": "52"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ninja-scroll-the-series-lsfak/ep-13",
+         "data_tip": "3305",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/86c8b494b1e90898fa300fcc2c7cbec1.jpg",
+         "alt": "Ninja Scroll: The Series",
+         "type": "TV",
+         "title": "Ninja Scroll: The Series",
+         "japanese_title": "Juubee Ninpuuchou: Ryuuhougyoku-hen",
+         "sub": "13",
+         "dub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/mobile-suit-gundam-ms-igloo-the-hidden-one-year-war-9wniw/ep-3",
+         "data_tip": "3300",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f5fa42ab092fa248d97cf81adeec592c.jpg",
+         "alt": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+         "type": "OVA",
+         "title": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+         "japanese_title": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+         "sub": "3"
+      },
+      {
+         "url": "https://animesugetv.to/watch/is-infinite-stratos-2-long-vacation-edition-the-memories-of-one-summer-zt9mw/ep-1",
+         "data_tip": "3253",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/2d10cf58ad5ab8c250a49af633da7d5c.jpg",
+         "alt": "IS: Infinite Stratos 2: Long Vacation Edition - The Memories of One Summer",
+         "type": "OVA",
+         "title": "IS: Infinite Stratos 2: Long Vacation Edition - The Memories of One Summer",
+         "japanese_title": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-solid-state-society-uchikomatic-days-aohct/ep-1",
+         "data_tip": "3237",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b2fcd5dbb7bfe20c6ff948ee5eba2eaa.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex - Solid State Society: Uchikomatic Days",
+         "type": "SPECIAL",
+         "title": "Ghost in the Shell: Stand Alone Complex - Solid State Society: Uchikomatic Days",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society - Uchikoma na Hibi",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-ova5-naruto-the-genie-and-the-three-wishes-bs0sa/ep-1",
+         "data_tip": "3142",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/57935a347fb4328e0132c76afdd85822.jpg",
+         "alt": "Naruto OVA5: Naruto, The Genie, and The Three Wishes!!",
+         "type": "OVA",
+         "title": "Naruto OVA5: Naruto, The Genie, and The Three Wishes!!",
+         "japanese_title": "Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-tachikomatic-days-6kps0/ep-1",
+         "data_tip": "3132",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/35f25a2a42bbf84d69ea1ec20b33a11c.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikomatic Days",
+         "type": "SPECIAL",
+         "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikomatic Days",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma na Hibi",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-ones-within-xlxx0/ep-12",
+         "data_tip": "3118",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3147745151f3c6fe2a4e792ddb2bc5f2.jpg",
+         "alt": "The Ones Within",
+         "type": "TV",
+         "title": "The Ones Within",
+         "japanese_title": "Nakanohito Genome [Jikkyouchuu]",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-ryuo-s-work-is-never-done-2yeeg/ep-12",
+         "data_tip": "3067",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/6b7d68d2394f9bd5146363df00348d4e.jpg",
+         "alt": "The Ryuo's Work is Never Done!",
+         "type": "TV",
+         "title": "The Ryuo's Work is Never Done!",
+         "japanese_title": "Ryuuou no Oshigoto!",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/raw-onegai-samia-don-1beb5/ep-39",
+         "data_tip": "3064",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b8db907d185dcc1d520372f6e286e480.jpg",
+         "alt": "[RAW] Onegai! Samia Don",
+         "type": "TV",
+         "title": "[RAW] Onegai! Samia Don",
+         "japanese_title": "[RAW] Onegai! Samia Don",
+         "sub": "39"
+      },
+      {
+         "url": "https://animesugetv.to/watch/how-not-to-summon-a-demon-lord-oysxr/ep-12",
+         "data_tip": "3014",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/602788d6d75532e17432d7feb780afa7.jpg",
+         "alt": "How Not to Summon a Demon Lord",
+         "type": "TV",
+         "title": "How Not to Summon a Demon Lord",
+         "japanese_title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/anemone-eureka-seven-hi-evolution-ost3b/ep-1",
+         "data_tip": "2996",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4be08b055fae4616ee5d6154d38e0d60.jpg",
+         "alt": "Anemone: Eureka Seven Hi-Evolution",
+         "type": "MOVIE",
+         "title": "Anemone: Eureka Seven Hi-Evolution",
+         "japanese_title": "Koukyoushihen Eureka Seven Hi-Evolution 2: Anemone",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/megazone-23-wsylh/ep-4",
+         "data_tip": "2992",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b8ed1e1fc3ae8100e83bf58f9ee70e05.jpg",
+         "alt": "Megazone 23",
+         "type": "OVA",
+         "title": "Megazone 23",
+         "japanese_title": "Megazone 23",
+         "sub": "4",
+         "dub": "4"
+      },
+      {
+         "url": "https://animesugetv.to/watch/caramel-honey-woftk/ep-30",
+         "data_tip": "2931",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/709b7e9fcc226f224fdc3d0b638109d2.jpg",
+         "alt": "Caramel Honey",
+         "type": "ONA",
+         "title": "Caramel Honey",
+         "japanese_title": "Caramel Honey",
+         "sub": "30"
+      },
+      {
+         "url": "https://animesugetv.to/watch/lupin-iii-the-secret-of-mamo-2mbis/ep-1",
+         "data_tip": "2921",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f7e753a970e25b43d787734c413b7ab0.jpg",
+         "alt": "Lupin III: The Secret of Mamo",
+         "type": "MOVIE",
+         "title": "Lupin III: The Secret of Mamo",
+         "japanese_title": "Lupin III: Lupin vs. Fukusei-ningen",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-the-movie-2-legend-of-the-stone-of-gelel-bn385/ep-1",
+         "data_tip": "2840",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/111f06edfffba5f46f5cac05db2a6bce.jpg",
+         "alt": "Naruto the Movie 2: Legend of the Stone of Gelel",
+         "type": "MOVIE",
+         "title": "Naruto the Movie 2: Legend of the Stone of Gelel",
+         "japanese_title": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/please-twins-2iity/ep-13",
+         "data_tip": "2837",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a8912357f87bba05fa88641f911e5492.jpg",
+         "alt": "Please Twins",
+         "type": "TV",
+         "title": "Please Twins",
+         "japanese_title": "Onegai\u2606Twins",
+         "sub": "13",
+         "dub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/armored-trooper-votoms-alone-again-phzgz/ep-1",
+         "data_tip": "2819",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/baa7866a4d0fccaae022530b1287f2c4.jpg",
+         "alt": "Armored Trooper Votoms: Alone Again",
+         "type": "OVA",
+         "title": "Armored Trooper Votoms: Alone Again",
+         "japanese_title": "Soukou Kihei Votoms: Koei Futatabi",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/onegai-my-melody-uhxgg/ep-52",
+         "data_tip": "2688",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/41fec9f059339da7ac60bfa8a84759bc.jpg",
+         "alt": "Onegai My Melody",
+         "type": "TV",
+         "title": "Onegai My Melody",
+         "japanese_title": "Onegai My Melody",
+         "sub": "52"
+      },
+      {
+         "url": "https://animesugetv.to/watch/more-ojamajo-doremi-secret-of-the-frog-stone-t0std/ep-1",
+         "data_tip": "2680",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/85ad8e681868b780ad973ae8694bc46e.jpg",
+         "alt": "More! Ojamajo Doremi: Secret of the Frog Stone",
+         "type": "MOVIE",
+         "title": "More! Ojamajo Doremi: Secret of the Frog Stone",
+         "japanese_title": "Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/mr-tonegawa-middle-management-blues-ajat5/ep-24",
+         "data_tip": "2623",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/899a761c7b83db34d750d0446723b2c2.jpg",
+         "alt": "Mr. Tonegawa: Middle Management Blues",
+         "type": "TV",
+         "title": "Mr. Tonegawa: Middle Management Blues",
+         "japanese_title": "Chuukan Kanriroku Tonegawa",
+         "sub": "24",
+         "dub": "24"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-tachikomatic-days-qaij7/ep-26",
+         "data_tip": "2600",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d358499e5a37ced8cc7ec59120a99116.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+         "type": "SPECIAL",
+         "title": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi",
+         "sub": "26",
+         "dub": "26"
+      },
+      {
+         "url": "https://animesugetv.to/watch/lupin-iii-missed-by-a-dollar-ydwqi/ep-1",
+         "data_tip": "2549",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/692ab482a820ac5b0395f6e7bb0d57cf.jpg",
+         "alt": "Lupin III: Missed by a Dollar",
+         "type": "SPECIAL",
+         "title": "Lupin III: Missed by a Dollar",
+         "japanese_title": "Lupin III: $1 Money Wars",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/code-geass-akito-the-exiled-to-beloved-ones-ftag3/ep-1",
+         "data_tip": "2490",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d4489400a9e3cd986299f0f12cec3055.jpg",
+         "alt": "Code Geass: Akito the Exiled - To Beloved Ones",
+         "type": "MOVIE",
+         "title": "Code Geass: Akito the Exiled - To Beloved Ones",
+         "japanese_title": "Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/inazuma-eleven-go-chrono-stone-7omcx/ep-51",
+         "data_tip": "2464",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/7bb6dcfe63cee1f8e84b8c5fd721bf22.jpg",
+         "alt": "Inazuma Eleven Go: Chrono Stone",
+         "type": "TV",
+         "title": "Inazuma Eleven Go: Chrono Stone",
+         "japanese_title": "Inazuma Eleven Go: Chrono Stone",
+         "sub": "51"
+      },
+      {
+         "url": "https://animesugetv.to/watch/please-teacher-pkqev/ep-13",
+         "data_tip": "2429",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/812d14f02a6eac1db788ca8f4824e9a1.jpg",
+         "alt": "Please Teacher!",
+         "type": "TV",
+         "title": "Please Teacher!",
+         "japanese_title": "Onegai\u2606Teacher",
+         "sub": "13",
+         "dub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/onegai-my-melody-kuru-kuru-shuffle-pmjxw/ep-52",
+         "data_tip": "2430",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/110fc7d188686879eff0c6581d57cbb3.jpg",
+         "alt": "Onegai My Melody: Kuru Kuru Shuffle!",
+         "type": "TV",
+         "title": "Onegai My Melody: Kuru Kuru Shuffle!",
+         "japanese_title": "Onegai My Melody: Kuru Kuru Shuffle!",
+         "sub": "52"
+      },
+      {
+         "url": "https://animesugetv.to/watch/pokemon-the-movie-21-the-power-of-us-yeyki/ep-1",
+         "data_tip": "2427",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/9478a06edaa549c548c26331eaf07899.jpg",
+         "alt": "Pok\u00e9mon the Movie 21: The Power of Us",
+         "type": "MOVIE",
+         "title": "Pok\u00e9mon the Movie 21: The Power of Us",
+         "japanese_title": "Pokemon Movie 21: Minna no Monogatari",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/re-cutey-honey-dddgb/ep-3",
+         "data_tip": "2402",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8b7a4d1c351436162f933b8a56e4d891.jpg",
+         "alt": "Re: Cutey Honey",
+         "type": "OVA",
+         "title": "Re: Cutey Honey",
+         "japanese_title": "Re: Cutey Honey",
+         "sub": "3"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikomatic-days-eqoaj/ep-26",
+         "data_tip": "2381",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/0936abf1199746726f926836d6b2f997.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikomatic Days",
+         "type": "SPECIAL",
+         "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikomatic Days",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Tachikoma na Hibi",
+         "sub": "26",
+         "dub": "26"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-moment-you-fall-in-love-jhuqz/ep-1",
+         "data_tip": "2374",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4f9e8282c8ce202fb4cb2b82d79cdf10.jpg",
+         "alt": "The Moment You Fall in Love",
+         "type": "MOVIE",
+         "title": "The Moment You Fall in Love",
+         "japanese_title": "Suki ni Naru Sono Shunkan wo.: Kokuhaku Jikkou Iinkai",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/i-ve-always-liked-you-picture-drama-special-n3hew/ep-1",
+         "data_tip": "2372",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b4fe3cf6c5b0b9bff21a10ae0c0ebc53.jpg",
+         "alt": "I've Always Liked You Picture Drama Special",
+         "type": "SPECIAL",
+         "title": "I've Always Liked You Picture Drama Special",
+         "japanese_title": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai - Kinyoubi no Ohayou",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/beautiful-bones-sakurako-s-investigation-i6qod/ep-12",
+         "data_tip": "2211",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a2df07dc598d49a412f6360abc612747.jpg",
+         "alt": "Beautiful Bones -Sakurako's Investigation-",
+         "type": "TV",
+         "title": "Beautiful Bones -Sakurako's Investigation-",
+         "japanese_title": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/i-ve-always-liked-you-y25es/ep-1",
+         "data_tip": "2208",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d8619fae1a5ffbe5de50c686c3080b5f.jpg",
+         "alt": "I've Always Liked You",
+         "type": "MOVIE",
+         "title": "I've Always Liked You",
+         "japanese_title": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/raw-grimm-s-fairy-tale-classics-tbdjc/ep-23",
+         "data_tip": "2166",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/97c8bdb5f7468ef802cdba7d2cd33835.jpg",
+         "alt": "[RAW] Grimm's Fairy Tale Classics",
+         "type": "TV",
+         "title": "[RAW] Grimm's Fairy Tale Classics",
+         "japanese_title": "[RAW] Grimm Masterpiece Theater II",
+         "sub": "23"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-seven-deadly-sins-the-movie-1-prisoners-of-the-sky-vlssi/ep-1",
+         "data_tip": "2159",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b0f56f98ac39a66cade8cc27da75e923.jpg",
+         "alt": "The Seven Deadly Sins the Movie 1: Prisoners of the Sky",
+         "type": "MOVIE",
+         "title": "The Seven Deadly Sins the Movie 1: Prisoners of the Sky",
+         "japanese_title": "Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/shonen-maid-ubpuh/ep-12",
+         "data_tip": "2144",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8609e5e2f7c55244960b8e88f6318fa9.jpg",
+         "alt": "Shonen Maid",
+         "type": "TV",
+         "title": "Shonen Maid",
+         "japanese_title": "Shounen Maid",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-tachikomatic-days-wvf67/ep-1",
+         "data_tip": "2130",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4528a4c06420ad3d60abaa159df29fca.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+         "type": "TV",
+         "title": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi (TV)",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dragon-nest-throne-of-elves-keqpi/ep-1",
+         "data_tip": "2112",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3ae7a10c0b5299666a47c3f2713a415a.jpg",
+         "alt": "Dragon Nest: Throne of Elves",
+         "type": "MOVIE",
+         "title": "Dragon Nest: Throne of Elves",
+         "japanese_title": "Long Zhi Gu: Jingling Wangzuo",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/saber-marionette-j-to-x-lixv7/ep-26",
+         "data_tip": "2088",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a071f642ec354c4547677dad2ecb0239.jpg",
+         "alt": "Saber Marionette J to X",
+         "type": "TV",
+         "title": "Saber Marionette J to X",
+         "japanese_title": "Saber Marionette J to X",
+         "sub": "26",
+         "dub": "26"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-punch-man-2nd-season-specials-jwhmc/ep-6",
+         "data_tip": "2033",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a7a33a567ef4d244b12b6050fa7865ff.jpg",
+         "alt": "One Punch Man 2nd Season Specials",
+         "type": "SPECIAL",
+         "title": "One Punch Man 2nd Season Specials",
+         "japanese_title": "One Punch Man 2nd Season Specials",
+         "sub": "6",
+         "dub": "6"
+      },
+      {
+         "url": "https://animesugetv.to/watch/c-control-the-money-and-soul-of-possibility-g5cwn/ep-11",
+         "data_tip": "2002",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/1de5554400a5f340abab357df43abd10.jpg",
+         "alt": "[C] CONTROL - The Money and Soul of Possibility",
+         "type": "TV",
+         "title": "[C] CONTROL - The Money and Soul of Possibility",
+         "japanese_title": "C: The Money of Soul and Possibility Control",
+         "sub": "11",
+         "dub": "11"
+      },
+      {
+         "url": "https://animesugetv.to/watch/raw-grimm-s-fairy-tale-classics-zuqrm/ep-24",
+         "data_tip": "2000",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/43806da63e265af8e818e12f81767400.jpg",
+         "alt": "[RAW] Grimm's Fairy Tale Classics",
+         "type": "TV",
+         "title": "[RAW] Grimm's Fairy Tale Classics",
+         "japanese_title": "[RAW] Grimm Meisaku Gekijou",
+         "sub": "24"
+      },
+      {
+         "url": "https://animesugetv.to/watch/oresuki-are-you-the-only-one-who-loves-me-ulan2/ep-12",
+         "data_tip": "1960",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b338ebdb328ded1b4d0725589c96acd1.jpg",
+         "alt": "ORESUKI Are you the only one who loves me?",
+         "type": "TV",
+         "title": "ORESUKI Are you the only one who loves me?",
+         "japanese_title": "Ore wo Suki nano wa Omae dake ka yo",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-punch-man-2nd-season-oq6cd/ep-12",
+         "data_tip": "1947",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/c50314f1aa980665c1316d36952d4446.jpg",
+         "alt": "One Punch Man 2nd Season",
+         "type": "TV",
+         "title": "One Punch Man 2nd Season",
+         "japanese_title": "One Punch Man 2nd Season",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/someone-s-gaze-kimvj/ep-1",
+         "data_tip": "1932",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/71ff5466993c143c0a146f959e1b7e6d.jpg",
+         "alt": "Someone's Gaze",
+         "type": "MOVIE",
+         "title": "Someone's Gaze",
+         "japanese_title": "Dareka no Manazashi",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dragon-pilot-hisone-and-masotan-p5xqx/ep-12",
+         "data_tip": "1882",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3f7f5ba3be5bd24802b86bd2d8bb0671.jpg",
+         "alt": "Dragon Pilot: Hisone and Masotan",
+         "type": "TV",
+         "title": "Dragon Pilot: Hisone and Masotan",
+         "japanese_title": "Hisone to Maso-tan",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/pokemon-the-movie-02-the-movie-2000-the-power-of-one-p0nfp/ep-1",
+         "data_tip": "1861",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/1d04dc09e43aee4a5c0567b8f718b767.jpg",
+         "alt": "Pokemon The Movie 02: The Movie 2000 - The Power of One",
+         "type": "MOVIE",
+         "title": "Pokemon The Movie 02: The Movie 2000 - The Power of One",
+         "japanese_title": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ranma-1-2-team-ranma-vs-the-legendary-phoenix-ipl3u/ep-1",
+         "data_tip": "1834",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/42473588dbdc809cf795c5a8cc037da0.jpg",
+         "alt": "Ranma \u00bd: Team Ranma vs. The Legendary Phoenix",
+         "type": "MOVIE",
+         "title": "Ranma \u00bd: Team Ranma vs. The Legendary Phoenix",
+         "japanese_title": "Ranma \u00bd: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/saber-marionette-j-again-q6mpi/ep-6",
+         "data_tip": "1784",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/89e1558bf654d518121366f4f757feec.jpg",
+         "alt": "Saber Marionette J Again",
+         "type": "OVA",
+         "title": "Saber Marionette J Again",
+         "japanese_title": "Saber Marionette J Again",
+         "sub": "6",
+         "dub": "6"
+      },
+      {
+         "url": "https://animesugetv.to/watch/utawarerumono-ova-xbc6s/ep-3",
+         "data_tip": "1779",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/154a4c3224e34a142e692ade6610b1a4.jpg",
+         "alt": "Utawarerumono OVA",
+         "type": "OVA",
+         "title": "Utawarerumono OVA",
+         "japanese_title": "Utawarerumono OVA",
+         "sub": "3"
+      },
+      {
+         "url": "https://animesugetv.to/watch/donten-laughing-under-the-clouds-gaiden-chapter-1-one-year-after-the-battle-iftja/ep-1",
+         "data_tip": "1755",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/0103379ad8379c46bb45aa39254dc3a2.jpg",
+         "alt": "Donten: Laughing Under the Clouds - Gaiden: Chapter 1 - One Year After the Battle",
+         "type": "MOVIE",
+         "title": "Donten: Laughing Under the Clouds - Gaiden: Chapter 1 - One Year After the Battle",
+         "japanese_title": "Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/baka-test-summon-the-beasts-spinout-specials-ovlhp/ep-9",
+         "data_tip": "1752",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e2d9f321fdb7ff655ab9db6c0fd598c9.jpg",
+         "alt": "Baka &amp; Test - Summon the Beasts: Spinout! Specials",
+         "type": "SPECIAL",
+         "title": "Baka &amp; Test - Summon the Beasts: Spinout! Specials",
+         "japanese_title": "Baka to Test to Shoukanjuu: Spinout! Sore ga Bokura no Nichijou",
+         "sub": "9"
+      },
+      {
+         "url": "https://animesugetv.to/watch/grave-of-the-fireflies-xn4vs/ep-1",
+         "data_tip": "1646",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/9d5b6cad13eb8756a3e16ef40626c5a1.jpg",
+         "alt": "Grave of the Fireflies",
+         "type": "MOVIE",
+         "title": "Grave of the Fireflies",
+         "japanese_title": "Hotaru no Haka",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/mob-psycho-100-dxslo/ep-12",
+         "data_tip": "1641",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3f20ed9108a583429fd687f986a617e0.jpg",
+         "alt": "Mob Psycho 100",
+         "type": "TV",
+         "title": "Mob Psycho 100",
+         "japanese_title": "Mob Psycho 100",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-cueue/ep-26",
+         "data_tip": "1626",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b9b5d7aa68642642fc2f1eba2c22a8e9.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex",
+         "type": "TV",
+         "title": "Ghost in the Shell: Stand Alone Complex",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex",
+         "sub": "26",
+         "dub": "26"
+      },
+      {
+         "url": "https://animesugetv.to/watch/campione-azy49/ep-13",
+         "data_tip": "1621",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e0e181d726052f107d8fa67919401ed5.jpg",
+         "alt": "Campione!",
+         "type": "TV",
+         "title": "Campione!",
+         "japanese_title": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+         "sub": "13",
+         "dub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-punch-man-jylym/ep-12",
+         "data_tip": "1607",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f5d173f8317f592c6c70d594829b89e4.jpg",
+         "alt": "One Punch Man",
+         "type": "TV",
+         "title": "One Punch Man",
+         "japanese_title": "One Punch Man",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-2nd-gig-gxq2b/ep-26",
+         "data_tip": "1588",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/6da7e0ae359ff50e394d4984ed694c6a.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+         "type": "TV",
+         "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+         "sub": "26",
+         "dub": "26"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-the-laughing-man-vx45q/ep-1",
+         "data_tip": "1515",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4be62fe2ed33ae4bc36368621599aee8.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
+         "type": "SPECIAL",
+         "title": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-solid-state-society-idi3d/ep-1",
+         "data_tip": "1483",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8fef67e354e6b1825930541f7d1682b4.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
+         "type": "SPECIAL",
+         "title": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-outs-r391e/ep-25",
+         "data_tip": "1436",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3f21879470d60ca0068fe2ef742a0e67.jpg",
+         "alt": "One Outs",
+         "type": "TV",
+         "title": "One Outs",
+         "japanese_title": "One Outs",
+         "sub": "25"
+      },
+      {
+         "url": "https://animesugetv.to/watch/dr-stone-uenxt/ep-24",
+         "data_tip": "1432",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/2ddf88c9249745b681a0c61711f4d240.jpg",
+         "alt": "Dr. Stone",
+         "type": "TV",
+         "title": "Dr. Stone",
+         "japanese_title": "Dr. Stone",
+         "sub": "24",
+         "dub": "24"
+      },
+      {
+         "url": "https://animesugetv.to/watch/natsume-yuujinchou-itsuka-yuki-no-hi-ni-da2yl/ep-1",
+         "data_tip": "1428",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/ff00d3fb7d088392dc147521a9438121.jpg",
+         "alt": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+         "type": "OVA",
+         "title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+         "japanese_title": "Natsume Yuujinchou: Itsuka Yuki no Hi ni",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/natsume-yuujinchou-go-specials-u6mzv/ep-2",
+         "data_tip": "1412",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/c86b9ed99fd0a98778545151e8a1ac07.jpg",
+         "alt": "Natsume Yuujinchou Go Specials",
+         "type": "SPECIAL",
+         "title": "Natsume Yuujinchou Go Specials",
+         "japanese_title": "Natsume Yuujinchou Go Specials",
+         "sub": "2"
+      },
+      {
+         "url": "https://animesugetv.to/watch/honey-and-clover-2-tngz8/ep-12",
+         "data_tip": "1276",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d310499beca5f47810a7974cdbded983.jpg",
+         "alt": "Honey and Clover 2",
+         "type": "TV",
+         "title": "Honey and Clover 2",
+         "japanese_title": "Hachimitsu to Clover II",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-pem9o/ep-1",
+         "data_tip": "1249",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e4b6651c5acc4188dbd03f6a9911ce15.jpg",
+         "alt": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven",
+         "type": "SPECIAL",
+         "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven",
+         "japanese_title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/hanada-shounen-shi-awgvp/ep-25",
+         "data_tip": "1230",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/98827cc55653f3b859246711e7a308ea.jpg",
+         "alt": "Hanada Shounen-shi",
+         "type": "TV",
+         "title": "Hanada Shounen-shi",
+         "japanese_title": "Hanada Shounen-shi",
+         "sub": "25"
+      },
+      {
+         "url": "https://animesugetv.to/watch/honey-and-clover-jgh6z/ep-24",
+         "data_tip": "1217",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/cb5f4adc7d7d7530b6d0bc921dec5dd2.jpg",
+         "alt": "Honey and Clover",
+         "type": "TV",
+         "title": "Honey and Clover",
+         "japanese_title": "Hachimitsu to Clover",
+         "sub": "24",
+         "dub": "24"
+      },
+      {
+         "url": "https://animesugetv.to/watch/evangelion-1-0-you-are-not-alone-kkzdm/ep-1",
+         "data_tip": "1157",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/417b1d0c5ad84200d68cc2335d20cc80.jpg",
+         "alt": "Evangelion: 1.0 You Are (Not) Alone",
+         "type": "MOVIE",
+         "title": "Evangelion: 1.0 You Are (Not) Alone",
+         "japanese_title": "Evangelion: 1.0 You Are (Not) Alone",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/hell-girl-two-mirrors-zdhkh/ep-26",
+         "data_tip": "1119",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/bd269d05c5ba78f868e4cfc6929da15d.jpg",
+         "alt": "Hell Girl: Two Mirrors",
+         "type": "TV",
+         "title": "Hell Girl: Two Mirrors",
+         "japanese_title": "Jigoku Shoujo Futakomori",
+         "sub": "26"
+      },
+      {
+         "url": "https://animesugetv.to/watch/detective-conan-zero-the-enforcer-wgwsv/ep-1",
+         "data_tip": "1056",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/64621332a32a4e02dd7d01ff403c12b6.jpg",
+         "alt": "Detective Conan: Zero the Enforcer",
+         "type": "MOVIE",
+         "title": "Detective Conan: Zero the Enforcer",
+         "japanese_title": "Detective Conan Movie 22: Zero the Enforcer",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/lupin-iii-jigen-s-gravestone-urpi9/ep-2",
+         "data_tip": "1038",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b90c841154120662175e5a0093447d59.jpg",
+         "alt": "Lupin III: Jigen's Gravestone",
+         "type": "MOVIE",
+         "title": "Lupin III: Jigen's Gravestone",
+         "japanese_title": "Lupin the IIIrd: Jigen Daisuke no Bohyou",
+         "sub": "2",
+         "dub": "2"
+      },
+      {
+         "url": "https://animesugetv.to/watch/hidamari-sketch-x-honeycomb-dy5vt/ep-12",
+         "data_tip": "933",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b14c84248b4dce077e1a42f5fb126284.jpg",
+         "alt": "Hidamari Sketch x Honeycomb",
+         "type": "TV",
+         "title": "Hidamari Sketch x Honeycomb",
+         "japanese_title": "Hidamari Sketch x Honeycomb",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-punch-man-specials-7os6b/ep-6",
+         "data_tip": "873",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/095dbd73ccb0506e0e7ce16021df0924.jpg",
+         "alt": "One Punch Man Specials",
+         "type": "SPECIAL",
+         "title": "One Punch Man Specials",
+         "japanese_title": "One Punch Man Specials",
+         "sub": "6",
+         "dub": "6"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-punch-man-road-to-hero-ytdtt/ep-1",
+         "data_tip": "872",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e27bc0dad2fef6b65fd502cdcd47d7e0.jpg",
+         "alt": "One Punch Man: Road to Hero",
+         "type": "OVA",
+         "title": "One Punch Man: Road to Hero",
+         "japanese_title": "One Punch Man: Road to Hero",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/hanasakeru-seishounen-gcbyv/ep-39",
+         "data_tip": "840",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a36aea7ebfc7ca3edf68bee07812db64.jpg",
+         "alt": "Hanasakeru Seishounen",
+         "type": "TV",
+         "title": "Hanasakeru Seishounen",
+         "japanese_title": "Hanasakeru Seishounen",
+         "sub": "39"
+      },
+      {
+         "url": "https://animesugetv.to/watch/baka-test-summon-the-beasts-2-uyykv/ep-13",
+         "data_tip": "791",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/4fa604539e67d862d83d82ae3417c5ea.jpg",
+         "alt": "Baka &amp; Test \u2013 Summon the Beasts 2",
+         "type": "TV",
+         "title": "Baka &amp; Test \u2013 Summon the Beasts 2",
+         "japanese_title": "Baka to Test to Shoukanjuu Ni!",
+         "sub": "13",
+         "dub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/kuroko-no-basket-mou-ikkai-yarimasen-ka-in3wu/ep-1",
+         "data_tip": "771",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/fc7c23c7519f961c612ec59801ebe7d8.jpg",
+         "alt": "Kuroko no Basket: Mou Ikkai Yarimasen ka",
+         "type": "SPECIAL",
+         "title": "Kuroko no Basket: Mou Ikkai Yarimasen ka",
+         "japanese_title": "Kuroko no Basket: Mou Ikkai Yarimasen ka",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/utawarerumono-xqrey/ep-26",
+         "data_tip": "758",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/cc4c6088e75644a6b2bed3fa77a704e7.jpg",
+         "alt": "Utawarerumono",
+         "type": "TV",
+         "title": "Utawarerumono",
+         "japanese_title": "Utawarerumono",
+         "sub": "26",
+         "dub": "26"
+      },
+      {
+         "url": "https://animesugetv.to/watch/xam-d-lost-memories-f6imh/ep-26",
+         "data_tip": "751",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/c9e23a999576cfda2fa8933d5cfc3abf.jpg",
+         "alt": "Xam'd: Lost Memories",
+         "type": "ONA",
+         "title": "Xam'd: Lost Memories",
+         "japanese_title": "Bounen no Xamdou",
+         "sub": "26",
+         "dub": "26"
+      },
+      {
+         "url": "https://animesugetv.to/watch/chivalry-of-a-failed-knight-x7zgz/ep-12",
+         "data_tip": "692",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b130f28a525b81efe19bc1f55fb351da.jpg",
+         "alt": "Chivalry of a Failed Knight",
+         "type": "TV",
+         "title": "Chivalry of a Failed Knight",
+         "japanese_title": "Rakudai Kishi no Cavalry",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-week-friends-epk9r/ep-12",
+         "data_tip": "674",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b8ac45e9ea43793f1cefa574224bd4d4.jpg",
+         "alt": "One Week Friends",
+         "type": "TV",
+         "title": "One Week Friends",
+         "japanese_title": "Isshuukan Friends.",
+         "sub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/you-re-being-summoned-azazel-t7slo/ep-13",
+         "data_tip": "552",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/3fef66749927dc5c7852ae8ac182348c.jpg",
+         "alt": "You're Being Summoned, Azazel",
+         "type": "TV",
+         "title": "You're Being Summoned, Azazel",
+         "japanese_title": "Yondemasu yo, Azazel-san. (TV)",
+         "sub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/baka-test-summon-the-beasts-hdrsa/ep-13",
+         "data_tip": "444",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e482f96af57358e7c2a1dadab9f79b2f.jpg",
+         "alt": "Baka &amp; Test - Summon the Beasts",
+         "type": "TV",
+         "title": "Baka &amp; Test - Summon the Beasts",
+         "japanese_title": "Baka to Test to Shoukanjuu",
+         "sub": "13",
+         "dub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/baka-test-summon-the-beasts-ova-matsuri-c4vdq/ep-2",
+         "data_tip": "403",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/9c0da1af64662cad7f168c27f0daf4bc.jpg",
+         "alt": "Baka &amp; Test - Summon the Beasts OVA: Matsuri",
+         "type": "OVA",
+         "title": "Baka &amp; Test - Summon the Beasts OVA: Matsuri",
+         "japanese_title": "Baka to Test to Shoukanjuu: Matsuri",
+         "sub": "2"
+      },
+      {
+         "url": "https://animesugetv.to/watch/baka-test-summon-the-beasts-specials-54utu/ep-7",
+         "data_tip": "373",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/e65fc1442894247d59dbeb93c13325e8.jpg",
+         "alt": "Baka &amp; Test - Summon the Beasts: Specials",
+         "type": "SPECIAL",
+         "title": "Baka &amp; Test - Summon the Beasts: Specials",
+         "japanese_title": "Baka to Test to Shoukanjuu Specials",
+         "sub": "7"
+      },
+      {
+         "url": "https://animesugetv.to/watch/saiyuki-requiem-m86pg/ep-1",
+         "data_tip": "345",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/809c1f45add77b4b163bf764ead5fd91.jpg",
+         "alt": "Saiyuki: Requiem",
+         "type": "MOVIE",
+         "title": "Saiyuki: Requiem",
+         "japanese_title": "Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/saber-marionette-j-z1t6b/ep-25",
+         "data_tip": "329",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f4d39a91a615be85c0dae74799ebbce2.jpg",
+         "alt": "Saber Marionette J",
+         "type": "TV",
+         "title": "Saber Marionette J",
+         "japanese_title": "Saber Marionette J",
+         "sub": "25",
+         "dub": "25"
+      },
+      {
+         "url": "https://animesugetv.to/watch/shimoneta-a-boring-world-where-the-concept-of-dirty-jokes-doesn-t-exist-pb2qg/ep-12",
+         "data_tip": "327",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8ddea188767aa58614d0ec70ee5bf823.jpg",
+         "alt": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist",
+         "type": "TV",
+         "title": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist",
+         "japanese_title": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+         "sub": "12",
+         "dub": "12"
+      },
+      {
+         "url": "https://animesugetv.to/watch/you-re-being-summoned-azazel-z-f697m/ep-13",
+         "data_tip": "321",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/20bc6ae7ed324dd8f6009ded3f554714.jpg",
+         "alt": "You're Being Summoned, Azazel Z",
+         "type": "TV",
+         "title": "You're Being Summoned, Azazel Z",
+         "japanese_title": "Yondemasu yo, Azazel-san. Z",
+         "sub": "13"
+      },
+      {
+         "url": "https://animesugetv.to/watch/utawarerumono-specials-wb8j2/ep-4",
+         "data_tip": "227",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d11c463710ad49f1040536e31e0d2eea.jpg",
+         "alt": "Utawarerumono Specials",
+         "type": "SPECIAL",
+         "title": "Utawarerumono Specials",
+         "japanese_title": "Utawarerumono Specials",
+         "sub": "4"
+      },
+      {
+         "url": "https://animesugetv.to/watch/persona-4-the-animation-no-one-is-alone-1nx6z/ep-1",
+         "data_tip": "166",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b99ad2f30abc70f3a6153e7a264b28f7.jpg",
+         "alt": "Persona 4 the Animation: No One is Alone",
+         "type": "SPECIAL",
+         "title": "Persona 4 the Animation: No One is Alone",
+         "japanese_title": "Persona 4 the Animation: No One is Alone",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/ghost-in-the-shell-arise-border-4-ghost-stands-alone-unyce/ep-1",
+         "data_tip": "123",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/9fbd296e171ae4981c99a9a5f2f1d75a.jpg",
+         "alt": "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone",
+         "type": "MOVIE",
+         "title": "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone",
+         "japanese_title": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/mob-psycho-100-ii-qigow/ep-13",
+         "data_tip": "52",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/488e740746ded4e21aa9737ed2a68008.jpg",
+         "alt": "Mob Psycho 100 II",
+         "type": "TV",
+         "title": "Mob Psycho 100 II",
+         "japanese_title": "Mob Psycho 100 II",
+         "sub": "13",
+         "dub": "13"
+      }
+   ],
+   "last_page": 10
+}

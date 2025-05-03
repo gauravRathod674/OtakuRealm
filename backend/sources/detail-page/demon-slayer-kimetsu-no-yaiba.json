@@ -1,0 +1,475 @@
+{
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "poster": "https://img.flawlessfiles.com/_r/300x400/100/30/df/30df93feaa422101659e14d0a2a2f582/30df93feaa422101659e14d0a2a2f582.jpg",
+    "background": "https://img.flawlessfiles.com/_r/300x400/100/30/df/30df93feaa422101659e14d0a2a2f582/30df93feaa422101659e14d0a2a2f582.jpg",
+    "description": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.\n\n\n\nWhen he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sister's humanity.\n\n\n\n[Written by MAL Rewrite]",
+    "film_stats": {
+        "rating": "R",
+        "quality": "HD",
+        "subtitles": "26",
+        "dubbing": "26",
+        "type": "TV",
+        "runtime": "23m"
+    },
+    "japanese_title": "鬼滅の刃",
+    "synonyms": [
+        "Blade of Demon Destruction"
+    ],
+    "aired": "Apr 6, 2019 to Sep 28, 2019",
+    "premiered": "Spring 2019",
+    "duration": "23m",
+    "status": "Finished Airing",
+    "score": "8.57",
+    "studios": [
+        "ufotable"
+    ],
+    "producers": [
+        "Aniplex",
+        "Shueisha",
+        "ufotable",
+        "Aniplex of America"
+    ],
+    "genres": [
+        "Action",
+        "Demons",
+        "Historical",
+        "Shounen",
+        "Supernatural"
+    ],
+    "characters": [
+        {
+            "character": "Agatsuma, Zenitsu",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/30/7f/307fb5ea13f88da2fe9d997f8f3ada4b/307fb5ea13f88da2fe9d997f8f3ada4b.jpg",
+            "role": "Main",
+            "voice_actor": "Shimono, Hiro",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/9f/3d/9f3d8de1d0339c9ba323e32448a0d029/9f3d8de1d0339c9ba323e32448a0d029.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Hashibira, Inosuke",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/24/5a/245a02e172df5fd3bc3ccd3f791fdc31/245a02e172df5fd3bc3ccd3f791fdc31.jpg",
+            "role": "Main",
+            "voice_actor": "Matsuoka, Yoshitsugu",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/3d/11/3d118bf7fd4328db615386b7305dc872/3d118bf7fd4328db615386b7305dc872.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Kamado, Nezuko",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/08/17/0817b2acd31ffc3d05b13b351f9c34ce/0817b2acd31ffc3d05b13b351f9c34ce.jpg",
+            "role": "Main",
+            "voice_actor": "Kitou, Akari",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/94/17/941780b2b005e94c65acb60be93523cd/941780b2b005e94c65acb60be93523cd.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Kamado, Tanjirou",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/90/45/9045478533b53d2d2293ab0636359ad5/9045478533b53d2d2293ab0636359ad5.jpg",
+            "role": "Main",
+            "voice_actor": "Hanae, Natsuki",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/fa/9e/fa9ebf26a5c7453f6759eb5421cbfcc2/fa9ebf26a5c7453f6759eb5421cbfcc2.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Enmu",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/2e/52/2e52e6ae4097733261a8c63fea76fc12/2e52e6ae4097733261a8c63fea76fc12.jpg",
+            "role": "Supporting",
+            "voice_actor": "Hirakawa, Daisuke",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/8b/b0/8bb074cfe9bbca6aa2af398fad7cef2a/8bb074cfe9bbca6aa2af398fad7cef2a.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Father Spider Demon",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/bd/18/bd180b445c3d55366a39b01949ac1775/bd180b445c3d55366a39b01949ac1775.jpg",
+            "role": "Supporting",
+            "voice_actor": "Inada, Tetsu",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/b1/6a/b16afba78b8bf4eed8cceaea12862040/b16afba78b8bf4eed8cceaea12862040.jpg",
+            "nationality": "Japanese"
+        }
+    ],
+    "trailers": [
+        {
+            "title": "PV 3 Aniplex USA version",
+            "video_url": "https://www.youtube.com/embed/6vMuWuWlW4I",
+            "thumbnail": "https://i.ytimg.com/vi/6vMuWuWlW4I/hqdefault.jpg"
+        },
+        {
+            "title": "PV 3",
+            "video_url": "https://www.youtube.com/embed/T3IOMbB68DI",
+            "thumbnail": "https://i.ytimg.com/vi/T3IOMbB68DI/hqdefault.jpg"
+        },
+        {
+            "title": "PV 2",
+            "video_url": "https://www.youtube.com/embed/evAOrdt-0M4",
+            "thumbnail": "https://i.ytimg.com/vi/evAOrdt-0M4/hqdefault.jpg"
+        },
+        {
+            "title": "PV 1 Aniplex USA version",
+            "video_url": "https://www.youtube.com/embed/VQGCKyvzIM4",
+            "thumbnail": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg"
+        },
+        {
+            "title": "PV 1",
+            "video_url": "https://www.youtube.com/embed/BpiILiEZuF4",
+            "thumbnail": "https://i.ytimg.com/vi/BpiILiEZuF4/hqdefault.jpg"
+        },
+        {
+            "title": "Kyoudai no Kizuna (eps 1-5) Movie Screening Trailer",
+            "video_url": "https://www.youtube.com/embed/Xarp0o1UYeo",
+            "thumbnail": "https://i.ytimg.com/vi/Xarp0o1UYeo/hqdefault.jpg"
+        },
+        {
+            "title": "CM",
+            "video_url": "https://www.youtube.com/embed/xM9rvJP52m0",
+            "thumbnail": "https://i.ytimg.com/vi/xM9rvJP52m0/hqdefault.jpg"
+        },
+        {
+            "title": "Announcement",
+            "video_url": "https://www.youtube.com/embed/j6coxXGu6mM",
+            "thumbnail": "https://i.ytimg.com/vi/j6coxXGu6mM/hqdefault.jpg"
+        }
+    ],
+    "more_seasons": [
+        {
+            "title": "Season 1",
+            "url": "/demon-slayer-kimetsu-no-yaiba-47",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/30/df/30df93feaa422101659e14d0a2a2f582/30df93feaa422101659e14d0a2a2f582.jpg"
+        },
+        {
+            "title": "The Movie: Mugen Train",
+            "url": "/kimetsu-no-yaiba-movie-mugen-ressha-hen-15763",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/ab/45/ab45afa989aa5a2e06ef973c8482b015/ab45afa989aa5a2e06ef973c8482b015.jpg"
+        },
+        {
+            "title": "Mugen Train (TV Ver.)",
+            "url": "/the-demon-slayer-kimetsu-no-yaiba-mugen-train-arc-tv-17914",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/50/93/509332a350ed6508359b8fc2201d916d/509332a350ed6508359b8fc2201d916d.jpg"
+        },
+        {
+            "title": "Season 2: Entertainment District",
+            "url": "/demon-slayer-entertainment-district-arc-17483",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/3e/13/3e13d0ab2ce8799c9da8ed59548b96e9/3e13d0ab2ce8799c9da8ed59548b96e9.jpg"
+        },
+        {
+            "title": "Season 3: Swordsmith Village Arc",
+            "url": "/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/db/2f/db2f3ce7b9cab7fdc160b005bffb899a/db2f3ce7b9cab7fdc160b005bffb899a.png"
+        },
+        {
+            "title": "Season 4: Hashira Training Arc",
+            "url": "/demon-slayer-kimetsu-no-yaiba-hashira-training-arc-19107",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/1f/06/1f06eb0baf5520aa639b546fc189400d/1f06eb0baf5520aa639b546fc189400d.jpg"
+        }
+    ],
+    "related_anime": [
+        {
+            "title": "Demon Slayer Movie: Mugen Train",
+            "url": "/kimetsu-no-yaiba-movie-mugen-ressha-hen-15763",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ab/45/ab45afa989aa5a2e06ef973c8482b015/ab45afa989aa5a2e06ef973c8482b015.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "Kimetsu Academy: Valentine Edition",
+            "url": "/kimetsu-academy-valentine-edition-17495",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/9e/64/9e6432baae78b6b8a2874c696347a3ef/9e6432baae78b6b8a2874c696347a3ef.jpg",
+            "subtitles": "4",
+            "dubbing": "4",
+            "episodes": "4",
+            "type": "ONA"
+        }
+    ],
+    "most_popular_anime": [
+        {
+            "title": "Attack on Titan",
+            "url": "/attack-on-titan-112",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/de/bf/debf027d032c6d40b91fab16b2ff9bd4/debf027d032c6d40b91fab16b2ff9bd4.jpg",
+            "subtitles": "25",
+            "dubbing": "25",
+            "episodes": "25",
+            "type": "TV"
+        },
+        {
+            "title": "Death Note",
+            "url": "/death-note-60",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5e/61/5e61f3e7c0045e46b670d31a5bb39c68/5e61f3e7c0045e46b670d31a5bb39c68.jpg",
+            "subtitles": "37",
+            "dubbing": "37",
+            "episodes": "37",
+            "type": "TV"
+        },
+        {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "url": "/fullmetal-alchemist-brotherhood-1",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/0d/2d/0d2d0a1d4276e7e2595702dc4cebbda9/0d2d0a1d4276e7e2595702dc4cebbda9.jpeg",
+            "subtitles": "64",
+            "dubbing": "64",
+            "episodes": "64",
+            "type": "TV"
+        },
+        {
+            "title": "One Punch Man",
+            "url": "/one-punch-man-63",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f5/d1/f5d173f8317f592c6c70d594829b89e4/f5d173f8317f592c6c70d594829b89e4.jpg",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV"
+        },
+        {
+            "title": "Demon Slayer: Kimetsu no Yaiba",
+            "url": "/demon-slayer-kimetsu-no-yaiba-47",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/30/df/30df93feaa422101659e14d0a2a2f582/30df93feaa422101659e14d0a2a2f582.jpg",
+            "subtitles": "26",
+            "dubbing": "26",
+            "episodes": "26",
+            "type": "TV"
+        },
+        {
+            "title": "Sword Art Online",
+            "url": "/sword-art-online-2274",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/90/dc/90dca175561e61180622bc79218104cb/90dca175561e61180622bc79218104cb.jpg",
+            "subtitles": "25",
+            "dubbing": "25",
+            "episodes": "25",
+            "type": "TV"
+        },
+        {
+            "title": "My Hero Academia",
+            "url": "/my-hero-academia-322",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/d1/ae/d1ae1f3d3324e24dfdfa64e4c2e687f8/d1ae1f3d3324e24dfdfa64e4c2e687f8.jpg",
+            "subtitles": "13",
+            "dubbing": "13",
+            "episodes": "13",
+            "type": "TV"
+        },
+        {
+            "title": "Hunter x Hunter",
+            "url": "/hunter-x-hunter-2",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/99/3c/993c0361975cce4c7fbb11f8558f9664/993c0361975cce4c7fbb11f8558f9664.jpg",
+            "subtitles": "148",
+            "dubbing": "148",
+            "episodes": "148",
+            "type": "TV"
+        },
+        {
+            "title": "Naruto",
+            "url": "/naruto-677",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5d/b4/5db400c33f7494bc8ae96f9e634958d0/5db400c33f7494bc8ae96f9e634958d0.jpg",
+            "subtitles": "220",
+            "dubbing": "220",
+            "episodes": "220",
+            "type": "TV"
+        },
+        {
+            "title": "Tokyo Ghoul",
+            "url": "/tokyo-ghoul-790",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a6/ff/a6ffd8294e7a5d540d7c462e94400189/a6ffd8294e7a5d540d7c462e94400189.jpg",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV"
+        }
+    ],
+    "recommended_anime": [
+        {
+            "title": "No. 6",
+            "url": "/no-6-1293",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/b9/0b/b90b440892775dc743660936641c9f1e/b90b440892775dc743660936641c9f1e.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Re:CREATORS",
+            "url": "/recreators-1296",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/2a/db/2adb0c3af7a233b2d569ce8a85184987/2adb0c3af7a233b2d569ce8a85184987.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Sword Art Online: Alicization",
+            "url": "/sword-art-online-alicization-1298",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/19/55/19551cc7bfb4b94894014d2802763913/19551cc7bfb4b94894014d2802763913.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Toriko",
+            "url": "/toriko-1300",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/82/f0/82f0ba3df246ee32b51e16e976d074d3/82f0ba3df246ee32b51e16e976d074d3.jpg",
+            "rate": "",
+            "subtitles": "147",
+            "dubbing": "",
+            "episodes": "147",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Little Women II: Jo's Boys",
+            "url": "/little-women-ii-jos-boys-1301",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/11/15/1115e5c8397bbdeebabe2eed533ce8a1/1115e5c8397bbdeebabe2eed533ce8a1.jpg",
+            "rate": "",
+            "subtitles": "40",
+            "dubbing": "",
+            "episodes": "40",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "You're Being Summoned, Azazel Z",
+            "url": "/youre-being-summoned-azazel-z-1302",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/20/bc/20bc6ae7ed324dd8f6009ded3f554714/20bc6ae7ed324dd8f6009ded3f554714.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "12m"
+        },
+        {
+            "title": "Yowamushi Pedal: Glory Line",
+            "url": "/yowamushi-pedal-glory-line-1303",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/82/81/8281be9dfd847249e6d979f1705cad50/8281be9dfd847249e6d979f1705cad50.jpg",
+            "rate": "",
+            "subtitles": "25",
+            "dubbing": "",
+            "episodes": "25",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Ah! My Goddess: Flights of Fancy",
+            "url": "/ah-my-goddess-flights-of-fancy-1304",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ee/e6/eee62d35e988f78a4199429c76074a73/eee62d35e988f78a4199429c76074a73.jpg",
+            "rate": "",
+            "subtitles": "22",
+            "dubbing": "22",
+            "episodes": "22",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Tomorrow's Nadja",
+            "url": "/tomorrows-nadja-1305",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5e/ad/5ead9f2be448d97f005848d286fff3fd/5ead9f2be448d97f005848d286fff3fd.jpg",
+            "rate": "",
+            "subtitles": "50",
+            "dubbing": "",
+            "episodes": "50",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Basilisk",
+            "url": "/basilisk-1307",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/19/1c/191cb6319fff579a08f97a2d9cbb1c33/191cb6319fff579a08f97a2d9cbb1c33.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Elfen Lied",
+            "url": "/elfen-lied-1313",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/89/f9/89f91abd99e05a925a033adeb0b169f4/89f91abd99e05a925a033adeb0b169f4.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "Evangelion: 3.0 You Can (Not) Redo",
+            "url": "/evangelion-30-you-can-not-redo-1314",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a2/4c/a24cdbc8138dfabfdcc4cc38edb31dc0/a24cdbc8138dfabfdcc4cc38edb31dc0.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "96m"
+        },
+        {
+            "title": "Fairy Tail Final Series",
+            "url": "/fairy-tail-final-series-1315",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/3d/87/3d876e1c356745d40d55f5c033626d14/3d876e1c356745d40d55f5c033626d14.jpg",
+            "rate": "",
+            "subtitles": "51",
+            "dubbing": "51",
+            "episodes": "51",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Hetalia: The Beautiful World",
+            "url": "/hetalia-the-beautiful-world-1319",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/db/a4/dba447181e93babeb2151cc1c2569375/dba447181e93babeb2151cc1c2569375.jpg",
+            "rate": "",
+            "subtitles": "20",
+            "dubbing": "20",
+            "episodes": "20",
+            "type": "ONA",
+            "runtime": "5m"
+        },
+        {
+            "title": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+            "url": "/fullmetal-alchemist-the-movie-conqueror-of-shamballa-1316",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/d4/c6/d4c682cf1010fad892ca2f2706869be2/d4c682cf1010fad892ca2f2706869be2.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "105m"
+        },
+        {
+            "title": "GUGURE! KOKKURI-SAN",
+            "url": "/gugure-kokkuri-san-1318",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/02/ac/02ac65e62882525648b87ed426914421/02ac65e62882525648b87ed426914421.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Hetalia: The Beautiful World Specials",
+            "url": "/hetalia-the-beautiful-world-specials-1320",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/b9/c5/b9c5d88c82ba59bcd4de622d1f5dcb1c/b9c5d88c82ba59bcd4de622d1f5dcb1c.jpg",
+            "rate": "",
+            "subtitles": "5",
+            "dubbing": "5",
+            "episodes": "5",
+            "type": "Special",
+            "runtime": "5m"
+        },
+        {
+            "title": "Is this A Zombie? of the Dead",
+            "url": "/is-this-a-zombie-of-the-dead-1323",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/7b/e0/7be0276753ee5c5ae1dd6d36a3d308ce/7be0276753ee5c5ae1dd6d36a3d308ce.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        }
+    ]
+}

@@ -11,31 +11,42 @@ import {
   faGreaterThan,
 } from "@fortawesome/free-solid-svg-icons";
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 
 export default function AnimeDetail() {
   const [animeDetail, setAnimeDetail] = useState(null);
   const [isExpanded, setIsExpanded] = useState(false);
   const [showCount, setShowCount] = useState(5);
+  const [isClient, setIsClient] = useState(false);
 
   const pathname = usePathname();
   const lastPart = pathname.split("/").pop();
   const { slug } = useParams();
-
   useEffect(() => {
-    const pathname = "/" + slug;
-    axios
-      .get(`${process.env.NEXT_PUBLIC_API_URL}/scrape/kaido-detail`, {
-        params: { pathname: `/${lastPart}` }, 
-      })
-      .then((response) => {
-        setAnimeDetail(response.data);
-      })
-      .catch((error) => {
-        console.error("Error fetching anime detail:", error);
-      });
-  }, [slug]);
+    setIsClient(true);
+  }, []);
 
+  // ✅ This useEffect can remain if you plan to do something with lastPart later
+  useEffect(() => {
+    console.log("lastPart changed:", lastPart);
+  }, [lastPart]);
+
+  // ✅ Use lastPart in the second useEffect instead of slug
+  useEffect(() => {
+    if (lastPart) {
+      axios
+        .get(`${process.env.NEXT_PUBLIC_API_URL}/scrape/kaido-detail`, {
+          params: { pathname: `/${lastPart}` }, // Correct param
+        })
+        .then((response) => {
+          setAnimeDetail(response.data);
+        })
+        .catch((error) => {
+          console.error("Error fetching anime detail:", error);
+        });
+    }
+  }, [lastPart]); // ✅ Correct dependency
   if (!animeDetail) return <div>Loading...</div>;
 
   const description = animeDetail.description || "";
@@ -61,12 +72,11 @@ export default function AnimeDetail() {
   };
 
   return (
-    <div className="anime-detail-page relative w-full min-h-screen text-white overflow-hidden">
+    <div className="anime-detail-page relative w-full min-h-screen text-white overflow-hidden mt-10">
       {/* Main container wrapper with background */}
       <div className="main-container relative w-full">
-        {/* Background & overlay for main container */}
+        {/* Background & overlay */}
         <div className="absolute inset-0 z-0">
-          {/* Background image */}
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
@@ -74,143 +84,154 @@ export default function AnimeDetail() {
               opacity: 0.6,
             }}
           />
-          {/* Overlay with tint and blur */}
           <div className="absolute inset-0 bg-black/50 backdrop-blur-[40px]" />
         </div>
 
-        {/* Main content: three columns */}
-        <div className="relative z-10 w-full flex items-stretch gap-3 min-h-[70vh] overflow-hidden px-4 py-10 ml-5">
-          {/* Left Column (15%) */}
-          <div className="w-[15%] flex-shrink-0 mt-10">
-            <img
-              src={animeDetail.poster}
-              alt={animeDetail.title}
-              className="w-full h-auto rounded-md shadow-lg"
-            />
-          </div>
-
-          {/* Center Column (55%) */}
-          <div className="w-[60%] flex flex-col space-y-4 mt-10 ml-10">
-            {/* Breadcrumbs */}
-            <nav className="flex text-gray-300" style={{ gap: "3px" }}>
-              <Link href="/">Home</Link>
-              <span className="ml-2 mr-2">•</span>
-              <Link href={`/${animeDetail.film_stats.type.toLowerCase()}`}>
-                {animeDetail.film_stats.type}
-              </Link>
-              <span className="ml-2 mr-2">•</span>
-              <span>{animeDetail.title}</span>
-            </nav>
-
-            {/* Title */}
-            <h1 className="text-4xl font-bold">{animeDetail.title}</h1>
-
-            {/* Film Stats Badges */}
-            <div className="flex items-center text-sm flex-wrap mt-2">
-              <div className="flex items-center gap-[2px]">
-                {animeDetail.film_stats.rating ? (
-                  <span className="px-2 py-1 bg-white text-black rounded-l-md font-bold text-xs">
-                    {animeDetail.film_stats.rating}
-                  </span>
-                ) : (
-                  ""
-                )}
-
-                {animeDetail.film_stats.quality ? (
-                  <span className="px-2 py-1 bg-white text-black border-l border-white/10 font-bold text-xs">
-                    {animeDetail.film_stats.quality}
-                  </span>
-                ) : (
-                  ""
-                )}
-
-                {animeDetail.film_stats.subtitles ? (
-                  <span className="px-1 py-1 bg-green-300 text-black border-l border-white/10 flex items-center gap-1 text-xs font-bold">
-                    <FontAwesomeIcon
-                      icon={faClosedCaptioning}
-                      className="mr-1"
-                    />
-                    {animeDetail.film_stats.subtitles}
-                  </span>
-                ) : (
-                  ""
-                )}
-
-                {animeDetail.film_stats.dubbing ? (
-                  <span className="px-1 py-1 bg-pink-300 text-black border-l border-white/10 flex items-center gap-1 rounded-r-md text-xs font-bold">
-                    <FontAwesomeIcon icon={faMicrophone} className="mr-1" />
-                    {animeDetail.film_stats.dubbing}
-                  </span>
-                ) : (
-                  ""
-                )}
-              </div>
-              {/* Dot + Type + Dot + Runtime */}
-              <span className="mx-3 h-1 w-1 bg-gray-400 rounded-full inline-block" />
-              <span className="py-1 text-white text-base">
-                {animeDetail.film_stats.type}
-              </span>
-              <span className="mx-3 h-1 w-1 bg-gray-400 rounded-full inline-block" />
-              <span className="py-1 text-white text-base">
-                {animeDetail.film_stats.runtime}
-              </span>
+        {/* Responsive flex layout */}
+        <div className="relative z-10 w-full flex flex-col xl:flex-row items-stretch gap-3 min-h-[70vh] overflow-hidden px-4 py-10 ml-5">
+          {/* Top: Left + Center columns container */}
+          <div className="flex flex-col max-[640px]:items-center sm:flex-row w-full xl:w-[75%] gap-3">
+            {/* Left Column */}
+            <div className="w-full sm:w-[30%] xl:w-[15%] flex-shrink-0 mt-10 max-[640px]:w-[129px] max-[640px]:h-[192px]">
+              <Image
+                src={animeDetail.poster}
+                alt={animeDetail.title}
+                width={0}
+                height={0}
+                sizes="100vw"
+                className="w-full h-auto rounded-md shadow-lg"
+              />
             </div>
 
-            {/* Expandable Description */}
-            <div>
-              <div className="inline-block pr-10">
-                {isExpanded
-                  ? renderDescriptionAsParagraphs(description)
-                  : renderDescriptionAsParagraphs(truncatedDesc)}
-                {description.length > truncateLength && (
-                  <button
-                    onClick={() => setIsExpanded(!isExpanded)}
-                    className="inline text-[#bb5052] cursor-pointer text-sm ml-1"
-                  >
-                    {isExpanded ? "- Less" : "+ More"}
-                  </button>
-                )}
-              </div>
-              <p className="text-gray-200 leading-relaxed mt-4  pr-10">
-                OtakuRealm is the best site to watch {animeDetail.title} SUB
-                online{" "}
-                {animeDetail
-                  ? ", or you can even watch " +
-                    animeDetail.title +
-                    " DUB in HD quality"
-                  : " "}
-                . You can also find {animeDetail.studios} anime on OtakuRealm
-                website.
-              </p>
-            </div>
-
-            {/* Action Buttons */}
-            <div className="flex gap-4 mt-4">
-              <button className="bg-[#BB5052] hover:bg-[#A04345] text-black px-7 py-2 rounded-full font-semibold">
-                <span className="font-bold mr-2">
-                  <FontAwesomeIcon icon={faPlay} />
-                </span>
-                <Link
-                  href={`/watch/${slug}?title=${encodeURIComponent(
-                    animeDetail.title
-                  )}&anime_type=${encodeURIComponent(
-                    animeDetail.film_stats.type
-                  )}`}
-                >
-                  Watch now
+            {/* Center Column */}
+            <div className="w-full sm:w-[70%] xl:w-[75%] flex flex-col max-[640px]:items-center space-y-4 mt-10 ml-0 sm:ml-10">
+              {/* Breadcrumbs */}
+              <nav className="flex text-gray-300 gap-[3px] max-[640]:hidden">
+                <Link href="/">Home</Link>
+                <span className="ml-2 mr-2">•</span>
+                <Link href={`/${animeDetail.film_stats.type.toLowerCase()}`}>
+                  {animeDetail.film_stats.type}
                 </Link>
-              </button>
-              <button className="bg-white text-gray-800 px-7 py-2 rounded-full font-semibold hover:bg-gray-200">
-                <span className="font-extrabold mr-2">
-                  <FontAwesomeIcon icon={faPlus} />
-                </span>
-                <span>Add to List</span>
-              </button>
+                <span className="ml-2 mr-2">•</span>
+                <span>{animeDetail.title}</span>
+              </nav>
+              <span className="max-[640px]:relative max-[640px]:bottom-5 max-[640px]:flex max-[640px]:flex-col max-[640px]:items-center">
+                {/* Title */}
+                <h1 className="text-4xl font-bold mb-5 ">
+                  {animeDetail.title}
+                </h1>
+
+                {/* Film Stats Badges */}
+                <div className="flex items-center text-sm flex-wrap mt-2 mb-5 " >
+                  <div className="flex items-center gap-[2px]">
+                    {animeDetail.film_stats.rating ? (
+                      <span className="px-2 py-1 bg-white text-black rounded-l-md font-bold text-xs">
+                        {animeDetail.film_stats.rating}
+                      </span>
+                    ) : (
+                      ""
+                    )}
+
+                    {animeDetail.film_stats.quality ? (
+                      <span className="px-2 py-1 bg-white text-black border-l border-white/10 font-bold text-xs">
+                        {animeDetail.film_stats.quality}
+                      </span>
+                    ) : (
+                      ""
+                    )}
+
+                    {animeDetail.film_stats.subtitles ? (
+                      <span className="px-1 py-1 bg-green-300 text-black border-l border-white/10 flex items-center gap-1 text-xs font-bold">
+                        <FontAwesomeIcon
+                          icon={faClosedCaptioning}
+                          className="mr-1"
+                        />
+                        {animeDetail.film_stats.subtitles}
+                      </span>
+                    ) : (
+                      ""
+                    )}
+
+                    {animeDetail.film_stats.dubbing ? (
+                      <span className="px-1 py-1 bg-pink-300 text-black border-l border-white/10 flex items-center gap-1 rounded-r-md text-xs font-bold">
+                        <FontAwesomeIcon icon={faMicrophone} className="mr-1" />
+                        {animeDetail.film_stats.dubbing}
+                      </span>
+                    ) : (
+                      ""
+                    )}
+                  </div>
+                  {/* Dot + Type + Dot + Runtime */}
+                  <span className="mx-3 h-1 w-1 bg-gray-400 rounded-full inline-block" />
+                  <span className="py-1 text-white text-base">
+                    {animeDetail.film_stats.type}
+                  </span>
+                  <span className="mx-3 h-1 w-1 bg-gray-400 rounded-full inline-block" />
+                  <span className="py-1 text-white text-base">
+                    {animeDetail.film_stats.runtime}
+                  </span>
+                </div>
+
+                {/* Description & OtakuRealm line - hidden on small screens */}
+
+                <div className="hidden sm:inline-block">
+                  <div className="inline-block pr-10">
+                    {isExpanded
+                      ? renderDescriptionAsParagraphs(description)
+                      : renderDescriptionAsParagraphs(truncatedDesc)}
+                    {description.length > truncateLength && (
+                      <button
+                        onClick={() => setIsExpanded(!isExpanded)}
+                        className="inline text-[#bb5052] cursor-pointer text-sm ml-1"
+                      >
+                        {isExpanded ? "- Less" : "+ More"}
+                      </button>
+                    )}
+                  </div>
+                  <p className="text-gray-200 leading-relaxed mt-4 mb-5">
+                    OtakuRealm is the best site to watch {animeDetail.title} SUB
+                    online{" "}
+                    {animeDetail
+                      ? ", or you can even watch " +
+                        animeDetail.title +
+                        " DUB in HD quality"
+                      : " "}
+                    . You can also find {animeDetail.studios} anime on
+                    OtakuRealm website.
+                  </p>
+                </div>
+
+                {/* Action Buttons */}
+                <div className="flex gap-4 mt-4">
+                  <button className="bg-[#BB5052] hover:bg-[#A04345] text-black px-7 py-2 rounded-full font-semibold">
+                    <span className="font-bold mr-2">
+                      <FontAwesomeIcon icon={faPlay} />
+                    </span>
+                    <Link
+                      href={`/watch/${slug}/ep-${
+                        animeDetail.film_stats.subtitles
+                      }?title=${encodeURIComponent(
+                        animeDetail.title
+                      )}&anime_type=${encodeURIComponent(
+                        animeDetail.film_stats.type
+                      )}`}
+                    >
+                      Watch now
+                    </Link>
+                  </button>
+                  <button className="bg-white text-gray-800 px-7 py-2 rounded-full font-semibold hover:bg-gray-200">
+                    <span className="font-extrabold mr-2">
+                      <FontAwesomeIcon icon={faPlus} />
+                    </span>
+                    <span>Add to List</span>
+                  </button>
+                </div>
+              </span>
             </div>
           </div>
 
-          {/* Right Column (30%) */}
-          <div className="w-[25%] bg-white/10 rounded-md p-7 space-y-3 flex flex-col justify-center text-sm mr-5">
+          {/* Right Column - shown below on xl and moved for smaller screens */}
+          <div className="w-full xl:w-[25%] bg-white/10 rounded-md p-7 space-y-3 flex flex-col justify-center text-sm mr-5 mt-5 xl:mt-10 max-[640px]:w-[94%] max-[1280px]:w-[97%]">
             <p>
               <strong className="font-bold">Japanese:</strong>{" "}
               {animeDetail.japanese_title}
@@ -241,13 +262,9 @@ export default function AnimeDetail() {
 
             {/* Genres */}
             <div className="w-full">
-              <hr className="mt-2 mb-2 text-gray-100" />
-
+              <hr className="max-[1280px]:hidden mt-2 mb-2 text-gray-100" />
               <div className="flex items-center flex-wrap gap-2">
-                {/* Genres label */}
                 <strong className="font-bold">Genres:</strong>
-
-                {/* Genre pills */}
                 {animeDetail.genres.map((genre, idx) => (
                   <Link
                     href={`/genre/${genre.toLowerCase().replace(/\s+/g, "-")}`}
@@ -258,17 +275,13 @@ export default function AnimeDetail() {
                   </Link>
                 ))}
               </div>
-
-              <hr className="mt-2 mb-2 text-gray-100" />
+              <hr className="max-[1280px]:hidden mt-2 mb-2 text-gray-100" />
             </div>
 
-            {/* Studios */}
             <p>
               <strong className="font-bold">Studios:</strong>{" "}
               {animeDetail.studios.join(", ")}
             </p>
-
-            {/* Producers */}
             <p>
               <strong className="font-bold">Producers:</strong>{" "}
               {animeDetail.producers.join(", ")}
@@ -388,7 +401,7 @@ export default function AnimeDetail() {
               </div>
             </div>
 
-            {animeDetail.trailer ? (
+            {animeDetail.trailers && animeDetail.trailers.length > 0 ? (
               <div className="promotion_video">
                 {/* Promotion Videos */}
                 <h2 className="text-2xl font-bold mt-10 mb-6 text-[#BB5052]">
@@ -418,7 +431,7 @@ export default function AnimeDetail() {
 
                         {/* Play Icon Overlay */}
                         <div className="absolute inset-0 flex items-center justify-center">
-                          <div className="bg-black/60 p-3 rounded-full opacity-0 group-hover:opacity-100 transition duration-300">
+                          <div className="bg-black/60 p-3 rounded-full group-hover:transition duration-300">
                             <FontAwesomeIcon
                               icon={faPlay}
                               className="text-[white] text-xl"
@@ -454,7 +467,6 @@ export default function AnimeDetail() {
                     href={`/animedetailpage${anime.url}`}
                     className="relative w-full h-80 rounded-md overflow-hidden group"
                   >
-
                     {/* 
           We create two "sections":
             1) A top container (75% height) for the image and badges.
@@ -528,14 +540,13 @@ export default function AnimeDetail() {
 
           {/* Right Block */}
           <div className="md:w-1/4 p-4 rounded-md">
-            <section className="related_anime">
-              <h2 className="text-2xl font-bold mb-4 text-[#BB5052] mt-2">
-                Related Anime
-              </h2>
+            {animeDetail?.related_anime?.length > 0 && (
+              <section className="related_anime">
+                <h2 className="text-2xl font-bold mb-4 text-[#BB5052] mt-2">
+                  Related Anime
+                </h2>
 
-              {animeDetail?.related_anime &&
-              animeDetail.related_anime.length > 0 ? (
-                animeDetail.related_anime
+                {animeDetail.related_anime
                   .slice(0, showCount)
                   .map((related, index) => {
                     const isLastCard =
@@ -551,19 +562,22 @@ export default function AnimeDetail() {
                         >
                           {/* Left Part (20% width): Thumbnail */}
                           <div className="w-[20%] flex-shrink-0">
-                            <img
-                              src={related.poster}
-                              alt={related.title}
-                              className="w-25 h-25 object-cover rounded-md mr-4"
-                            />
+                            {related.poster ? (
+                              <img
+                                src={related.poster}
+                                alt={related.title}
+                                className="w-25 h-25 object-cover rounded-md mr-4"
+                              />
+                            ) : null}
                           </div>
 
-                          {/* Middle Part (75% width): Title, Badges, (Show More if last card) */}
+                          {/* Middle Part (75% width): Title, Badges */}
                           <div className="w-[75%] px-3 flex flex-col justify-center ">
-                            {/* Title & Badges */}
                             <div>
                               <h3 className="text-white text-lg font-medium mb-2 hover:text-[#BB5052] line-clamp-2">
-                              <Link href={`/animedetailpage${related.url}`}>{related.title}</Link>
+                                <Link href={`/animedetailpage${related.url}`}>
+                                  {related.title}
+                                </Link>
                               </h3>
                               <div className="flex items-center flex-wrap gap-[2px]">
                                 {related.subtitles && (
@@ -590,29 +604,17 @@ export default function AnimeDetail() {
                                   </span>
                                 )}
                                 {related.type && (
-                                  <span className="text-white ml-2 mr-2">
-                                    •
-                                  </span>
-                                )}
-                                {related.type && (
-                                  <span className="text-white text-sm">
-                                    {related.type}
-                                  </span>
+                                  <>
+                                    <span className="text-white ml-2 mr-2">
+                                      •
+                                    </span>
+                                    <span className="text-white text-sm">
+                                      {related.type}
+                                    </span>
+                                  </>
                                 )}
                               </div>
                             </div>
-
-                            {/* If this is the last card and more items exist, place Show More here */}
-                            {isLastCard && (
-                              <div className="mt-8">
-                                <button
-                                  onClick={() => setShowCount(showCount + 5)}
-                                  className="px-7 py-2 bg-[#BB5052] text-black font-semibold hover:bg-[#A04345]"
-                                >
-                                  Show More
-                                </button>
-                              </div>
-                            )}
                           </div>
 
                           {/* Right Part (5% width): Plus Icon */}
@@ -626,17 +628,27 @@ export default function AnimeDetail() {
                           </div>
                         </div>
 
-                        {/* Horizontal rule between cards, except for last card in the slice */}
+                        {/* Divider */}
                         {!isLastCard && index < showCount - 1 && (
                           <hr className="border-t border-s-gray-50 w-[90%] mx-4" />
                         )}
+
+                        {/* Show More */}
+                        {isLastCard && (
+                          <div className="flex bg-[#191919] p-4 pt-2 justify-center">
+                            <button
+                              onClick={() => setShowCount(showCount + 5)}
+                              className="inline-block bg-[#BB5052] text-black px-4 py-2 font-semibold hover:bg-[#A04345] w-80 text-center rounded-sm"
+                            >
+                              Show More
+                            </button>
+                          </div>
+                        )}
                       </div>
                     );
-                  })
-              ) : (
-                <p className="text-white">No related anime found.</p>
-              )}
-            </section>
+                  })}
+              </section>
+            )}
 
             <section className="most_popular flex flex-col">
               {/* Section Title */}
@@ -667,7 +679,9 @@ export default function AnimeDetail() {
                         {/* Title & Badges */}
                         <div>
                           <h3 className="text-white text-lg font-medium mb-2 hover:text-[#BB5052] line-clamp-2">
-                          <Link href={`/animedetailpage${anime.url}`}>{anime.title}</Link>
+                            <Link href={`/animedetailpage${anime.url}`}>
+                              {anime.title}
+                            </Link>
                           </h3>
                           <div className="flex items-center flex-wrap gap-[2px]">
                             {anime.subtitles && (

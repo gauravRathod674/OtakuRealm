@@ -1,0 +1,631 @@
+{
+  "filters": [
+    {
+      "filter": "Type",
+      "options": [
+        {
+          "name": "Movie",
+          "value": "Movie"
+        },
+        {
+          "name": "Music",
+          "value": "Music"
+        },
+        {
+          "name": "ONA",
+          "value": "ONA"
+        },
+        {
+          "name": "OVA",
+          "value": "OVA"
+        },
+        {
+          "name": "Special",
+          "value": "Special"
+        },
+        {
+          "name": "TV",
+          "value": "TV"
+        }
+      ]
+    },
+    {
+      "filter": "Genre",
+      "options": [
+        {
+          "name": "Action",
+          "value": "1"
+        },
+        {
+          "name": "Adventure",
+          "value": "2"
+        },
+        {
+          "name": "Cars",
+          "value": "538"
+        },
+        {
+          "name": "Comedy",
+          "value": "8"
+        },
+        {
+          "name": "Dementia",
+          "value": "453"
+        },
+        {
+          "name": "Demons",
+          "value": "119"
+        },
+        {
+          "name": "Drama",
+          "value": "62"
+        },
+        {
+          "name": "Ecchi",
+          "value": "214"
+        },
+        {
+          "name": "Fantasy",
+          "value": "3"
+        },
+        {
+          "name": "Game",
+          "value": "180"
+        },
+        {
+          "name": "Harem",
+          "value": "215"
+        },
+        {
+          "name": "Historical",
+          "value": "70"
+        },
+        {
+          "name": "Horror",
+          "value": "222"
+        },
+        {
+          "name": "Isekai",
+          "value": "74"
+        },
+        {
+          "name": "Josei",
+          "value": "404"
+        },
+        {
+          "name": "Kids",
+          "value": "46"
+        },
+        {
+          "name": "Magic",
+          "value": "203"
+        },
+        {
+          "name": "Martial Arts",
+          "value": "114"
+        },
+        {
+          "name": "Mecha",
+          "value": "123"
+        },
+        {
+          "name": "Military",
+          "value": "125"
+        },
+        {
+          "name": "Music",
+          "value": "242"
+        },
+        {
+          "name": "Mystery",
+          "value": "57"
+        },
+        {
+          "name": "Parody",
+          "value": "162"
+        },
+        {
+          "name": "Police",
+          "value": "136"
+        },
+        {
+          "name": "Psychological",
+          "value": "73"
+        },
+        {
+          "name": "Romance",
+          "value": "28"
+        },
+        {
+          "name": "Samurai",
+          "value": "163"
+        },
+        {
+          "name": "School",
+          "value": "14"
+        },
+        {
+          "name": "Sci-Fi",
+          "value": "12"
+        },
+        {
+          "name": "Seinen",
+          "value": "50"
+        },
+        {
+          "name": "Shoujo",
+          "value": "252"
+        },
+        {
+          "name": "Shoujo Ai",
+          "value": "235"
+        },
+        {
+          "name": "Shounen",
+          "value": "15"
+        },
+        {
+          "name": "Shounen Ai",
+          "value": "233"
+        },
+        {
+          "name": "Slice of Life",
+          "value": "35"
+        },
+        {
+          "name": "Space",
+          "value": "124"
+        },
+        {
+          "name": "Sports",
+          "value": "29"
+        },
+        {
+          "name": "Super Power",
+          "value": "16"
+        },
+        {
+          "name": "Supernatural",
+          "value": "9"
+        },
+        {
+          "name": "Thriller",
+          "value": "54"
+        },
+        {
+          "name": "unknown",
+          "value": "32"
+        },
+        {
+          "name": "Vampire",
+          "value": "58"
+        }
+      ]
+    },
+    {
+      "filter": "Year",
+      "options": [
+        {
+          "name": "2025",
+          "value": "2025"
+        },
+        {
+          "name": "2024",
+          "value": "2024"
+        },
+        {
+          "name": "2023",
+          "value": "2023"
+        },
+        {
+          "name": "2022",
+          "value": "2022"
+        },
+        {
+          "name": "2021",
+          "value": "2021"
+        },
+        {
+          "name": "2020",
+          "value": "2020"
+        },
+        {
+          "name": "2019",
+          "value": "2019"
+        },
+        {
+          "name": "2018",
+          "value": "2018"
+        },
+        {
+          "name": "2017",
+          "value": "2017"
+        },
+        {
+          "name": "2016",
+          "value": "2016"
+        },
+        {
+          "name": "2015",
+          "value": "2015"
+        },
+        {
+          "name": "2014",
+          "value": "2014"
+        },
+        {
+          "name": "2013",
+          "value": "2013"
+        },
+        {
+          "name": "2012",
+          "value": "2012"
+        },
+        {
+          "name": "2011",
+          "value": "2011"
+        },
+        {
+          "name": "2010",
+          "value": "2010"
+        },
+        {
+          "name": "2009",
+          "value": "2009"
+        },
+        {
+          "name": "2008",
+          "value": "2008"
+        },
+        {
+          "name": "2007",
+          "value": "2007"
+        },
+        {
+          "name": "2006",
+          "value": "2006"
+        },
+        {
+          "name": "2005",
+          "value": "2005"
+        },
+        {
+          "name": "2004",
+          "value": "2004"
+        },
+        {
+          "name": "2003",
+          "value": "2003"
+        },
+        {
+          "name": "2002",
+          "value": "2002"
+        },
+        {
+          "name": "2001",
+          "value": "2001"
+        },
+        {
+          "name": "2000",
+          "value": "2000"
+        },
+        {
+          "name": "1999",
+          "value": "1999"
+        },
+        {
+          "name": "1998",
+          "value": "1998"
+        },
+        {
+          "name": "1997",
+          "value": "1997"
+        },
+        {
+          "name": "1996",
+          "value": "1996"
+        },
+        {
+          "name": "1995",
+          "value": "1995"
+        },
+        {
+          "name": "1994",
+          "value": "1994"
+        },
+        {
+          "name": "1993",
+          "value": "1993"
+        },
+        {
+          "name": "1992",
+          "value": "1992"
+        },
+        {
+          "name": "1991",
+          "value": "1991"
+        },
+        {
+          "name": "1990",
+          "value": "1990"
+        },
+        {
+          "name": "1989",
+          "value": "1989"
+        },
+        {
+          "name": "1988",
+          "value": "1988"
+        },
+        {
+          "name": "1987",
+          "value": "1987"
+        },
+        {
+          "name": "1986",
+          "value": "1986"
+        },
+        {
+          "name": "1985",
+          "value": "1985"
+        },
+        {
+          "name": "1984",
+          "value": "1984"
+        },
+        {
+          "name": "1983",
+          "value": "1983"
+        },
+        {
+          "name": "1982",
+          "value": "1982"
+        },
+        {
+          "name": "1981",
+          "value": "1981"
+        },
+        {
+          "name": "1980",
+          "value": "1980"
+        }
+      ]
+    },
+    {
+      "filter": "Rating",
+      "options": [
+        {
+          "name": "PG - Children",
+          "value": "pg"
+        },
+        {
+          "name": "PG 13 - Teens 13 and Older",
+          "value": "pg_13"
+        },
+        {
+          "name": "G - All Ages",
+          "value": "g"
+        },
+        {
+          "name": "R - 17+, Violence & Profanity",
+          "value": "r"
+        },
+        {
+          "name": "R+ - Profanity & Mild Nudity",
+          "value": "r+"
+        },
+        {
+          "name": "Rx - Hentai",
+          "value": "rx"
+        }
+      ]
+    },
+    {
+      "filter": "Status",
+      "options": [
+        {
+          "name": "Finished Airing",
+          "value": "finished-airing"
+        },
+        {
+          "name": "Currently Airing",
+          "value": "currently-airing"
+        },
+        {
+          "name": "Not yet aired",
+          "value": "not-yet-aired"
+        }
+      ]
+    },
+    {
+      "filter": "Country",
+      "options": [
+        {
+          "name": "All",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "filter": "Season",
+      "options": [
+        {
+          "name": "Fall",
+          "value": "fall"
+        },
+        {
+          "name": "Summer",
+          "value": "summer"
+        },
+        {
+          "name": "Spring",
+          "value": "spring"
+        },
+        {
+          "name": "Winter",
+          "value": "winter"
+        },
+        {
+          "name": "Unknown",
+          "value": "unknown"
+        }
+      ]
+    },
+    {
+      "filter": "Language",
+      "options": [
+        {
+          "name": "Sub",
+          "value": "sub"
+        },
+        {
+          "name": "Dub",
+          "value": "dub"
+        }
+      ]
+    },
+    {
+      "filter": "Sort by",
+      "options": [
+        {
+          "name": "Default",
+          "value": "default"
+        },
+        {
+          "name": "Latest Updated",
+          "value": "latest-updated"
+        },
+        {
+          "name": "Score",
+          "value": "score"
+        },
+        {
+          "name": "Name A-Z",
+          "value": "name-az"
+        },
+        {
+          "name": "Release Date",
+          "value": "release-date"
+        },
+        {
+          "name": "Most Viewed",
+          "value": "most-viewed"
+        },
+        {
+          "name": "Number of episodes",
+          "value": "number_of_episodes"
+        }
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "url": "https://animesugetv.to/watch/bleach-thousand-year-blood-war-the-conflict-sqamb/ep-14",
+      "data_tip": "6632",
+      "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/b8/7a/b87a9e986e6e403ffddb520d24f5040a/b87a9e986e6e403ffddb520d24f5040a.jpg",
+      "alt": "Bleach: Thousand-Year Blood War - The Conflict",
+      "type": "TV",
+      "title": "Bleach: Thousand-Year Blood War - The Conflict",
+      "japanese_title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+      "sub": "14",
+      "dub": "11"
+    },
+    {
+      "url": "https://animesugetv.to/watch/bleach-thousand-year-blood-war-the-separation-zvwg0/ep-13",
+      "data_tip": "6535",
+      "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/0f474e6ea130efd9372f913356037955.jpg",
+      "alt": "Bleach: Thousand-Year Blood War - The Separation",
+      "type": "TV",
+      "title": "Bleach: Thousand-Year Blood War - The Separation",
+      "japanese_title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+      "sub": "13",
+      "dub": "13"
+    },
+    {
+      "url": "https://animesugetv.to/watch/bleach-thousand-year-blood-war-arc-2izxu/ep-13",
+      "data_tip": "5799",
+      "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/101ecbb80baf2e42cfb22595e0bee368.jpg",
+      "alt": "Bleach: Thousand-Year Blood War Arc",
+      "type": "TV",
+      "title": "Bleach: Thousand-Year Blood War Arc",
+      "japanese_title": "Bleach: Sennen Kessen-hen",
+      "sub": "13",
+      "dub": "13"
+    },
+    {
+      "url": "https://animesugetv.to/watch/bleach-the-sealed-sword-frenzy-jp2bb/ep-1",
+      "data_tip": "3153",
+      "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/85bf3984eb601ec792d3167ce0eb2176.jpg",
+      "alt": "Bleach: The Sealed Sword Frenzy",
+      "type": "SPECIAL",
+      "title": "Bleach: The Sealed Sword Frenzy",
+      "japanese_title": "Bleach: The Sealed Sword Frenzy",
+      "sub": "1"
+    },
+    {
+      "url": "https://animesugetv.to/watch/bleach-memories-in-the-rain-yqrxb/ep-1",
+      "data_tip": "2541",
+      "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/2832869a128404ef544cbda6a1a000e9.jpg",
+      "alt": "Bleach: Memories in the Rain",
+      "type": "SPECIAL",
+      "title": "Bleach: Memories in the Rain",
+      "japanese_title": "Bleach: Memories in the Rain",
+      "sub": "1"
+    },
+    {
+      "url": "https://animesugetv.to/watch/bleach-yaa9n/ep-366",
+      "data_tip": "1057",
+      "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/bd5ae1d387a59c5abcf5e1a6a616728c.jpg",
+      "alt": "Bleach",
+      "type": "TV",
+      "title": "Bleach",
+      "japanese_title": "Bleach",
+      "sub": "366",
+      "dub": "366"
+    },
+    {
+      "url": "https://animesugetv.to/watch/bleach-the-movie-fade-to-black-hudbv/ep-1",
+      "data_tip": "642",
+      "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/d3d5c027c921932c5a561d2bb8d3fcc3.jpg",
+      "alt": "Bleach the Movie: Fade to Black",
+      "type": "MOVIE",
+      "title": "Bleach the Movie: Fade to Black",
+      "japanese_title": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
+      "sub": "1",
+      "dub": "1"
+    },
+    {
+      "url": "https://animesugetv.to/watch/bleach-the-movie-hell-verse-vi7ia/ep-1",
+      "data_tip": "442",
+      "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/12742ea4d211804b0a3b739ccc50bbbf.jpg",
+      "alt": "Bleach the Movie: Hell Verse",
+      "type": "MOVIE",
+      "title": "Bleach the Movie: Hell Verse",
+      "japanese_title": "Bleach Movie 4: Jigoku-hen",
+      "sub": "1",
+      "dub": "1"
+    },
+    {
+      "url": "https://animesugetv.to/watch/bleach-the-movie-memories-of-nobody-jp3eo/ep-1",
+      "data_tip": "134",
+      "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/774d607087dbaf2e2d850647903edc14.jpg",
+      "alt": "Bleach the Movie: Memories of Nobody",
+      "type": "MOVIE",
+      "title": "Bleach the Movie: Memories of Nobody",
+      "japanese_title": "Bleach Movie 1: Memories of Nobody",
+      "sub": "1",
+      "dub": "1"
+    },
+    {
+      "url": "https://animesugetv.to/watch/bleach-the-movie-the-diamonddust-rebellion-hhatz/ep-1",
+      "data_tip": "76",
+      "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/dbe550d596d8f48422e3bf27ebdeb811.jpg",
+      "alt": "Bleach the Movie: The DiamondDust Rebellion",
+      "type": "MOVIE",
+      "title": "Bleach the Movie: The DiamondDust Rebellion",
+      "japanese_title": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+      "sub": "1",
+      "dub": "1"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+    "title": "Attack on Titan",
+    "poster": "https://img.flawlessfiles.com/_r/300x400/100/de/bf/debf027d032c6d40b91fab16b2ff9bd4/debf027d032c6d40b91fab16b2ff9bd4.jpg",
+    "background": "https://img.flawlessfiles.com/_r/300x400/100/de/bf/debf027d032c6d40b91fab16b2ff9bd4/debf027d032c6d40b91fab16b2ff9bd4.jpg",
+    "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\n\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Based on Hajime Isayama's award-winning manga, Shingeki no Kyojin follows Eren, along with his adopted sister Mikasa Ackerman and his childhood friend Armin Arlert, as they join the brutal war against the titans and race to discover a way of defeating them before the last walls are breached.\n\n\n\n[Written by MAL Rewrite]",
+    "film_stats": {
+        "rating": "R",
+        "quality": "HD",
+        "subtitles": "25",
+        "dubbing": "25",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    "japanese_title": "進撃の巨人",
+    "synonyms": [
+        "AoT"
+    ],
+    "aired": "Apr 7, 2013 to Sep 29, 2013",
+    "premiered": "Spring 2013",
+    "duration": "24m",
+    "status": "Finished Airing",
+    "score": "8.52",
+    "studios": [
+        "Wit Studio"
+    ],
+    "producers": [
+        "Production I.G",
+        "Dentsu",
+        "Mainichi Broadcasting System",
+        "Pony Canyon",
+        "Kodansha",
+        "Mad Box",
+        "Pony Canyon Enterprise",
+        "Wit Studio",
+        "Funimation"
+    ],
+    "genres": [
+        "Action",
+        "Mystery",
+        "Drama",
+        "Fantasy",
+        "Shounen",
+        "Super Power",
+        "Military"
+    ],
+    "characters": [
+        {
+            "character": "Ackerman, Mikasa",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/0c/0f/0c0f00bbf5fc05bcb57f09afb451e500/0c0f00bbf5fc05bcb57f09afb451e500.jpg",
+            "role": "Main",
+            "voice_actor": "Nishimura, Trina",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/86/bd/86bd08b1b4a0e3f7e6a1439374823fa5/86bd08b1b4a0e3f7e6a1439374823fa5.jpg",
+            "nationality": "English"
+        },
+        {
+            "character": "Arlert, Armin",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/43/4e/434e27667ec8f85c13ed839d05c13af2/434e27667ec8f85c13ed839d05c13af2.jpg",
+            "role": "Main",
+            "voice_actor": "Inoue, Marina",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/a5/90/a590ff6d2287e40ca7eae56252c5efa6/a590ff6d2287e40ca7eae56252c5efa6.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Yeager, Eren",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/45/b1/45b14f25ee285ef50430cb8bd85afbb3/45b14f25ee285ef50430cb8bd85afbb3.jpg",
+            "role": "Main",
+            "voice_actor": "Kaji, Yuki",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/64/78/64780a6971f0d349c0d5ff1eeb72f062/64780a6971f0d349c0d5ff1eeb72f062.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Abel",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/0d/fc/0dfc6bf937a14296aac7b9fb1a151454/0dfc6bf937a14296aac7b9fb1a151454.jpg",
+            "role": "Supporting",
+            "voice_actor": "Rocha, Roberto",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/28/bc/28bc6dce3e975ba28f8841850be90ea3/28bc6dce3e975ba28f8841850be90ea3.jpg",
+            "nationality": "Brazilian"
+        },
+        {
+            "character": "Ackerman, Mother",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/02/ab/02ab3da1b8c572d6603949d604ef52e8/02ab3da1b8c572d6603949d604ef52e8.jpg",
+            "role": "Supporting",
+            "voice_actor": "Clinkenbeard, Colleen",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/19/42/19421e0f987ab7c89e28de08b1716479/19421e0f987ab7c89e28de08b1716479.jpg",
+            "nationality": "English"
+        },
+        {
+            "character": "Ackerman, Father",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/4d/c0/4dc01ee649691dbd2892847d10733f37/4dc01ee649691dbd2892847d10733f37.jpg",
+            "role": "Supporting",
+            "voice_actor": "Endou, Daichi",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/9d/0f/9d0fa0ec3930980f52d98141d2e86348/9d0fa0ec3930980f52d98141d2e86348.jpg",
+            "nationality": "Japanese"
+        }
+    ],
+    "trailers": [
+        {
+            "title": "PV 2",
+            "video_url": "https://www.youtube.com/embed/LHtdKWJdif4",
+            "thumbnail": "https://i.ytimg.com/vi/LHtdKWJdif4/hqdefault.jpg"
+        },
+        {
+            "title": "PV 1",
+            "video_url": "https://www.youtube.com/embed/KKzmOh4SuBc",
+            "thumbnail": "https://i.ytimg.com/vi/KKzmOh4SuBc/hqdefault.jpg"
+        }
+    ],
+    "more_seasons": [
+        {
+            "title": "Season 1",
+            "url": "/attack-on-titan-112",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/de/bf/debf027d032c6d40b91fab16b2ff9bd4/debf027d032c6d40b91fab16b2ff9bd4.jpg"
+        },
+        {
+            "title": "Season 2",
+            "url": "/attack-on-titan-season-2-150",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/5d/97/5d97e8c9a57b03c06dd59650c0a3c693/5d97e8c9a57b03c06dd59650c0a3c693.jpg"
+        },
+        {
+            "title": "Season 3",
+            "url": "/attack-on-titan-season-3-85",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/98/b2/98b21bfbd9fa3d49ec80ba8fe75ed5cd/98b21bfbd9fa3d49ec80ba8fe75ed5cd.jpg"
+        },
+        {
+            "title": "Season 4: Part 1",
+            "url": "/attack-on-titan-final-season-part-1-15548",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/83/da/83da53919d7a20332be01686141f18f6/83da53919d7a20332be01686141f18f6.jpg"
+        },
+        {
+            "title": "Season 4: Part 2",
+            "url": "/attack-on-titan-final-season-part-2-17753",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/16/08/160831b6a0c1303e1439925d8f8c7395/160831b6a0c1303e1439925d8f8c7395.jpg"
+        },
+        {
+            "title": "Season 4: Part 3 (1st Half)",
+            "url": "/attack-on-titan-the-final-season-part-3-18329",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/54/d3/54d3f59bcc7caf1539c701eb0a064ec9/54d3f59bcc7caf1539c701eb0a064ec9.png"
+        }
+    ],
+    "related_anime": [
+        {
+            "title": "Attack on Titan Season 2",
+            "url": "/attack-on-titan-season-2-150",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5d/97/5d97e8c9a57b03c06dd59650c0a3c693/5d97e8c9a57b03c06dd59650c0a3c693.jpg",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV"
+        },
+        {
+            "title": "Attack on Titan: No Regrets",
+            "url": "/attack-on-titan-no-regrets-168",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/0b/1d/0b1d36294038c6094016be2c5176dd79/0b1d36294038c6094016be2c5176dd79.jpg",
+            "subtitles": "2",
+            "dubbing": "",
+            "episodes": "2",
+            "type": "OVA"
+        },
+        {
+            "title": "Attack on Titan OVA",
+            "url": "/attack-on-titan-ova-761",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/c5/63/c563690ade996fc0f7788a8e961ae7e6/c563690ade996fc0f7788a8e961ae7e6.jpg",
+            "subtitles": "3",
+            "dubbing": "",
+            "episodes": "3",
+            "type": "OVA"
+        },
+        {
+            "title": "Attack on Titan: Lost Girls",
+            "url": "/attack-on-titan-lost-girls-947",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ae/9e/ae9effd6c9aba5c4ba6b68f2901c20c9/ae9effd6c9aba5c4ba6b68f2901c20c9.jpg",
+            "subtitles": "3",
+            "dubbing": "",
+            "episodes": "3",
+            "type": "OVA"
+        },
+        {
+            "title": "Attack on Titan: Wings of Freedom",
+            "url": "/attack-on-titan-wings-of-freedom-993",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/57/89/5789753c0b623c288cf8d70bc8e77325/5789753c0b623c288cf8d70bc8e77325.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "Attack on Titan: Crimson Bow and Arrow",
+            "url": "/attack-on-titan-crimson-bow-and-arrow-1233",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f8/b7/f8b79c1c7b8153e7b5c64f0cf8b959ef/f8b79c1c7b8153e7b5c64f0cf8b959ef.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "Attack on Titan: Chronicle",
+            "url": "/attack-on-titan-chronicle-2600",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/37/13/3713cf887e4098f283fef5b0336e6083/3713cf887e4098f283fef5b0336e6083.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "Attack on Titan: Junior High",
+            "url": "/attack-on-titan-junior-high-3609",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/3f/3f/3f3f8b29c4c90a31b150ba24f13c98fb/3f3f8b29c4c90a31b150ba24f13c98fb.jpg",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV"
+        }
+    ],
+    "recommended_anime": [
+        {
+            "title": "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+            "url": "/sword-oratoria-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-3342",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/49/b4/49b4151d1c2247c3169ddbc141d8cf1c/49b4151d1c2247c3169ddbc141d8cf1c.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "Emma: A Victorian Romance - Intermission",
+            "url": "/emma-a-victorian-romance-intermission-3343",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/16/2d/162dfe995bcdce98ea06794bfc076ffa/162dfe995bcdce98ea06794bfc076ffa.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "24m"
+        },
+        {
+            "title": "Shingu: Secret of the Stellar Wars",
+            "url": "/shingu-secret-of-the-stellar-wars-3347",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/52/7a/527a3d9159e563573d3b4a3616aece58/527a3d9159e563573d3b4a3616aece58.jpg",
+            "rate": "",
+            "subtitles": "26",
+            "dubbing": "26",
+            "episodes": "26",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "Gantz",
+            "url": "/gantz-3348",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/8e/85/8e85a46386346733006766d20c1b6fdf/8e85a46386346733006766d20c1b6fdf.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "22m"
+        },
+        {
+            "title": "Halo Legends",
+            "url": "/halo-legends-3350",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/af/76/af76a290c4121f4f7fd371a7a58f22e6/af76a290c4121f4f7fd371a7a58f22e6.jpg",
+            "rate": "",
+            "subtitles": "8",
+            "dubbing": "8",
+            "episodes": "9",
+            "type": "ONA",
+            "runtime": "16m"
+        },
+        {
+            "title": "Hayate the Combat Butler! Cuties",
+            "url": "/hayate-the-combat-butler-cuties-3352",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/af/b8/afb843c7f734e55e564e1d3a08a93dfb/afb843c7f734e55e564e1d3a08a93dfb.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Lupin III: Dragon of Doom",
+            "url": "/lupin-iii-dragon-of-doom-3358",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/fc/23/fc234e416efd84cbbd6149c1f9d4f3db/fc234e416efd84cbbd6149c1f9d4f3db.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "90m"
+        },
+        {
+            "title": "Armitage III",
+            "url": "/armitage-iii-3368",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/9f/75/9f7566b44f15f0e972833530b557834c/9f7566b44f15f0e972833530b557834c.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "34m"
+        },
+        {
+            "title": "Haruka: Beyond the Stream of Time – A Tale of the Eight Guardians",
+            "url": "/haruka-beyond-the-stream-of-time-a-tale-of-the-eight-guardians-3351",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5a/b9/5ab970decab5365af42df0c33bd40fd4/5ab970decab5365af42df0c33bd40fd4.jpg",
+            "rate": "",
+            "subtitles": "26",
+            "dubbing": "",
+            "episodes": "26",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Joker Game",
+            "url": "/joker-game-3355",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ec/14/ec14ee958253f60d03732acf06c28986/ec14ee958253f60d03732acf06c28986.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Keijo!!!!!!!!",
+            "url": "/keijo-3356",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/97/3e/973e1deefe6d523c75f27ae55d59d385/973e1deefe6d523c75f27ae55d59d385.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Samurai Pizza Cats",
+            "url": "/samurai-pizza-cats-3357",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/92/60/926044a777205751f6b2d77c8d8e5ed4/926044a777205751f6b2d77c8d8e5ed4.jpg",
+            "rate": "",
+            "subtitles": "54",
+            "dubbing": "",
+            "episodes": "54",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Maho Girls Precure!",
+            "url": "/maho-girls-precure-3359",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/9a/e6/9ae643426907546ec191eeb3076a9386/9ae643426907546ec191eeb3076a9386.jpg",
+            "rate": "",
+            "subtitles": "50",
+            "dubbing": "2",
+            "episodes": "50",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "B'T X",
+            "url": "/bt-x-3369",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/1a/eb/1aeb01554e8cd32f6e67e5eaceab7f53/1aeb01554e8cd32f6e67e5eaceab7f53.jpg",
+            "rate": "",
+            "subtitles": "25",
+            "dubbing": "",
+            "episodes": "25",
+            "type": "TV",
+            "runtime": "22m"
+        },
+        {
+            "title": "Medabots",
+            "url": "/medabots-3360",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/3c/1c/3c1c9ec7e1779b3b5a3647ae199a80a0/3c1c9ec7e1779b3b5a3647ae199a80a0.jpg",
+            "rate": "",
+            "subtitles": "52",
+            "dubbing": "52",
+            "episodes": "52",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Mr Ajikko",
+            "url": "/mr-ajikko-3362",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/b1/38/b13804950981d65105c38edbee23674e/b13804950981d65105c38edbee23674e.jpg",
+            "rate": "",
+            "subtitles": "99",
+            "dubbing": "",
+            "episodes": "99",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "A3! Season Spring & Summer",
+            "url": "/a3-season-spring-summer-3365",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/1f/d4/1fd41f16c5848552b9a662793176d15f/1fd41f16c5848552b9a662793176d15f.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Appleseed Alpha",
+            "url": "/appleseed-alpha-3367",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/68/21/682131a7ab8d121bda2f23cebcb78976/682131a7ab8d121bda2f23cebcb78976.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "93m"
+        }
+    ]
+}

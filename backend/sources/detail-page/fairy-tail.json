@@ -1,0 +1,380 @@
+{
+    "title": "Fairy Tail",
+    "poster": "https://img.flawlessfiles.com/_r/300x400/100/cc/bc/ccbc20fd8ddf9b2000bf23894a787436/ccbc20fd8ddf9b2000bf23894a787436.jpg",
+    "background": "https://img.flawlessfiles.com/_r/300x400/100/cc/bc/ccbc20fd8ddf9b2000bf23894a787436/ccbc20fd8ddf9b2000bf23894a787436.jpg",
+    "description": "In the mystical land of Fiore, magic exists as an essential part of everyday life. Countless magic guilds lie at the core of all magical activity, and serve as venues for like-minded mages to band together and take on job requests. Among them, Fairy Tail stands out from the rest as a place of strength, spirit, and family.\n\n\n\nLucy Heartfilia is a young mage searching for celestial gate keys, and her dream is to become a full-fledged wizard by joining this famous guild. In her search, she runs into Natsu Dragneel and his partner Happy, who are on a quest to find Natsu's foster father, the dragon Igneel.\n\n\n\nUpon being tricked by a man, Lucy falls under an abduction attempt, only to be saved by Natsu. To her shock, he reveals that he is a member of Fairy Tail and invites her to join them. There, Lucy meets the guild's strange members, such as the ice wizard Gray Fullbuster and magic swordswoman Erza Scarlet. Together as a family, they battle the forces of evil, help those in need, and gain new friends, all the while enjoying the never-ending adventure that is Fairy Tail.\n\n\n\n[Written by MAL Rewrite]",
+    "film_stats": {
+        "rating": "PG-13",
+        "quality": "HD",
+        "subtitles": "175",
+        "dubbing": "175",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    "japanese_title": "FAIRY TAIL（フェアリーテイル）",
+    "synonyms": [],
+    "aired": "Oct 12, 2009 to Mar 30, 2013",
+    "premiered": "Fall 2009",
+    "duration": "24m",
+    "status": "Finished Airing",
+    "score": "7.74",
+    "studios": [
+        "Satelight",
+        "A-1 Pictures"
+    ],
+    "producers": [
+        "TV Tokyo",
+        "Dentsu",
+        "Pony Canyon",
+        "Kodansha",
+        "DAX Production",
+        "Sakura Create",
+        "Satelight",
+        "A-1 Pictures",
+        "Funimation"
+    ],
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Magic",
+        "Shounen"
+    ],
+    "characters": [
+        {
+            "character": "Charlés",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/10/61/10616e524e925db839822bcf30e7db9c/10616e524e925db839822bcf30e7db9c.jpg",
+            "role": "Main",
+            "voice_actor": "Horie, Yui",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/cb/8a/cb8a5a4d6743c89873c1e2a957107271/cb8a5a4d6743c89873c1e2a957107271.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Dragneel, Natsu",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/39/40/39409bcd39419aef3dfcc45855a8ba69/39409bcd39419aef3dfcc45855a8ba69.jpg",
+            "role": "Main",
+            "voice_actor": "Kakihara, Tetsuya",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/50/aa/50aae36c659f646e3602a34a56bcbb09/50aae36c659f646e3602a34a56bcbb09.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Fullbuster, Gray",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/93/30/93309d9b310f5fe3cb8796e0623ee991/93309d9b310f5fe3cb8796e0623ee991.jpg",
+            "role": "Main",
+            "voice_actor": "Kitamura, Eri",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/fb/62/fb6266b14443e96793d946122a4c9529/fb6266b14443e96793d946122a4c9529.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Happy",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/a5/43/a5439c1b9b1fa4c3e34aa8a5be62335d/a5439c1b9b1fa4c3e34aa8a5be62335d.jpg",
+            "role": "Main",
+            "voice_actor": "Kugimiya, Rie",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/c8/f9/c8f9066a64842bde3a42ae60ff007b3c/c8f9066a64842bde3a42ae60ff007b3c.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Heartfilia, Lucy",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/b5/96/b596f7b8166ced03194de04eceff99d1/b596f7b8166ced03194de04eceff99d1.jpg",
+            "role": "Main",
+            "voice_actor": "Hirano, Aya",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/1e/01/1e0173617cd62c0742fb9a826be8b869/1e0173617cd62c0742fb9a826be8b869.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Marvell, Wendy",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/8b/22/8b22d3f43af28b7f2305b8214e221515/8b22d3f43af28b7f2305b8214e221515.jpg",
+            "role": "Main",
+            "voice_actor": "Karbowski, Brittney",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/22/69/22693e7a18d087d6c0748441c506c530/22693e7a18d087d6c0748441c506c530.jpg",
+            "nationality": "English"
+        }
+    ],
+    "trailers": [
+        {
+            "title": "PV Season 4 version 2",
+            "video_url": "https://www.youtube.com/embed/hRPHiQKJVk0",
+            "thumbnail": "https://i.ytimg.com/vi/hRPHiQKJVk0/hqdefault.jpg"
+        },
+        {
+            "title": "PV Season 4 version 1",
+            "video_url": "https://www.youtube.com/embed/pYOuSlQEwyE",
+            "thumbnail": "https://i.ytimg.com/vi/pYOuSlQEwyE/hqdefault.jpg"
+        },
+        {
+            "title": "PV Season 3 version Grimoire Heart",
+            "video_url": "https://www.youtube.com/embed/toagXThyNvE",
+            "thumbnail": "https://i.ytimg.com/vi/toagXThyNvE/hqdefault.jpg"
+        },
+        {
+            "title": "PV Season 3 version Fairy Tail Guild",
+            "video_url": "https://www.youtube.com/embed/iEAMx73u-YQ",
+            "thumbnail": "https://i.ytimg.com/vi/iEAMx73u-YQ/hqdefault.jpg"
+        }
+    ],
+    "more_seasons": [
+        {
+            "title": "The Series",
+            "url": "/fairy-tail-930",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/cc/bc/ccbc20fd8ddf9b2000bf23894a787436/ccbc20fd8ddf9b2000bf23894a787436.jpg"
+        },
+        {
+            "title": "The Series 2",
+            "url": "/fairy-tail-series-2-847",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/0e/c2/0ec2ba92b40474a88d1fa3baca2d7b37/0ec2ba92b40474a88d1fa3baca2d7b37.jpg"
+        },
+        {
+            "title": "The Final Series",
+            "url": "/fairy-tail-final-series-1315",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/3d/87/3d876e1c356745d40d55f5c033626d14/3d876e1c356745d40d55f5c033626d14.jpg"
+        }
+    ],
+    "related_anime": [
+        {
+            "title": "Fairy Tail Series 2",
+            "url": "/fairy-tail-series-2-847",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/0e/c2/0ec2ba92b40474a88d1fa3baca2d7b37/0ec2ba92b40474a88d1fa3baca2d7b37.jpg",
+            "subtitles": "102",
+            "dubbing": "102",
+            "episodes": "102",
+            "type": "TV"
+        },
+        {
+            "title": "Fairy Tail OVA",
+            "url": "/fairy-tail-ova-1433",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/23/bf/23bff6199081969657cc788f77921631/23bff6199081969657cc788f77921631.jpg",
+            "subtitles": "9",
+            "dubbing": "",
+            "episodes": "9",
+            "type": "OVA"
+        },
+        {
+            "title": "Fairy Tail Movie 2: Dragon Cry",
+            "url": "/fairy-tail-movie-2-dragon-cry-1455",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ff/86/ff86d76c2ce368fd96d2dabc47f9619a/ff86d76c2ce368fd96d2dabc47f9619a.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "Fairy Tail Movie 1: Houou no Miko",
+            "url": "/fairy-tail-movie-1-houou-no-miko-1761",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/58/76/587677f1c36def2d32cf9cc29af15cff/587677f1c36def2d32cf9cc29af15cff.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie"
+        },
+        {
+            "title": "Rave Master",
+            "url": "/rave-master-2387",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/2d/8a/2d8ad5e70698107e34d14b1bc27cf423/2d8ad5e70698107e34d14b1bc27cf423.jpg",
+            "subtitles": "51",
+            "dubbing": "",
+            "episodes": "51",
+            "type": "TV"
+        }
+    ],
+    "recommended_anime": [
+        {
+            "title": "Yamada-kun and the Seven Witches",
+            "url": "/yamada-kun-and-the-seven-witches-1097",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/cd/12/cd12b6af8646176def3caafc477c2f91/cd12b6af8646176def3caafc477c2f91.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Recovery of an MMO Junkie",
+            "url": "/recovery-of-an-mmo-junkie-1098",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ed/7b/ed7b7f660972d7f163d94114246c5910/ed7b7f660972d7f163d94114246c5910.jpg",
+            "rate": "",
+            "subtitles": "10",
+            "dubbing": "10",
+            "episodes": "10",
+            "type": "ONA",
+            "runtime": "23m"
+        },
+        {
+            "title": "Nisekoi: False Love",
+            "url": "/nisekoi-false-love-1099",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/66/a3/66a300d5b8f14a0adfcb8413f602d411/66a300d5b8f14a0adfcb8413f602d411.jpg",
+            "rate": "",
+            "subtitles": "20",
+            "dubbing": "",
+            "episodes": "20",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Tegami Bachi: Letter Bee",
+            "url": "/tegami-bachi-letter-bee-1102",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/5b/bc/5bbc15f20ceb66cad8697053583b4bb2/5bbc15f20ceb66cad8697053583b4bb2.jpg",
+            "rate": "",
+            "subtitles": "25",
+            "dubbing": "",
+            "episodes": "25",
+            "type": "TV",
+            "runtime": "20m"
+        },
+        {
+            "title": "Blue Exorcist The Movie",
+            "url": "/blue-exorcist-the-movie-1106",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/10/41/1041e72fabe8d67a7ad9951cff47e75d/1041e72fabe8d67a7ad9951cff47e75d.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "88m"
+        },
+        {
+            "title": "Genshiken OVA",
+            "url": "/genshiken-ova-1118",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/70/ab/70ab08b1f0a031cf7ed6602a4a170939/70ab08b1f0a031cf7ed6602a4a170939.jpg",
+            "rate": "",
+            "subtitles": "3",
+            "dubbing": "3",
+            "episodes": "3",
+            "type": "OVA",
+            "runtime": "24m"
+        },
+        {
+            "title": "Strawberry Marshmallow",
+            "url": "/strawberry-marshmallow-1121",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/3c/60/3c609fe04893562c9a23364fa991d9c4/3c609fe04893562c9a23364fa991d9c4.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Nura: Rise of the Yokai Clan",
+            "url": "/nura-rise-of-the-yokai-clan-1100",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ca/77/ca776e86ae6f199c75a043cfa9638366/ca776e86ae6f199c75a043cfa9638366.jpg",
+            "rate": "",
+            "subtitles": "24",
+            "dubbing": "24",
+            "episodes": "24",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Ranma ½ Super",
+            "url": "/ranma-super-1101",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/9a/ef/9aef0c59161c6dba4074e70259911797/9aef0c59161c6dba4074e70259911797.jpg",
+            "rate": "",
+            "subtitles": "3",
+            "dubbing": "3",
+            "episodes": "3",
+            "type": "OVA",
+            "runtime": "26m"
+        },
+        {
+            "title": "Tenchi Muyo! Ryo-Ohki",
+            "url": "/tenchi-muyo-ryo-ohki-1103",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/9d/b9/9db9b9565c0ada51df6dfd60d6b2006a/9db9b9565c0ada51df6dfd60d6b2006a.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "29m"
+        },
+        {
+            "title": "Blood+",
+            "url": "/blood-1107",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/2f/d9/2fd96419cb28d079c478cca3c0204f74/2fd96419cb28d079c478cca3c0204f74.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Cardcaptor Sakura: Clear Card",
+            "url": "/cardcaptor-sakura-clear-card-1110",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/57/81/57811d7d1f4a0a62acb5a6b054a6ced9/57811d7d1f4a0a62acb5a6b054a6ced9.jpg",
+            "rate": "",
+            "subtitles": "22",
+            "dubbing": "22",
+            "episodes": "22",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "Chrono Crusade",
+            "url": "/chrono-crusade-1111",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/85/db/85db3b2b8bc89346f3ed889eb733fe02/85db3b2b8bc89346f3ed889eb733fe02.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Battle Through the Heavens 3rd Season",
+            "url": "/battle-through-the-heavens-3rd-season-1114",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/60/ac/60aca850cb8b86275424fb7b2ea13bbc/60aca850cb8b86275424fb7b2ea13bbc.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "ONA",
+            "runtime": "23m"
+        },
+        {
+            "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+            "url": "/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-1115",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/f4/18/f418e820bf9f9c011f0a87cf24315168/f418e820bf9f9c011f0a87cf24315168.jpg",
+            "rate": "",
+            "subtitles": "13",
+            "dubbing": "13",
+            "episodes": "13",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Full Metal Panic!",
+            "url": "/full-metal-panic-1116",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/1e/bd/1ebd732704f68b961359f07d9fb930a0/1ebd732704f68b961359f07d9fb930a0.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Genshiken",
+            "url": "/genshiken-1117",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/1a/5f/1a5f23381c33826fa000db72f3c042c3/1a5f23381c33826fa000db72f3c042c3.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "Now and Then, Here and There",
+            "url": "/now-and-then-here-and-there-1122",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/e5/35/e5352c216d21058a30ebc841ea94f55c/e5352c216d21058a30ebc841ea94f55c.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "25m"
+        }
+    ]
+}

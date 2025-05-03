@@ -1,138 +1,226 @@
 "use client";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
+import Image from "next/image";
 import { faGreaterThan, faLessThan } from "@fortawesome/free-solid-svg-icons";
 
-/**
- * Props:
- *   trendingData = [
- *     { number: "01", title: "Wind Breaker", poster: "...", url: "..." },
- *     { number: "02", title: "Dandadan", poster: "...", url: "..." },
- *     ...
- *   ]
- */
-
 export default function TrendingSection({ trendingData = [] }) {
-  // We'll show 6 items at a time
   const [startIndex, setStartIndex] = useState(0);
+  const [cols, setCols] = useState(1);
+  const [rows, setRows] = useState(1);
 
-  // Slice out 6 visible items
-  const visibleItems = trendingData.slice(startIndex, startIndex + 6);
+  // Fixed dimensions
+  const cardWidth = 220;
+  const cardHeight = 250;
+  const gap = 15;
+  const buttonWidth = 40;
 
-  // Check if we can go prev/next
-  const canGoPrev = startIndex > 0;
-  const canGoNext = startIndex + 6 < trendingData.length;
+  // Declare once here
+  const [buttonHeight, setButtonHeight] = useState(cardHeight - gap);
 
-  // Handlers
-  const handlePrev = () => {
-    if (!canGoPrev) return;
-    setStartIndex((prev) => prev - 1);
-  };
-  const handleNext = () => {
-    if (!canGoNext) return;
-    setStartIndex((prev) => prev + 1);
-  };
+  // Determine cols/rows per breakpoint
+  useEffect(() => {
+    const updateLayout = () => {
+      const w = window.innerWidth;
+      let c = 1,
+        r = 1;
 
-  // Helper to truncate the title to 17 characters
-  const truncateTitle = (text) => {
-    if (!text) return "";
-    return text.length > 17 ? text.slice(0, 17) + "..." : text;
-  };
+      if (w <= 592) {
+        c = 1;
+        r = 2; // Mobile: 1 col x 2 rows
+      } else if (w <= 848) {
+        c = 2;
+        r = 2; // Small tablets: 2 x 2
+      } else if (w <= 1024) {
+        c = 3;
+        r = 2; // Tablet landscape: 3 x 2
+      } else if (w <= 1440) {
+        c = 4;
+        r = 1; // Laptop: 4 x 1
+        let newButtonHeight = cardHeight / 2 - gap;
+        setButtonHeight(newButtonHeight);
+        console.log("In side useEffect = ", newButtonHeight);
+      } else {
+        c = 6;
+        r = 1; // Desktop: 6 x 1
+        let newButtonHeight = cardHeight / 2 - gap;
+        setButtonHeight(newButtonHeight);
+        console.log("In side useEffect = ", newButtonHeight);
+      }
+
+      setCols(c);
+      setRows(r);
+    };
+
+    updateLayout();
+    window.addEventListener("resize", updateLayout);
+    return () => window.removeEventListener("resize", updateLayout);
+  }, []);
+
+  console.log("Outside useeffect = ", buttonHeight);
+
+  const cardsPerPage = cols * rows;
+  const maxStart = Math.max(0, trendingData.length - cardsPerPage);
+
+  const handlePrev = () => setStartIndex((i) => Math.max(0, i - cardsPerPage));
+  const handleNext = () =>
+    setStartIndex((i) => Math.min(maxStart, i + cardsPerPage));
+
+  const visibleItems = trendingData.slice(
+    startIndex,
+    startIndex + cardsPerPage
+  );
+  const truncate = (t) => (t?.length > 17 ? t.slice(0, 17) + "..." : t || "");
+
+  // Grid template: cols cards + nav column
+  const columnsStyle = `repeat(${cols}, ${cardWidth}px) ${buttonWidth}px`;
+  const rowsStyle = `repeat(${rows}, ${cardHeight}px)`;
 
   return (
-    <div className="trending-section my-8">
+    <div className="trending-section my-8 overflow-hidden">
       <h2 className="text-2xl font-bold text-[#bb5052] mb-4 ml-2">Trending</h2>
 
-      {/* Carousel wrapper (relative for nav buttons) */}
-      <div className="relative p-3 rounded-md overflow-hidden">
-        {/* The horizontal list container */}
-        <div className="flex gap-5">
+      <div
+        className="inline-block p-3 rounded-md"
+        style={{ backgroundColor: "#000" }}
+      >
+        <div
+          className="grid"
+          style={{
+            gridTemplateColumns: columnsStyle,
+            gridTemplateRows: rowsStyle,
+            columnGap: `${gap}px`,
+            rowGap: `${gap}px`,
+          }}
+        >
+          {/* Cards */}
           {visibleItems.map((item) => (
             <div
               key={item.number}
-              className="relative flex-shrink-0"
+              className="relative rounded-md overflow-hidden"
               style={{
-                // Card width: for example, 220px
-                // Adjust to taste. We'll do 220px so the left portion is ~15%, right portion ~85%.
-                width: "220px",
-                height: "250px", // Example card height
+                width: cardWidth,
+                height: cardHeight,
                 backgroundColor: "#191919",
-                borderRadius: "6px",
-                overflow: "hidden",
               }}
             >
-              {/* Left portion: 15% width */}
               <div
                 className="absolute top-0 left-0 h-full flex flex-col items-center justify-center text-white"
-                style={{ width: "15%", backgroundColor: "transparent" }}
+                style={{ width: "15%" }}
               >
-                {/* Rank */}
                 <div className="text-[#bb5052] text-2xl font-bold absolute bottom-0">
                   {item.number}
                 </div>
-                {/* Vertical Title (truncated) */}
                 <div
                   className="-rotate-90 text-xs font-medium whitespace-nowrap"
                   style={{ width: "max-content" }}
                 >
-                  {truncateTitle(item.title)}
+                  {truncate(item.title)}
                 </div>
               </div>
-
-              {/* Right portion: 85% width for the poster */}
               <div
                 className="absolute top-0 right-0 h-full"
                 style={{ width: "85%" }}
               >
                 <Link href={`animedetailpage${item.url}`}>
-                  <img
-                    src={item.poster}
-                    alt={item.title}
-                    className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
-                  />
+                  <div className="relative w-full h-full">
+                    <Image
+                      src={item.poster}
+                      alt={item.title}
+                      layout="fill"
+                      objectFit="cover"
+                      className="transition-transform duration-300 hover:scale-105"
+                    />
+                  </div>
                 </Link>
               </div>
             </div>
           ))}
-        </div>
+          {rows > 1 ? (
+            <>
+              {/* Next Button - Top */}
+              <button
+                onClick={handleNext}
+                disabled={startIndex + cardsPerPage >= trendingData.length}
+                className="w-full flex items-center justify-center rounded-md"
+                style={{
+                  gridColumn: cols + 1,
+                  gridRow: 1,
+                  width: buttonWidth,
+                  height: buttonHeight,
+                  backgroundColor: "#353535",
+                  color: "#fff",
+                  cursor:
+                    startIndex + cardsPerPage < trendingData.length
+                      ? "pointer"
+                      : "not-allowed",
+                }}
+              >
+                <FontAwesomeIcon icon={faGreaterThan} />
+              </button>
 
-        {/* Navigation Buttons (right side, stacked vertically, half card height) */}
-        <div className="absolute top-1/2 -translate-y-1/2 right-2 flex flex-col gap-3 mt-4">
-          {/* Next Button */}
-          <button
-            onClick={handleNext}
-            disabled={!canGoNext}
-            className={`w-10 ${
-              // half of card height => ~160px
-              "h-30"
-            } flex items-center justify-center rounded-md
-            ${
-              canGoNext
-                ? "bg-[#353535] hover:bg-[#bb5052] text-white"
-                : "bg-[#353535] text-gray-500 cursor-not-allowed"
-            }`}
-          >
-            {/* ">" or icon */}
-            <FontAwesomeIcon icon={faGreaterThan} className="mr-1" />
-
-          </button>
-
-          {/* Prev Button */}
-          <button
-            onClick={handlePrev}
-            disabled={!canGoPrev}
-            className={`w-10 ${"h-30"} flex items-center justify-center mb-8 rounded-md
-            ${
-              canGoPrev
-                ? "bg-[#353535] hover:bg-[#bb5052] text-white"
-                : "bg-[#353535] text-gray-500 cursor-not-allowed"
-            }`}
-          >
-            {/* "<" or icon */}
-            <FontAwesomeIcon icon={faLessThan} className="mr-1" />
-          </button>
+              {/* Prev Button - Bottom */}
+              <button
+                onClick={handlePrev}
+                disabled={startIndex === 0}
+                className="w-full flex items-center justify-center rounded-md"
+                style={{
+                  gridColumn: cols + 1,
+                  gridRow: rows,
+                  width: buttonWidth,
+                  height: buttonHeight,
+                  backgroundColor: "#353535",
+                  color: "#fff",
+                  cursor: startIndex > 0 ? "pointer" : "not-allowed",
+                }}
+              >
+                <FontAwesomeIcon icon={faLessThan} />
+              </button>
+            </>
+          ) : (
+            // For 1-row layout: stack both buttons vertically
+            <div
+              style={{
+                gridColumn: cols + 1,
+                gridRow: 1,
+                height: cardHeight,
+                width: buttonWidth,
+                display: "flex",
+                flexDirection: "column",
+                justifyContent: "space-between",
+                gap: `${gap}px`,
+              }}
+            >
+              <button
+                onClick={handleNext}
+                disabled={startIndex + cardsPerPage >= trendingData.length}
+                className="w-full flex-1 flex items-center justify-center rounded-md"
+                style={{
+                  backgroundColor: "#353535",
+                  color: "#fff",
+                  cursor:
+                    startIndex + cardsPerPage < trendingData.length
+                      ? "pointer"
+                      : "not-allowed",
+                }}
+              >
+                <FontAwesomeIcon icon={faGreaterThan} />
+              </button>
+              <button
+                onClick={handlePrev}
+                disabled={startIndex === 0}
+                className="w-full flex-1 flex items-center justify-center rounded-md"
+                style={{
+                  backgroundColor: "#353535",
+                  color: "#fff",
+                  cursor: startIndex > 0 ? "pointer" : "not-allowed",
+                }}
+              >
+                <FontAwesomeIcon icon={faLessThan} />
+              </button>
+            </div>
+          )}
         </div>
       </div>
     </div>

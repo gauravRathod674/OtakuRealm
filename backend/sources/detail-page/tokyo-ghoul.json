@@ -1,0 +1,367 @@
+{
+    "title": "Tokyo Ghoul",
+    "poster": "https://img.flawlessfiles.com/_r/300x400/100/a6/ff/a6ffd8294e7a5d540d7c462e94400189/a6ffd8294e7a5d540d7c462e94400189.jpg",
+    "background": "https://img.flawlessfiles.com/_r/300x400/100/a6/ff/a6ffd8294e7a5d540d7c462e94400189/a6ffd8294e7a5d540d7c462e94400189.jpg",
+    "description": "Tokyo has become a cruel and merciless city—a place where vicious creatures called \"ghouls\" exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society.\n\n\n\nBased on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies.\n\n\n\n[Written by MAL Rewrite]",
+    "film_stats": {
+        "rating": "R",
+        "quality": "HD",
+        "subtitles": "12",
+        "dubbing": "12",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    "japanese_title": "東京喰種-トーキョーグール-",
+    "synonyms": [
+        "Tokyo Kushu",
+        "Toukyou Kushu",
+        "Toukyou Ghoul"
+    ],
+    "aired": "Jul 4, 2014 to Sep 19, 2014",
+    "premiered": "Summer 2014",
+    "duration": "24m",
+    "status": "Finished Airing",
+    "score": "7.82",
+    "studios": [
+        "Studio Pierrot"
+    ],
+    "producers": [
+        "Marvelous AQL",
+        "TC Entertainment",
+        "Shueisha",
+        "Studio Pierrot",
+        "Funimation"
+    ],
+    "genres": [
+        "Action",
+        "Mystery",
+        "Drama",
+        "Horror",
+        "Supernatural",
+        "Psychological",
+        "Seinen"
+    ],
+    "characters": [
+        {
+            "character": "Kaneki, Ken",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/de/dd/dedd92a93f31b6eff5e083e9c90c7a95/dedd92a93f31b6eff5e083e9c90c7a95.jpg",
+            "role": "Main",
+            "voice_actor": "Clark, Leah",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/c0/ce/c0ce0846a0f4b9fb304916ec4c641fbb/c0ce0846a0f4b9fb304916ec4c641fbb.jpg",
+            "nationality": "English"
+        },
+        {
+            "character": "Kirishima, Touka",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/8f/9c/8f9c0fafedb6d9dc5fb396fcd83cbecd/8f9c0fafedb6d9dc5fb396fcd83cbecd.jpg",
+            "role": "Main",
+            "voice_actor": "Palencia, Brina",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/67/b6/67b617fb3bda293fea66d48b0d4034b2/67b617fb3bda293fea66d48b0d4034b2.jpg",
+            "nationality": "English"
+        },
+        {
+            "character": "Abe, Maiko",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/b9/cf/b9cffc168767af0223999577cef1197a/b9cffc168767af0223999577cef1197a.jpg",
+            "role": "Supporting",
+            "voice_actor": "Asano, Mayumi",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/ff/f2/fff29e124fbdcd729e976b72533fa31a/fff29e124fbdcd729e976b72533fa31a.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Amon, Koutarou",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/59/54/59548551a778284a9fd695f1c960653a/59548551a778284a9fd695f1c960653a.jpg",
+            "role": "Supporting",
+            "voice_actor": "Konishi, Katsuyuki",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/ef/de/efde288d6c83c22388532c5e7b444530/efde288d6c83c22388532c5e7b444530.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Arima, Kishou",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/00/b0/00b0b8ff960319f73e5999dd7ebcb5cb/00b0b8ff960319f73e5999dd7ebcb5cb.jpg",
+            "role": "Supporting",
+            "voice_actor": "Namikawa, Daisuke",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/99/bd/99bd324a9350d978a0f2d10b871944e1/99bd324a9350d978a0f2d10b871944e1.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Banjou, Kazuichi",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/cf/7b/cf7bc1ca15bc42660e3c2c5de0256db8/cf7bc1ca15bc42660e3c2c5de0256db8.jpg",
+            "role": "Supporting",
+            "voice_actor": "Itou, Kentarou",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/a0/46/a046dd98b792d4fc1a91c8778207e1da/a046dd98b792d4fc1a91c8778207e1da.jpg",
+            "nationality": "Japanese"
+        }
+    ],
+    "trailers": [
+        {
+            "title": "PV Madman ver.",
+            "video_url": "https://www.youtube.com/embed/",
+            "thumbnail": "https://i.ytimg.com/vi//hqdefault.jpg"
+        },
+        {
+            "title": "PV AnimeLab ver.",
+            "video_url": "https://www.youtube.com/embed/ETHpMMV8rJU",
+            "thumbnail": "https://i.ytimg.com/vi/ETHpMMV8rJU/hqdefault.jpg"
+        }
+    ],
+    "more_seasons": [
+        {
+            "title": "OVA-1",
+            "url": "/tokyo-ghoul-jack-1869",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/54/20/5420cc09fa1fcc9ac76f21c306d48967/5420cc09fa1fcc9ac76f21c306d48967.jpg"
+        },
+        {
+            "title": "OVA-2",
+            "url": "/tokyo-ghoul-pinto-2280",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/15/fd/15fd320fc66dff2571176ee4a0402555/15fd320fc66dff2571176ee4a0402555.jpg"
+        },
+        {
+            "title": "Season 1",
+            "url": "/tokyo-ghoul-790",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/a6/ff/a6ffd8294e7a5d540d7c462e94400189/a6ffd8294e7a5d540d7c462e94400189.jpg"
+        },
+        {
+            "title": "Season 2",
+            "url": "/tokyo-ghoul-a-3130",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/87/98/8798db1ca7bd21638202c622c770b313/8798db1ca7bd21638202c622c770b313.jpg"
+        },
+        {
+            "title": "Season 3",
+            "url": "/tokyo-ghoulre-5167",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/a0/63/a063d18ffaef8d2d72fcb845211075a1/a063d18ffaef8d2d72fcb845211075a1.jpg"
+        },
+        {
+            "title": "Season 3, Part 2",
+            "url": "/tokyo-ghoulre-2nd-season-6585",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/10/18/1018175f05592c650c69c9c6e06b455b/1018175f05592c650c69c9c6e06b455b.jpg"
+        }
+    ],
+    "related_anime": [
+        {
+            "title": "Tokyo Ghoul: \"Jack\"",
+            "url": "/tokyo-ghoul-jack-1869",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/54/20/5420cc09fa1fcc9ac76f21c306d48967/5420cc09fa1fcc9ac76f21c306d48967.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "OVA"
+        },
+        {
+            "title": "Tokyo Ghoul: \"Pinto\"",
+            "url": "/tokyo-ghoul-pinto-2280",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/15/fd/15fd320fc66dff2571176ee4a0402555/15fd320fc66dff2571176ee4a0402555.jpg",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "OVA"
+        },
+        {
+            "title": "Tokyo Ghoul √A",
+            "url": "/tokyo-ghoul-a-3130",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/87/98/8798db1ca7bd21638202c622c770b313/8798db1ca7bd21638202c622c770b313.jpg",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV"
+        }
+    ],
+    "recommended_anime": [
+        {
+            "title": "Guyver: Out of Control",
+            "url": "/guyver-out-of-control-6934",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/cd/0f/cd0fab10ddcc6661f6c6ead96f0700d8/cd0fab10ddcc6661f6c6ead96f0700d8.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "54m"
+        },
+        {
+            "title": "Goku II: Midnight Eye",
+            "url": "/goku-ii-midnight-eye-6936",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ae/35/ae35bd61b052039338adfb00ff7d9042/ae35bd61b052039338adfb00ff7d9042.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "53m"
+        },
+        {
+            "title": "Street Fighter IV: The Ties That Bind",
+            "url": "/street-fighter-iv-the-ties-that-bind-6945",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/54/27/542742581dade5cd3814f4df1bfe349a/542742581dade5cd3814f4df1bfe349a.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "65m"
+        },
+        {
+            "title": "Suna no Bara: Yuki no Mokushiroku",
+            "url": "/suna-no-bara-yuki-no-mokushiroku-6947",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/95/7c/957c45ff2720e2413a496f4578e487f2/957c45ff2720e2413a496f4578e487f2.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "44m"
+        },
+        {
+            "title": "Laughing Target",
+            "url": "/laughing-target-6954",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/7d/aa/7daa88e6a4134b0c160d52594da9b7b5/7daa88e6a4134b0c160d52594da9b7b5.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "50m"
+        },
+        {
+            "title": "Wild Adapter",
+            "url": "/wild-adapter-6955",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/30/c6/30c68e91e577118bd4ea6686c4e46380/30c68e91e577118bd4ea6686c4e46380.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "28m"
+        },
+        {
+            "title": "What's Up Mechadoc",
+            "url": "/whats-up-mechadoc-6957",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/77/43/7743e1a55ef6bd75cf185b5dedc9221d/7743e1a55ef6bd75cf185b5dedc9221d.jpg",
+            "rate": "",
+            "subtitles": "30",
+            "dubbing": "",
+            "episodes": "30",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Ogre Slayer",
+            "url": "/ogre-slayer-6961",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/c7/23/c723278fe8c9bc13294e6f514119f2ef/c723278fe8c9bc13294e6f514119f2ef.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "29m"
+        },
+        {
+            "title": "Psychic Academy",
+            "url": "/psychic-academy-6964",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/6f/7c/6f7cf601ed2defb6fcf994341507213d/6f7cf601ed2defb6fcf994341507213d.jpg",
+            "rate": "",
+            "subtitles": "8",
+            "dubbing": "",
+            "episodes": "8",
+            "type": "TV",
+            "runtime": "35m"
+        },
+        {
+            "title": "Spooky Kitaro: Giant Sea Monster",
+            "url": "/spooky-kitaro-giant-sea-monster-6989",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/a7/6d/a76d1eb73e2bc95575e45b5f3c3bdc63/a76d1eb73e2bc95575e45b5f3c3bdc63.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "50m"
+        },
+        {
+            "title": "A Girl in a Lower Grade (TV)",
+            "url": "/a-girl-in-a-lower-grade-tv-6997",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/58/1d/581df09df4d0a323368eb7cb79a381bb/581df09df4d0a323368eb7cb79a381bb.jpg",
+            "rate": "",
+            "subtitles": "13",
+            "dubbing": "",
+            "episodes": "13",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "For Whom the Alchemist Exists",
+            "url": "/for-whom-the-alchemist-exists-6968",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/37/ce/37ce5a0fa07bc1cb40e1e16270eb97c1/37ce5a0fa07bc1cb40e1e16270eb97c1.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "117m"
+        },
+        {
+            "title": "Ashita no Joe Pilots",
+            "url": "/ashita-no-joe-pilots-7003",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/68/08/6808860706511463dc59add6c837c6c6/6808860706511463dc59add6c837c6c6.jpg",
+            "rate": "",
+            "subtitles": "2",
+            "dubbing": "",
+            "episodes": "2",
+            "type": "Special",
+            "runtime": "10m"
+        },
+        {
+            "title": "Bobobo-bo Bo-bobo Recap",
+            "url": "/bobobo-bo-bo-bobo-recap-7005",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/68/f9/68f95d31124745491d057fae48ce5b1a/68f95d31124745491d057fae48ce5b1a.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "25m"
+        },
+        {
+            "title": "Chu-Bra",
+            "url": "/chu-bra-7007",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/44/38/4438802299b4bda787fe3b9b65a65b2b/4438802299b4bda787fe3b9b65a65b2b.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Gall Force: Earth Chapter",
+            "url": "/gall-force-earth-chapter-7012",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/84/47/84477b0f537ab1afd8d86e844852473e/84477b0f537ab1afd8d86e844852473e.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "50m"
+        },
+        {
+            "title": "Wind: A Breath of Heart OVA",
+            "url": "/wind-a-breath-of-heart-ova-7038",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/e7/e7/e7e744e37c8053c9786fca1e3401e238/e7e744e37c8053c9786fca1e3401e238.jpg",
+            "rate": "",
+            "subtitles": "3",
+            "dubbing": "",
+            "episodes": "3",
+            "type": "OVA",
+            "runtime": "29m"
+        },
+        {
+            "title": "Genesis Survivor Gaiarth",
+            "url": "/genesis-survivor-gaiarth-7046",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/9d/4a/9d4a6718eb70ec23e88f4ee36d974b8d/9d4a6718eb70ec23e88f4ee36d974b8d.jpg",
+            "rate": "",
+            "subtitles": "3",
+            "dubbing": "3",
+            "episodes": "3",
+            "type": "OVA",
+            "runtime": "46m"
+        }
+    ]
+}

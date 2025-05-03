@@ -1,35 +1,28 @@
 "use client";
 import React from "react";
+import Image from "next/image";
 
 export default function Footer({ footerData }) {
   return (
-    <footer className="bg-[#191919] text-white px-6 pt-5 pb-0 mt-5">
+    <footer
+      className="text-white px-6 pt-5 pb-0 mt-5 bg-cover bg-center"
+      style={{
+        backgroundImage: "url('/footer_main.png')",
+        backgroundColor: "#191919", // fallback in case image doesn't load
+      }}
+    >
       {/* Top Section: Logo + (optionally) Social Icons */}
       <div className="flex flex-wrap items-center justify-between">
         <div className="flex items-center gap-5">
           {/* Logo */}
           <div className="pt-1">
-            <span className="text-xl font-bold uppercase">OtakuRealm</span>
+            <Image
+              src="/OtakuRealm_Logo.png"
+              alt="Otaku Realm Logo"
+              width={100}
+              height={50}
+            />
           </div>
-
-          {/* Social Icons (uncomment if needed)
-          <div className="flex gap-4">
-            <a href="#" title="Telegram">
-              <i className="fa fa-telegram"></i>
-            </a>
-            <a href="#" title="Discord">
-              <i className="fa fa-discord"></i>
-            </a>
-            <a href="#" title="Twitter">
-              <i className="fa fa-twitter"></i>
-            </a>
-            <a href="#" title="Facebook">
-              <i className="fa fa-facebook"></i>
-            </a>
-            <a href="#" title="YouTube">
-              <i className="fa fa-youtube"></i>
-            </a>
-          </div> */}
         </div>
       </div>
 
@@ -38,7 +31,6 @@ export default function Footer({ footerData }) {
 
       {/* A–Z List Section */}
       <div className="mb-4">
-        {/* Row with the heading + subtitle */}
         <div className="flex items-center gap-2">
           <span className="font-semibold text-base text-white">A-Z LIST</span>
           <span className="inline-block w-px h-5 bg-[#353535] mx-2"></span>
@@ -47,13 +39,12 @@ export default function Footer({ footerData }) {
           </span>
         </div>
 
-        {/* Row with the letters */}
         <div className="flex flex-wrap gap-2 mt-2">
           {footerData?.map((item, index) => (
             <a
               key={index}
               href={item.url}
-              className="px-2 py-1 border border-[#353535] rounded text-xs text-[#ccc] cursor-pointer transition-colors duration-200 hover:bg-[#bb5052] hover:text-black"
+              className="px-2 py-1 border border-[#353535] rounded text-xs text-[#ccc] cursor-pointer transition-colors duration-200 hover:bg-[#bb5052] hover:text-white"
             >
               {item.text}
             </a>
@@ -92,8 +83,8 @@ export default function Footer({ footerData }) {
       {/* Disclaimers */}
       <div className="text-xs text-[#999] leading-5 mb-0">
         <p>
-          OtakuRealm does not store any files on our server, we only linked to the
-          media which is hosted on third party services.
+          OtakuRealm does not store any files on our server, we only linked to
+          the media which is hosted on third party services.
         </p>
         <p>© OtakuRealm</p>
       </div>

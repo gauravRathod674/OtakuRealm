@@ -6,6 +6,7 @@ import {
   faMicrophone,
 } from "@fortawesome/free-solid-svg-icons";
 import Link from "next/link";
+import Image from "next/image";
 
 /**
  * Expects data shaped like:
@@ -46,7 +47,7 @@ export default function TopSectionList({ sectionData }) {
         {section}
       </h2>
 
-      <hr className="border-t border-[#bb5052] w-[90%] mx-4"  />
+      <hr className="border-t border-[#bb5052] w-[90%] mx-4" />
 
       {/* Anime Items */}
       <div className="flex flex-col space-y-4">
@@ -58,11 +59,15 @@ export default function TopSectionList({ sectionData }) {
           >
             {/* Left Part (Thumbnail) */}
             <div className="w-[20%] flex-shrink-0">
-              <img
-                src={item.image_url}
-                alt={item.anime_title}
-                className="w-full h-[120px] object-cover rounded-md mr-4"
-              />
+              <div className="relative w-full h-[120px] mr-4">
+                <Image
+                  src={item.image_url}
+                  alt={item.anime_title}
+                  layout="fill"
+                  objectFit="cover"
+                  className="rounded-md"
+                />
+              </div>
             </div>
 
             {/* Middle Part: Title + Stats */}
@@ -112,15 +117,17 @@ export default function TopSectionList({ sectionData }) {
         ))}
       </div>
 
-      {/* “View more” link at bottom, if any */}
       {viewMoreUrl && (
-        <div className="mt-4">
+        <div className="mt-4 flex justify-center">
           <Link
             href={viewMoreUrl}
-            className="inline-block bg-[#BB5052] text-black px-4 py-2  font-semibold hover:bg-[#A04345] w-80 text-center rounded-sm"
+            className="
+        inline-block bg-[#BB5052] text-black px-4 py-2 font-semibold hover:bg-[#A04345]
+        w-80 sm:w-72 md:w-64
+        max-[639px]:w-full max-[639px]:mx-auto text-center rounded-sm
+      "
           >
-            View more{" "}
-            <FontAwesomeIcon icon={faGreaterThan} className="ml-2" />
+            View more <FontAwesomeIcon icon={faGreaterThan} className="ml-2" />
           </Link>
         </div>
       )}

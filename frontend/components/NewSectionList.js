@@ -21,7 +21,7 @@ const NewSectionList = ({ sectionData }) => {
   return (
     <div className="new-section-list p-4 rounded-md">
       <div className="flex items-center justify-between mb-4">
-        <h2 className="text-2xl font-bold text-[#BB5052] mb-4">
+        <h2 className="text-2xl font-bold text-[#BB5052] mb-4 max-[420px]:text-lg">
           {sectionData.section.toLowerCase() === "new on kaido"
             ? "New On OtakuRealm"
             : sectionData.section}{" "}
@@ -29,7 +29,7 @@ const NewSectionList = ({ sectionData }) => {
         {viewMoreLink && (
           <Link
             href={viewMoreLink}
-            className="text-lg text-gray-300 hover:underline mb-4 hover:text-[#bb5052]"
+            className="text-lg text-gray-300 hover:underline mb-4 hover:text-[#bb5052] max-[420px]:text-lg"
           >
             View more{" "}
             <FontAwesomeIcon icon={faGreaterThan} className="text-sm ml-1" />

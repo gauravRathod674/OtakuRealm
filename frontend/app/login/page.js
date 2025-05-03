@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import axios from "axios";
-import "@/app/login/login.css";
+import "@/app/login/styles/login.css"; // Correct path for login styles
 import { useSearchParams, useParams } from "next/navigation";
 import Link from "next/link";
 
@@ -32,7 +32,7 @@ export default function LoginPage() {
         }
         setTimeout(() => {
           setAlert({ message: "", success: false });
-        }, 3000); // clear after animation completes
+        }, 3000);
       }, 5000);
       return () => clearTimeout(timer);
     }
@@ -42,7 +42,7 @@ export default function LoginPage() {
     e.preventDefault();
     const username = e.target.loginUsername.value;
     const password = e.target.loginPassword.value;
-
+  
     try {
       const response = await axios.post(
         `${process.env.NEXT_PUBLIC_API_URL}/login`,
@@ -53,13 +53,20 @@ export default function LoginPage() {
         }
       );
       console.log("Login response:", response.data);
+  
       if (response.data.token) {
+        // ✅ Store token and profile photo in localStorage
         localStorage.setItem("token", response.data.token);
+        if (response.data.profile_photo) {
+          localStorage.setItem("profile_photo", response.data.profile_photo);
+        }
       }
+  
       setAlert({
         message: response.data.message,
         success: response.data.success,
       });
+  
       if (response.data.success) {
         window.location.href = "/";
       }
@@ -71,6 +78,7 @@ export default function LoginPage() {
       });
     }
   };
+  
 
   const onSubmitRegister = async (e) => {
     e.preventDefault();
@@ -124,6 +132,7 @@ export default function LoginPage() {
         setIsLogin(true);
       });
     }
+
     return () => {
       if (registerLink) registerLink.off("click");
       if (loginLink) loginLink.off("click");
@@ -188,7 +197,7 @@ export default function LoginPage() {
               style={{ "--i": 4, "--j": 25 }}
             >
               <p>
-                Don't have an account?{" "}
+                Don&apos;t have an account?{" "}
                 <Link href="#" className="register-link">
                   Sign Up
                 </Link>
@@ -204,7 +213,7 @@ export default function LoginPage() {
           </h2>
           <p className="animation" style={{ "--i": 1, "--j": 21 }}>
             Dive back into your favorite anime world at OtakuRealm—where every
-            login unlocks new adventures. Let's get started!
+            login unlocks new adventures. Let&apos; s get started!
           </p>
         </div>
 

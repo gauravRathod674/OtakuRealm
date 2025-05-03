@@ -1,0 +1,94 @@
+{
+  "most_popular_anime": [
+    {
+      "title": "Attack on Titan",
+      "url": "/attack-on-titan-112",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/de/bf/debf027d032c6d40b91fab16b2ff9bd4/debf027d032c6d40b91fab16b2ff9bd4.jpg",
+      "subtitles": "25",
+      "dubbing": "25",
+      "episodes": "25",
+      "type": "TV"
+    },
+    {
+      "title": "Death Note",
+      "url": "/death-note-60",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/5e/61/5e61f3e7c0045e46b670d31a5bb39c68/5e61f3e7c0045e46b670d31a5bb39c68.jpg",
+      "subtitles": "37",
+      "dubbing": "37",
+      "episodes": "37",
+      "type": "TV"
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "url": "/fullmetal-alchemist-brotherhood-1",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/0d/2d/0d2d0a1d4276e7e2595702dc4cebbda9/0d2d0a1d4276e7e2595702dc4cebbda9.jpeg",
+      "subtitles": "64",
+      "dubbing": "64",
+      "episodes": "64",
+      "type": "TV"
+    },
+    {
+      "title": "One Punch Man",
+      "url": "/one-punch-man-63",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/f5/d1/f5d173f8317f592c6c70d594829b89e4/f5d173f8317f592c6c70d594829b89e4.jpg",
+      "subtitles": "12",
+      "dubbing": "12",
+      "episodes": "12",
+      "type": "TV"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "url": "/demon-slayer-kimetsu-no-yaiba-47",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/30/df/30df93feaa422101659e14d0a2a2f582/30df93feaa422101659e14d0a2a2f582.jpg",
+      "subtitles": "26",
+      "dubbing": "26",
+      "episodes": "26",
+      "type": "TV"
+    },
+    {
+      "title": "Sword Art Online",
+      "url": "/sword-art-online-2274",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/90/dc/90dca175561e61180622bc79218104cb/90dca175561e61180622bc79218104cb.jpg",
+      "subtitles": "25",
+      "dubbing": "25",
+      "episodes": "25",
+      "type": "TV"
+    },
+    {
+      "title": "My Hero Academia",
+      "url": "/my-hero-academia-322",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/d1/ae/d1ae1f3d3324e24dfdfa64e4c2e687f8/d1ae1f3d3324e24dfdfa64e4c2e687f8.jpg",
+      "subtitles": "13",
+      "dubbing": "13",
+      "episodes": "13",
+      "type": "TV"
+    },
+    {
+      "title": "Hunter x Hunter",
+      "url": "/hunter-x-hunter-2",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/99/3c/993c0361975cce4c7fbb11f8558f9664/993c0361975cce4c7fbb11f8558f9664.jpg",
+      "subtitles": "148",
+      "dubbing": "148",
+      "episodes": "148",
+      "type": "TV"
+    },
+    {
+      "title": "Naruto",
+      "url": "/naruto-677",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/5d/b4/5db400c33f7494bc8ae96f9e634958d0/5db400c33f7494bc8ae96f9e634958d0.jpg",
+      "subtitles": "220",
+      "dubbing": "220",
+      "episodes": "220",
+      "type": "TV"
+    },
+    {
+      "title": "Tokyo Ghoul",
+      "url": "/tokyo-ghoul-790",
+      "poster": "https://img.flawlessfiles.com/_r/300x400/100/a6/ff/a6ffd8294e7a5d540d7c462e94400189/a6ffd8294e7a5d540d7c462e94400189.jpg",
+      "subtitles": "12",
+      "dubbing": "12",
+      "episodes": "12",
+      "type": "TV"
+    }
+  ]
+}

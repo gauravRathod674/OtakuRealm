@@ -1,0 +1,405 @@
+{
+    "title": "One Punch Man",
+    "poster": "https://img.flawlessfiles.com/_r/300x400/100/f5/d1/f5d173f8317f592c6c70d594829b89e4/f5d173f8317f592c6c70d594829b89e4.jpg",
+    "background": "https://img.flawlessfiles.com/_r/300x400/100/f5/d1/f5d173f8317f592c6c70d594829b89e4/f5d173f8317f592c6c70d594829b89e4.jpg",
+    "description": "The seemingly ordinary and unimpressive Saitama has a rather unique hobby: being a hero. In order to pursue his childhood dream, he trained relentlessly for three years—and lost all of his hair in the process. Now, Saitama is incredibly powerful, so much so that no enemy is able to defeat him in battle. In fact, all it takes to defeat evildoers with just one punch has led to an unexpected problem—he is no longer able to enjoy the thrill of battling and has become quite bored.\n\n \n\nThis all changes with the arrival of Genos, a 19-year-old cyborg, who wishes to be Saitama's disciple after seeing what he is capable of. Genos proposes that the two join the Hero Association in order to become certified heroes that will be recognized for their positive contributions to society, and Saitama, shocked that no one knows who he is, quickly agrees. And thus begins the story of One Punch Man, an action-comedy that follows an eccentric individual who longs to fight strong enemies that can hopefully give him the excitement he once felt and just maybe, he'll become popular in the process.\n\n\n\n[Written by MAL Rewrite]",
+    "film_stats": {
+        "rating": "R",
+        "quality": "HD",
+        "subtitles": "12",
+        "dubbing": "12",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    "japanese_title": "ワンパンマン",
+    "synonyms": [
+        "One Punch-Man",
+        "One-Punch Man",
+        "OPM"
+    ],
+    "aired": "Oct 5, 2015 to Dec 21, 2015",
+    "premiered": "Fall 2015",
+    "duration": "24m",
+    "status": "Finished Airing",
+    "score": "8.52",
+    "studios": [
+        "Madhouse"
+    ],
+    "producers": [
+        "TV Tokyo",
+        "Bandai Visual",
+        "Lantis",
+        "Asatsu DK",
+        "Banpresto",
+        "Good Smile Company",
+        "Shueisha",
+        "JR East Marketing & Communications",
+        "Madhouse",
+        "Viz Media"
+    ],
+    "genres": [
+        "Action",
+        "Comedy",
+        "Parody",
+        "Sci-Fi",
+        "Super Power",
+        "Supernatural"
+    ],
+    "characters": [
+        {
+            "character": "Genos",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/15/a5/15a55f6c42486aef000a6cce2e1052a5/15a55f6c42486aef000a6cce2e1052a5.jpg",
+            "role": "Main",
+            "voice_actor": "Ishikawa, Kaito",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/52/c4/52c4340277c4811332866e8aea8015e3/52c4340277c4811332866e8aea8015e3.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Saitama",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/df/23/df232a66ca2fc97672042f2f2c187a99/df232a66ca2fc97672042f2f2c187a99.jpg",
+            "role": "Main",
+            "voice_actor": "Furukawa, Makoto",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/85/38/8538ec596e9ea3c5215523463317a033/8538ec596e9ea3c5215523463317a033.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "All Back-Man",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/a6/55/a65566b16d0726c1da0c45e582a46807/a65566b16d0726c1da0c45e582a46807.jpg",
+            "role": "Supporting",
+            "voice_actor": "Tezuka, Hiromichi",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/74/2c/742c41d79a3a6ada22566cc2dea998dc/742c41d79a3a6ada22566cc2dea998dc.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Armored Gorilla",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/d4/c1/d4c1fe7b0f42b3e7297ea31fa7cdfb0d/d4c1fe7b0f42b3e7297ea31fa7cdfb0d.jpg",
+            "role": "Supporting",
+            "voice_actor": "Yamamoto, Shouta",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/32/3b/323b8857b5b5016af9f715df3940a212/323b8857b5b5016af9f715df3940a212.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Atomic Samurai",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/67/d7/67d7bf57eea4a95ac48bd6ba8914e31c/67d7bf57eea4a95ac48bd6ba8914e31c.jpg",
+            "role": "Supporting",
+            "voice_actor": "Tsuda, Kenjirou",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/13/40/13400a4ae4cf4371b317701bb1a251b2/13400a4ae4cf4371b317701bb1a251b2.jpg",
+            "nationality": "Japanese"
+        },
+        {
+            "character": "Bang",
+            "char_img": "https://img.flawlessfiles.com/_r/100x100/100/8c/f7/8cf77bb6e05658aca355e417ff47416e/8cf77bb6e05658aca355e417ff47416e.jpg",
+            "role": "Supporting",
+            "voice_actor": "Yamaji, Kazuhiro",
+            "va_img": "https://img.flawlessfiles.com/_r/100x100/100/06/99/0699cabd51c3b55ad53fbfe187fd38c0/0699cabd51c3b55ad53fbfe187fd38c0.jpg",
+            "nationality": "Japanese"
+        }
+    ],
+    "trailers": [
+        {
+            "title": "Trailer AnimeLab ver.",
+            "video_url": "https://www.youtube.com/embed/ExUMiF1L0HA",
+            "thumbnail": "https://i.ytimg.com/vi/ExUMiF1L0HA/hqdefault.jpg"
+        },
+        {
+            "title": "PV 4",
+            "video_url": "https://www.youtube.com/embed/tMblzsXwAKo",
+            "thumbnail": "https://i.ytimg.com/vi/tMblzsXwAKo/hqdefault.jpg"
+        },
+        {
+            "title": "PV 3",
+            "video_url": "https://www.youtube.com/embed/RzmFKUDOUgw",
+            "thumbnail": "https://i.ytimg.com/vi/RzmFKUDOUgw/hqdefault.jpg"
+        },
+        {
+            "title": "PV 2",
+            "video_url": "https://www.youtube.com/embed/QeaFvbUi7mU",
+            "thumbnail": "https://i.ytimg.com/vi/QeaFvbUi7mU/hqdefault.jpg"
+        },
+        {
+            "title": "PV 1",
+            "video_url": "https://www.youtube.com/embed/6Bdb1V0Io_g",
+            "thumbnail": "https://i.ytimg.com/vi/6Bdb1V0Io_g/hqdefault.jpg"
+        },
+        {
+            "title": "CM 30-sec version",
+            "video_url": "https://www.youtube.com/embed/O7QzR07W0c0",
+            "thumbnail": "https://i.ytimg.com/vi/O7QzR07W0c0/hqdefault.jpg"
+        },
+        {
+            "title": "CM 15-sec version",
+            "video_url": "https://www.youtube.com/embed/5YordunMGQQ",
+            "thumbnail": "https://i.ytimg.com/vi/5YordunMGQQ/hqdefault.jpg"
+        },
+        {
+            "title": "CM 1 Animax version",
+            "video_url": "https://www.youtube.com/embed/Qu8ttYyEm9w",
+            "thumbnail": "https://i.ytimg.com/vi/Qu8ttYyEm9w/hqdefault.jpg"
+        }
+    ],
+    "more_seasons": [
+        {
+            "title": "Season 1",
+            "url": "/one-punch-man-63",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/f5/d1/f5d173f8317f592c6c70d594829b89e4/f5d173f8317f592c6c70d594829b89e4.jpg"
+        },
+        {
+            "title": "OVA",
+            "url": "/one-punch-man-road-to-hero-910",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/e2/7b/e27bc0dad2fef6b65fd502cdcd47d7e0/e27bc0dad2fef6b65fd502cdcd47d7e0.jpg"
+        },
+        {
+            "title": "SP-1",
+            "url": "/one-punch-man-specials-909",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/09/5d/095dbd73ccb0506e0e7ce16021df0924/095dbd73ccb0506e0e7ce16021df0924.jpg"
+        },
+        {
+            "title": "Season 2",
+            "url": "/one-punch-man-2nd-season-1861",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/c5/03/c50314f1aa980665c1316d36952d4446/c50314f1aa980665c1316d36952d4446.jpg"
+        },
+        {
+            "title": "SP-2",
+            "url": "/one-punch-man-2nd-season-specials-2430",
+            "poster": "https://img.flawlessfiles.com/_r/100x200/100/a7/a3/a7a33a567ef4d244b12b6050fa7865ff/a7a33a567ef4d244b12b6050fa7865ff.jpg"
+        }
+    ],
+    "related_anime": [
+        {
+            "title": "One Punch Man Specials",
+            "url": "/one-punch-man-specials-909",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/09/5d/095dbd73ccb0506e0e7ce16021df0924/095dbd73ccb0506e0e7ce16021df0924.jpg",
+            "subtitles": "6",
+            "dubbing": "6",
+            "episodes": "6",
+            "type": "Special"
+        },
+        {
+            "title": "One Punch Man: Road to Hero",
+            "url": "/one-punch-man-road-to-hero-910",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/e2/7b/e27bc0dad2fef6b65fd502cdcd47d7e0/e27bc0dad2fef6b65fd502cdcd47d7e0.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA"
+        },
+        {
+            "title": "One Punch Man 2nd Season",
+            "url": "/one-punch-man-2nd-season-1861",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/c5/03/c50314f1aa980665c1316d36952d4446/c50314f1aa980665c1316d36952d4446.jpg",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV"
+        },
+        {
+            "title": "One Punch Man 2nd Season Commemorative Special",
+            "url": "/one-punch-man-2nd-season-commemorative-special-4768",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/d2/98/d2980949001f919dced6f4912004890e/d2980949001f919dced6f4912004890e.jpg",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special"
+        }
+    ],
+    "recommended_anime": [
+        {
+            "title": "Devilman: Crybaby - Digest Eizou",
+            "url": "/devilman-crybaby-digest-eizou-8292",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/7a/5f/7a5fe180f9e884666b699adc81e07ab6/7a5fe180f9e884666b699adc81e07ab6.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "ONA",
+            "runtime": "24m"
+        },
+        {
+            "title": "Gunparade Orchestra",
+            "url": "/gunparade-orchestra-8296",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/89/38/89385fd9e31e1239d10efe0f91ba0344/89385fd9e31e1239d10efe0f91ba0344.jpg",
+            "rate": "",
+            "subtitles": "24",
+            "dubbing": "",
+            "episodes": "24",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "Kakyusei 2",
+            "url": "/kakyusei-2-8301",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ae/72/ae72e69e609042fcbf8159fcf92c5b66/ae72e69e609042fcbf8159fcf92c5b66.jpg",
+            "rate": "",
+            "subtitles": "13",
+            "dubbing": "",
+            "episodes": "13",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "DD Fist of the North Star 2: Strawberry Flavor Plus",
+            "url": "/dd-fist-of-the-north-star-2-strawberry-flavor-plus-8306",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/00/37/0037b72fecdba475d89a86d6b1ae33a1/0037b72fecdba475d89a86d6b1ae33a1.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Garo: Crimson Moon",
+            "url": "/garo-crimson-moon-8308",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/c5/e3/c5e3b0062a442600f6900cc7118d18ac/c5e3b0062a442600f6900cc7118d18ac.jpg",
+            "rate": "",
+            "subtitles": "23",
+            "dubbing": "23",
+            "episodes": "23",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "gdgd men's Party",
+            "url": "/gdgd-mens-party-8309",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/7d/21/7d21d8262f5ed738a7b5d352e3e30fcb/7d21d8262f5ed738a7b5d352e3e30fcb.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "8m"
+        },
+        {
+            "title": "Hulaing Babies",
+            "url": "/hulaing-babies-8316",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/71/45/7145201c4fde2639e727932007636731/7145201c4fde2639e727932007636731.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "5m"
+        },
+        {
+            "title": "Kyouryuu Tankentai Born Free",
+            "url": "/kyouryuu-tankentai-born-free-8322",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/8f/3f/8f3f7c6819c35a3607c5bcff17944145/8f3f7c6819c35a3607c5bcff17944145.jpg",
+            "rate": "",
+            "subtitles": "25",
+            "dubbing": "",
+            "episodes": "25",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "The Demon Girl Next Door Minis",
+            "url": "/the-demon-girl-next-door-minis-8324",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/4c/46/4c46593c61390b6fc7e497698a5adb19/4c46593c61390b6fc7e497698a5adb19.jpg",
+            "rate": "",
+            "subtitles": "36",
+            "dubbing": "",
+            "episodes": "36",
+            "type": "ONA",
+            "runtime": "1m"
+        },
+        {
+            "title": "Sword Gai The Animation Part II",
+            "url": "/sword-gai-the-animation-part-ii-8337",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/2c/e7/2ce725d5bdcab5176647df0a55703f62/2ce725d5bdcab5176647df0a55703f62.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "ONA",
+            "runtime": "22m"
+        },
+        {
+            "title": "SENGOKUCHOJYUGIGA",
+            "url": "/sengokuchojyugiga-8351",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/07/6a/076af214d7d847dcd4b47937e9e659b4/076af214d7d847dcd4b47937e9e659b4.jpg",
+            "rate": "",
+            "subtitles": "13",
+            "dubbing": "",
+            "episodes": "13",
+            "type": "TV",
+            "runtime": "3m"
+        },
+        {
+            "title": "Kimi no Matsu Mirai (Basho) e",
+            "url": "/kimi-no-matsu-mirai-basho-e-8319",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/d6/e6/d6e68e0624884a0272edea47f6d88f7e/d6e68e0624884a0272edea47f6d88f7e.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "ONA",
+            "runtime": "15m"
+        },
+        {
+            "title": "Mahoutsukai Tai! vs. Shamanic Princess",
+            "url": "/mahoutsukai-tai-vs-shamanic-princess-8326",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/58/cc/58cc65a7be6525fc6a156004e90eeee5/58cc65a7be6525fc6a156004e90eeee5.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "5m"
+        },
+        {
+            "title": "Shachibato! President, It's Time for Battle!",
+            "url": "/shachibato-president-its-time-for-battle-8333",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/2c/85/2c850831625d90c53080f03e5e7d8bbe/2c850831625d90c53080f03e5e7d8bbe.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Sword Gai The Animation",
+            "url": "/sword-gai-the-animation-8336",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/9f/71/9f71f1d50a2cab5c00c036bd88205837/9f71f1d50a2cab5c00c036bd88205837.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "ONA",
+            "runtime": "22m"
+        },
+        {
+            "title": "Paroru's Future Island",
+            "url": "/parorus-future-island-8345",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/bc/46/bc46881175c2e5c6707effab953f9690/bc46881175c2e5c6707effab953f9690.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "26m"
+        },
+        {
+            "title": "Shounen Ashibe: Go! Go! Goma-chan 2",
+            "url": "/shounen-ashibe-go-go-goma-chan-2-8352",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/25/4a/254afff5a715758a24355d5e05c46ff1/254afff5a715758a24355d5e05c46ff1.jpg",
+            "rate": "",
+            "subtitles": "32",
+            "dubbing": "",
+            "episodes": "32",
+            "type": "TV",
+            "runtime": "9m"
+        },
+        {
+            "title": "Tomie",
+            "url": "/tomie-8358",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/52/66/52664002e18bdbd45e76d972c2b61353/52664002e18bdbd45e76d972c2b61353.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "10m"
+        }
+    ]
+}

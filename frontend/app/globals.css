@@ -50,3 +50,11 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   border: 1px solid var(--accent-color);
 }
+
+.fade-in {
+  @apply opacity-0 transition-opacity duration-700 ease-in;
+}
+
+.fade-in-active {
+  @apply opacity-100;
+}

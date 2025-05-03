@@ -1,0 +1,239 @@
+{
+    "title": "Zenshu",
+    "poster": "https://img.flawlessfiles.com/_r/300x400/100/5b/30/5b3019270b9e06f5cb0f8a788d1b2d1a/5b3019270b9e06f5cb0f8a788d1b2d1a.jpg",
+    "background": "https://img.flawlessfiles.com/_r/300x400/100/5b/30/5b3019270b9e06f5cb0f8a788d1b2d1a/5b3019270b9e06f5cb0f8a788d1b2d1a.jpg",
+    "description": "After graduating from high school, Natsuko Hirose starts her career as an animator. Her talent quickly flourishes, and she makes her debut as a director in no time. Her first anime becomes a massive hit, sparking a social phenomenon and earning her recognition as an up-and-coming genius director. Her next project is set to be a romantic comedy movie themed around first love! However, having never been in love herself, Natsuko struggles to understand the concept of first love, and as a result, she's unable to create the storyboard, causing the movie production to come to a standstill. One day, she passes out while working on her storyboard and wakes up in the world of her favorite childhood anime movie \"A Tale of Perishing.\"",
+    "film_stats": {
+        "rating": "PG-13",
+        "quality": "HD",
+        "subtitles": "12",
+        "dubbing": "12",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    "japanese_title": "全修。",
+    "synonyms": [],
+    "aired": "Jan 5, 2025 to Mar 23, 2025",
+    "premiered": "Winter 2025",
+    "duration": "24m",
+    "status": "Finished Airing",
+    "score": "7.55",
+    "studios": [
+        "MAPPA"
+    ],
+    "producers": [
+        "Bushiroad",
+        "dugout"
+    ],
+    "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Isekai"
+    ],
+    "characters": [],
+    "trailers": [],
+    "more_seasons": [],
+    "related_anime": [],
+    "recommended_anime": [
+        {
+            "title": "Gantz: Second Stage",
+            "url": "/gantz-second-stage-3174",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/40/47/404776e79fd9086a44a6efd6edc301fd/404776e79fd9086a44a6efd6edc301fd.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Giant Gorg",
+            "url": "/giant-gorg-3176",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/1f/14/1f14e6bb28460430b1184247a6ed8c33/1f14e6bb28460430b1184247a6ed8c33.jpg",
+            "rate": "",
+            "subtitles": "26",
+            "dubbing": "",
+            "episodes": "26",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "Ginga Hyouryuu Vifam",
+            "url": "/ginga-hyouryuu-vifam-3177",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/de/ae/deae91dbd275988432ffe217bd48d28f/deae91dbd275988432ffe217bd48d28f.jpg",
+            "rate": "",
+            "subtitles": "46",
+            "dubbing": "",
+            "episodes": "46",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "Haiyore! Nyaruko-san W OVA",
+            "url": "/haiyore-nyaruko-san-w-ova-3179",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/56/f1/56f18acbfc41e002ba581a5b78e03e52/56f18acbfc41e002ba581a5b78e03e52.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "OVA",
+            "runtime": "15m"
+        },
+        {
+            "title": "Our Last Crusade or the Rise of a New World",
+            "url": "/our-last-crusade-or-the-rise-of-a-new-world-3181",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/4b/40/4b402178880fda0efc08c65175cf56ed/4b402178880fda0efc08c65175cf56ed.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "12",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "One Piece 3D: Strawhat Chase",
+            "url": "/one-piece-3d-strawhat-chase-3188",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/01/60/01605691c2a52ce8c5f3226ec4a631a9/01605691c2a52ce8c5f3226ec4a631a9.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "30m"
+        },
+        {
+            "title": "Pokémon the Movie 20: I Choose You!",
+            "url": "/pokemon-the-movie-20-i-choose-you-3191",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/c0/81/c081fe3ce48bc6194833a5424c361676/c081fe3ce48bc6194833a5424c361676.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "98m"
+        },
+        {
+            "title": "Rockman.EXE Stream",
+            "url": "/rockmanexe-stream-3192",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/6d/4f/6d4f7052d3acbb5d96893261883b4335/6d4f7052d3acbb5d96893261883b4335.jpg",
+            "rate": "",
+            "subtitles": "51",
+            "dubbing": "",
+            "episodes": "51",
+            "type": "TV",
+            "runtime": "25m"
+        },
+        {
+            "title": "At The Mercy of The Sky",
+            "url": "/at-the-mercy-of-the-sky-3196",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/e9/44/e944a76870f57a1ca36f48eded5d1ddd/e944a76870f57a1ca36f48eded5d1ddd.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "Last Exile: Fam, the Silver Wing",
+            "url": "/last-exile-fam-the-silver-wing-3183",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/d9/89/d989264b79773194ce894febc679e10a/d989264b79773194ce894febc679e10a.jpg",
+            "rate": "",
+            "subtitles": "21",
+            "dubbing": "21",
+            "episodes": "21",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Lupin III: Alcatraz Connection",
+            "url": "/lupin-iii-alcatraz-connection-3184",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ad/26/ad263f9db37bc6102d45ca54ee53f611/ad263f9db37bc6102d45ca54ee53f611.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "91m"
+        },
+        {
+            "title": "MEKAKUCITY ACTORS",
+            "url": "/mekakucity-actors-3185",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/da/08/da08fbd818fd1e7e65222c66cd0ba427/da08fbd818fd1e7e65222c66cd0ba427.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "23m"
+        },
+        {
+            "title": "My Little Sister Can't Be This Cute 2",
+            "url": "/my-little-sister-cant-be-this-cute-2-3189",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/92/cd/92cdc9832fab7ed9c6039c7ff3e14744/92cdc9832fab7ed9c6039c7ff3e14744.jpg",
+            "rate": "",
+            "subtitles": "13",
+            "dubbing": "",
+            "episodes": "13",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "Space Adventure Cobra: The Movie",
+            "url": "/space-adventure-cobra-the-movie-3197",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/ad/a5/ada5874d1511ffad5b3d282ea021ad8d/ada5874d1511ffad5b3d282ea021ad8d.jpg",
+            "rate": "18+",
+            "subtitles": "",
+            "dubbing": "",
+            "episodes": "",
+            "type": "Movie",
+            "runtime": "99m"
+        },
+        {
+            "title": "Astro Boy",
+            "url": "/astro-boy-3200",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/2b/40/2b405050618ecd117285e6464631430a/2b405050618ecd117285e6464631430a.jpg",
+            "rate": "",
+            "subtitles": "",
+            "dubbing": "104",
+            "episodes": "193",
+            "type": "TV",
+            "runtime": "26m"
+        },
+        {
+            "title": "Pokemon: Advanced",
+            "url": "/pokemon-advanced-3190",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/56/2b/562b056f57113f8f899800f4badadde4/562b056f57113f8f899800f4badadde4.jpg",
+            "rate": "",
+            "subtitles": "192",
+            "dubbing": "192",
+            "episodes": "192",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "World Conquest Zvezda Plot",
+            "url": "/world-conquest-zvezda-plot-3194",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/83/57/83576b74941826f80ff3855e0c734918/83576b74941826f80ff3855e0c734918.jpg",
+            "rate": "",
+            "subtitles": "12",
+            "dubbing": "",
+            "episodes": "12",
+            "type": "TV",
+            "runtime": "24m"
+        },
+        {
+            "title": "You're Under Arrest: Diverting Traffic at the Beach",
+            "url": "/youre-under-arrest-diverting-traffic-at-the-beach-3198",
+            "poster": "https://img.flawlessfiles.com/_r/300x400/100/fb/0d/fb0d5e9392974d4371b041a35a67b3c6/fb0d5e9392974d4371b041a35a67b3c6.jpg",
+            "rate": "",
+            "subtitles": "1",
+            "dubbing": "1",
+            "episodes": "",
+            "type": "Special",
+            "runtime": "24m"
+        }
+    ]
+}

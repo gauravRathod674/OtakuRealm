@@ -1,0 +1,134 @@
+[
+    {
+        "title": "One Piece",
+        "url": "/one-piece-100",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/bc/d8/bcd84731a3eda4f4a306250769675065/bcd84731a3eda4f4a306250769675065.jpg",
+        "is_adult": false,
+        "subtitle_episodes": "1125",
+        "dubbing_episodes": "1122",
+        "total_episodes": "",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    {
+        "title": "Solo Leveling Season 2: Arise from the Shadow",
+        "url": "/solo-leveling-season-2-arise-from-the-shadow-19413",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/65/f9/65f92e6e315a931ef872da4b312442b8/65f92e6e315a931ef872da4b312442b8.jpg",
+        "is_adult": true,
+        "subtitle_episodes": "13",
+        "dubbing_episodes": "13",
+        "total_episodes": "13",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    {
+        "title": "Solo Leveling",
+        "url": "/solo-leveling-18718",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/b1/47/b147d331e311a5d5c8ee81269725fc92/b147d331e311a5d5c8ee81269725fc92.png",
+        "is_adult": false,
+        "subtitle_episodes": "12",
+        "dubbing_episodes": "12",
+        "total_episodes": "12",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    {
+        "title": "Hunter x Hunter",
+        "url": "/hunter-x-hunter-2",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/99/3c/993c0361975cce4c7fbb11f8558f9664/993c0361975cce4c7fbb11f8558f9664.jpg",
+        "is_adult": false,
+        "subtitle_episodes": "148",
+        "dubbing_episodes": "148",
+        "total_episodes": "148",
+        "type": "TV",
+        "runtime": "23m"
+    },
+    {
+        "title": "Dragon Ball Z",
+        "url": "/dragon-ball-z-325",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/2a/c3/2ac32c050b4dff7747fcc7f64c01edbd/2ac32c050b4dff7747fcc7f64c01edbd.jpg",
+        "is_adult": false,
+        "subtitle_episodes": "291",
+        "dubbing_episodes": "291",
+        "total_episodes": "291",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    {
+        "title": "Hell's Paradise",
+        "url": "/hells-paradise-18332",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/5f/d0/5fd0a7d4f0e1a9088c85bc0dcb2f176a/5fd0a7d4f0e1a9088c85bc0dcb2f176a.png",
+        "is_adult": true,
+        "subtitle_episodes": "13",
+        "dubbing_episodes": "13",
+        "total_episodes": "13",
+        "type": "TV",
+        "runtime": "22m"
+    },
+    {
+        "title": "Dragon Ball Super",
+        "url": "/dragon-ball-super-1692",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/69/08/6908f85a069414d40530042f2cdd8c8a/6908f85a069414d40530042f2cdd8c8a.jpg",
+        "is_adult": false,
+        "subtitle_episodes": "131",
+        "dubbing_episodes": "131",
+        "total_episodes": "131",
+        "type": "TV",
+        "runtime": "23m"
+    },
+    {
+        "title": "Bleach: Thousand-Year Blood War - The Conflict",
+        "url": "/bleach-thousand-year-blood-war-the-conflict-19322",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/b8/7a/b87a9e986e6e403ffddb520d24f5040a/b87a9e986e6e403ffddb520d24f5040a.jpg",
+        "is_adult": true,
+        "subtitle_episodes": "14",
+        "dubbing_episodes": "14",
+        "total_episodes": "14",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    {
+        "title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+        "url": "/demon-slayer-kimetsu-no-yaiba-hashira-training-arc-19107",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/1f/06/1f06eb0baf5520aa639b546fc189400d/1f06eb0baf5520aa639b546fc189400d.jpg",
+        "is_adult": true,
+        "subtitle_episodes": "8",
+        "dubbing_episodes": "8",
+        "total_episodes": "8",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    {
+        "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
+        "url": "/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too-18343",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/0a/d5/0ad5356f28ee75bccfde8b69ea6a5e54/0ad5356f28ee75bccfde8b69ea6a5e54.jpg",
+        "is_adult": false,
+        "subtitle_episodes": "13",
+        "dubbing_episodes": "13",
+        "total_episodes": "13",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    {
+        "title": "Fairy Tail",
+        "url": "/fairy-tail-930",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/cc/bc/ccbc20fd8ddf9b2000bf23894a787436/ccbc20fd8ddf9b2000bf23894a787436.jpg",
+        "is_adult": false,
+        "subtitle_episodes": "175",
+        "dubbing_episodes": "175",
+        "total_episodes": "175",
+        "type": "TV",
+        "runtime": "24m"
+    },
+    {
+        "title": "Shangri-La Frontier Season 2",
+        "url": "/shangri-la-frontier-season-2-19324",
+        "cover": "https://img.flawlessfiles.com/_r/300x400/100/0f/c6/0fc66f9879a3a4a15408c325e1677e17/0fc66f9879a3a4a15408c325e1677e17.jpg",
+        "is_adult": false,
+        "subtitle_episodes": "25",
+        "dubbing_episodes": "25",
+        "total_episodes": "25",
+        "type": "TV",
+        "runtime": "23m"
+    }
+]

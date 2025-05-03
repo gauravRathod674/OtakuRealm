@@ -1,165 +1,370 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faSearch, faFilter } from "@fortawesome/free-solid-svg-icons";
+import {
+  faBars,
+  faTimes,
+  faTv,
+  faBook,
+  faComments,
+  faRightToBracket,
+  faRightFromBracket,
+  faSearch,
+  faHouse,
+  faBookOpen,
+  faClockRotateLeft,
+  faFileLines,
+} from "@fortawesome/free-solid-svg-icons";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
+import Image from "next/image";
+import ChatbotModal from "./ChatbotModal";
+import { jwtDecode } from "jwt-decode";
 
 export default function Navbar() {
+  const menuItems = [
+    ["Anime Home", "/", faTv],
+    ["Manga Home", "/mangahome", faBook],
+    ["Chat Now", "chat", faComments],
+    ["Watch History", "/watch_history", faClockRotateLeft],
+    ["Read History", "/read_history", faFileLines],
+  ];
+
   const [menuOpen, setMenuOpen] = useState(false);
-  const [mobileSearchOpen, setMobileSearchOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState("");
+  const [chatOpen, setChatOpen] = useState(false);
+  const [user, setUser] = useState(null);
+  const [isMobile, setIsMobile] = useState(false);
+  const router = useRouter();
 
-  // Toggle the side menu
-  const toggleMenu = () => {
-    setMenuOpen(!menuOpen);
+  useEffect(() => {
+    const token = localStorage.getItem("token");
+    if (!token) return;
+    try {
+      const decoded = jwtDecode(token);
+      if (decoded.exp * 1000 > Date.now()) {
+        setUser({
+          username: decoded.username,
+          profile_photo:
+            localStorage.getItem("profile_photo") ||
+            "/media/profile_photos/profile_photo.jpg",
+        });
+      } else {
+        localStorage.removeItem("token");
+      }
+    } catch {
+      localStorage.removeItem("token");
+    }
+  }, []);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      const token = localStorage.getItem("token");
+      if (!token) {
+        setUser(null);
+        return;
+      }
+      try {
+        const decoded = jwtDecode(token);
+        if (decoded.exp * 1000 < Date.now()) {
+          localStorage.removeItem("token");
+          setUser(null);
+        }
+      } catch {
+        localStorage.removeItem("token");
+        setUser(null);
+      }
+    }, 60000);
+    return () => clearInterval(interval);
+  }, []);
+
+  const handleSearch = (e) => {
+    e.preventDefault();
+    const q = searchQuery.trim();
+    if (q) router.push(`/filter?keyword=${encodeURIComponent(q)}`);
   };
 
-  // Toggle the mobile search bar (for screens <700px)
-  const toggleMobileSearch = () => {
-    setMobileSearchOpen(!mobileSearchOpen);
+  const handleLogout = () => {
+    localStorage.removeItem("token");
+    setUser(null);
+    router.push("/");
   };
 
-  // Close mobile search bar when window is resized to >700px
+  const isProtected = (label) =>
+    ["Chat Now", "Watch History", "Read History"].includes(label);
+
+  // Detect mobile screen sizes
   useEffect(() => {
     const handleResize = () => {
-      if (window.innerWidth > 700 && mobileSearchOpen) {
-        setMobileSearchOpen(false);
-      }
+      setIsMobile(window.innerWidth <= 768); // or use your preferred breakpoint
     };
     window.addEventListener("resize", handleResize);
+    handleResize(); // Initialize on load
     return () => window.removeEventListener("resize", handleResize);
-  }, [mobileSearchOpen]);
+  }, []);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return; // Ensures code runs only on client side
+
+    const token = localStorage.getItem("token");
+    if (!token) return;
+    try {
+      const decoded = jwtDecode(token);
+      if (decoded.exp * 1000 > Date.now()) {
+        setUser({
+          username: decoded.username,
+          profile_photo:
+            localStorage.getItem("profile_photo") ||
+            "/media/profile_photos/profile_photo.jpg",
+        });
+      } else {
+        localStorage.removeItem("token");
+      }
+    } catch {
+      localStorage.removeItem("token");
+    }
+  }, []);
 
   return (
     <>
-      {/* TOP NAVBAR */}
-      <nav className="flex items-center bg-[#191919] h-[60px] px-5 py-1.5 font-sans text-white mb-1">
-        {/* Left Section: Hamburger + Brand */}
-        <div className="flex items-center gap-4">
-          {/* Hamburger */}
+      {/* Top Navbar */}
+      <nav className="flex items-center justify-between bg-transparent backdrop-blur-lg h-16 px-4 md:px-6 text-white w-full fixed top-0 z-40 shadow-md">
+        {/* Left: Hamburger + Logo */}
+        <div className="flex items-center space-x-4">
           <button
-            className="flex flex-col gap-[5px] bg-none border-none cursor-pointer focus:outline-none"
-            onClick={toggleMenu}
+            onClick={() => setMenuOpen(!menuOpen)}
+            className="focus:outline-none cursor-pointer"
           >
-            <span className="w-5 h-[2px] bg-white block"></span>
-            <span className="w-5 h-[2px] bg-white block"></span>
-            <span className="w-5 h-[2px] bg-white block"></span>
+            <FontAwesomeIcon icon={faBars} size="lg" />
           </button>
-
-          {/* Brand */}
-          <div className="text-lg font-bold uppercase"> 
-            <Link href="/">
-            OtakuRealm
-            </Link>
-            </div>
-        </div>
-
-        {/* Desktop Search Bar (hidden below 700px) */}
-        <div className="hidden md:ml-8 md:inline-flex md:items-center md:border md:border-[#191919] md:bg-white md:rounded md:overflow-hidden md:py-[2px]">
-          <input
-            type="text"
-            className="border-none px-2 py-1 text-sm outline-none text-black w-80"
-            placeholder="Search anime..."
-          />
-          <span className="text-[#191919] px-2">
-            <i className="fa fa-search"></i>
-          </span>
-        
-          <button className="bg-[#191919] text-white text-sm px-3 py-0.5 rounded hover:bg-[#bb5052] mr-2">
-            Filter
-            <span className="text-white ml-1 text-xs">
-            <FontAwesomeIcon icon={faSearch} />
-            </span>
-          </button>
-        </div>
-
-        {/* Right Side Buttons */}
-        <div className="ml-auto flex items-center gap-3">
-          {/* Search icon for mobile (only visible below 700px) */}
-          <span
-            className="text-white text-lg cursor-pointer md:hidden"
-            onClick={toggleMobileSearch}
-          >
-            <i className="fa fa-search"></i>
-          </span>
-
-          {/* Chat Now & Login buttons */}
-          <button className="bg-[#bb5052] text-black font-semibold px-3 py-1 rounded-lg text-sm hover:bg-[#A04345]">
-            Chat Now
-          </button>
-          <Link href="/login" className="bg-[#bb5052] text-black font-semibold px-3 py-1 rounded-lg text-sm hover:bg-[#A04345]">
-            Login
+          <Link href="/" legacyBehavior>
+            <a className="block">
+              <Image
+                src="/OtakuRealm_Logo.png"
+                alt="Otaku Realm"
+                width={100}
+                height={30}
+                priority
+              />
+            </a>
           </Link>
+        </div>
+
+        {/* Center: Search (Only on large screens) */}
+        <div
+          className={`hidden md:flex flex-1 justify-center ${
+            isMobile && "hidden"
+          } max-[800px]:hidden`}
+        >
+          <form onSubmit={handleSearch} className="w-full max-w-md relative">
+            <FontAwesomeIcon
+              icon={faSearch}
+              className="absolute left-3 top-1/2 transform -translate-y-1/2 text-white/70 text-base"
+            />
+            <input
+              type="text"
+              className="w-full pl-10 pr-4 py-2 bg-white/10 backdrop-blur-md border border-white/20 rounded-md text-white placeholder-white/70 focus:outline-none focus:ring-2 focus:ring-white/30"
+              placeholder="Search anime..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
+          </form>
+        </div>
+
+        {/* Right: Links & Auth (Always visible) */}
+        <div className="flex items-center space-x-5">
+          <span className="flex items-center space-x-5 max-[632px]:hidden">
+            <Link href="/" legacyBehavior>
+              <a className="flex items-center text-sm hover:text-[#bb5052] transition-colors">
+                <FontAwesomeIcon icon={faTv} className="mr-1" />
+                Anime
+              </a>
+            </Link>
+            <Link href="/mangahome" legacyBehavior>
+              <a className="flex items-center text-sm hover:text-[#bb5052] transition-colors">
+                <FontAwesomeIcon icon={faBook} className="mr-1" />
+                Manga
+              </a>
+            </Link>
+            {!user ? (
+              <a
+                href="/login"
+                className="flex items-center text-sm hover:text-[#bb5052] transition-colors"
+              >
+                <FontAwesomeIcon icon={faComments} className="mr-1" />
+                Chat Now
+              </a>
+            ) : (
+              <button
+                onClick={() => setChatOpen(true)}
+                className="flex items-center text-sm hover:text-[#bb5052] transition-colors"
+              >
+                <FontAwesomeIcon icon={faComments} className="mr-1" />
+                Chat Now
+              </button>
+            )}
+          </span>
+          {!user ? (
+           <a
+           href="/login"
+           className="flex items-center justify-center px-3 py-1.5 rounded-sm text-white bg-white/25 backdrop-blur-md border border-white/20 hover:bg-white/30 focus:outline-none focus:ring-2 focus:ring-white/30"
+         >
+           <FontAwesomeIcon icon={faRightToBracket} className="mr-2" />
+           Log In
+         </a>
+           
+          
+          ) : (
+            <div className="flex items-center space-x-3">
+              <Image
+                src={
+                  user.profile_photo.startsWith("http")
+                    ? user.profile_photo
+                    : `http://localhost:8000${user.profile_photo}`
+                }
+                alt="Profile"
+                width={36}
+                height={36}
+                className="rounded-full border-2 border-[#bb5052]"
+              />
+              <span>{user.username}</span>
+              <button
+                onClick={handleLogout}
+                className="hover:text-[#bb5052]"
+                title="Log Out"
+              >
+                <FontAwesomeIcon icon={faRightFromBracket} />
+              </button>
+            </div>
+          )}
         </div>
       </nav>
 
-      {/* SIDE MENU */}
+      {/* Sidebar (For smaller screens) */}
       <div
-        className={`
-          fixed top-0 left-0 w-[200px] h-screen bg-[#191919] z-50 transform transition-transform duration-300
-          flex flex-col p-5
-          ${menuOpen ? "translate-x-0" : "-translate-x-[220px]"}
-        `}
+        className={`fixed top-0 left-0 w-64 h-full bg-black/50 backdrop-blur-2xl border-r border-white/20 z-50 transform transition-transform duration-300 ${
+          menuOpen ? "translate-x-0" : "-translate-x-64"
+        }`}
       >
-        <div
-          className="inline-flex items-center bg-[#BB5052] text-white rounded-full px-3 py-2 mb-6 cursor-pointer hover:bg-[#A04345]"
-          onClick={toggleMenu}
-        >
-          <span className="font-semibold mr-2 text-base">{"<"}</span> Close menu
+        <div className="relative px-5 pt-4 pb-4">
+          {/* Close Button - Positioned at top right */}
+          <button
+            onClick={() => setMenuOpen(false)}
+            className="absolute top-4 right-5 text-white hover:text-[#bb5052]"
+          >
+            <FontAwesomeIcon
+              icon={faTimes}
+              className="text-3xl text-[#bb5052] cursor-pointer"
+            />
+          </button>
+
+          {/* Centered Profile Section */}
+          {user && (
+            <div className="flex flex-col items-center space-y-1">
+              <Image
+                src={
+                  user.profile_photo.startsWith("http")
+                    ? user.profile_photo
+                    : `http://localhost:8000${user.profile_photo}`
+                }
+                alt="Profile"
+                width={100}
+                height={60}
+                className="rounded-full border-2 border-[#bb5052]"
+              />
+              <span className="text-white text-sm font-semibold mt-2 mb-1">
+                {user.username}
+              </span>
+            </div>
+          )}
         </div>
-        <ul className="flex flex-col space-y-0">
-          <li className="text-white text-sm font-semibold py-3 border-b border-[#353535] hover:text-[#bb5052] cursor-pointer">
-            Home
-          </li>
-          <li className="text-white text-sm font-semibold py-3 border-b border-[#353535] hover:text-[#bb5052] cursor-pointer">
-            Subbed Anime
-          </li>
-          <li className="text-white text-sm font-semibold py-3 border-b border-[#353535] hover:text-[#bb5052] cursor-pointer">
-            Dubbed Anime
-          </li>
-          <li className="text-white text-sm font-semibold py-3 border-b border-[#353535] hover:text-[#bb5052] cursor-pointer">
-            Most Popular
-          </li>
-          <li className="text-white text-sm font-semibold py-3 border-b border-[#353535] hover:text-[#bb5052] cursor-pointer">
-            Movies
-          </li>
-          <li className="text-white text-sm font-semibold py-3 border-b border-[#353535] hover:text-[#bb5052] cursor-pointer">
-            TV Series
-          </li>
-        </ul>
-      </div>
 
-      {/* Overlay for background dim when side menu is open */}
-      {menuOpen && (
-        <div
-          className="fixed top-0 left-0 w-full h-full bg-black/40 z-40"
-          onClick={toggleMenu}
-        />
-      )}
-
-      {/* MOBILE SEARCH BAR (only visible on small screens) */}
-      <div
-        className={`
-          ${mobileSearchOpen ? "flex" : "hidden"}
-          bg-[#191919] px-3 py-2 items-center gap-3 md:hidden
-        `}
-      >
-        {/* Separate Filter Button at the left-end */}
-        <button className="w-10 h-10 bg-[#e2e2e2] flex items-center justify-center rounded text-[#191919] text-lg">
-          <i className="fa fa-filter"></i>
-        </button>
-        {/* Mobile Search Container */}
-        <div className="flex items-center bg-white rounded flex-1 overflow-hidden">
+        {/* Search Bar */}
+        <form
+          onSubmit={handleSearch}
+          className={`px-5 mb-4 relative ${user ? "" : "mt-5"}`}
+        >
+          <FontAwesomeIcon
+            icon={faSearch}
+            className="absolute left-8 top-1/2 transform -translate-y-1/2 text-gray-400"
+          />
           <input
             type="text"
-            className="flex-1 text-sm px-2 py-1 outline-none text-black"
+            className="w-full pl-10 pr-4 py-2 bg-white/10 backdrop-blur-md border border-white/20 rounded-md text-white placeholder-white/70 focus:outline-none focus:ring-2 focus:ring-white/30"
             placeholder="Search anime..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
           />
-          <button className="w-10 h-10 flex items-center justify-center text-[#191919] hover:bg-[#e2e2e2]">
-            <i className="fa fa-search"></i>
-          </button>
-        </div>
+        </form>
+
+        {/* Menu Items */}
+        <ul className="px-5 divide-y divide-[#444]">
+          {menuItems.map(([label, href, icon], index) => (
+            <li key={label} className="py-2">
+              {label === "Chat Now" && user ? (
+                // Chat Now button for logged-in users
+                <button
+                  onClick={() => {
+                    setChatOpen(true);
+                    setMenuOpen(false);
+                  }}
+                  className="flex items-center space-x-2 w-full text-left px-2 py-2 text-white hover:bg-[#bb5052] rounded"
+                >
+                  <FontAwesomeIcon icon={icon} />
+                  <span>{label}</span>
+                </button>
+              ) : !user && isProtected(label) ? (
+                // Redirect unauthenticated protected routes to /login
+                <a
+                  href="/login"
+                  onClick={() => setMenuOpen(false)}
+                  className="flex items-center space-x-2 px-2 py-2 text-white hover:bg-[#bb5052] rounded"
+                >
+                  <FontAwesomeIcon icon={icon} />
+                  <span>{label}</span>
+                </a>
+              ) : (
+                // All other cases use Link
+                <Link
+                  href={href === "chat" ? "/" : href}
+                  onClick={() => setMenuOpen(false)}
+                  className="flex items-center space-x-2 px-2 py-2 text-white hover:bg-[#bb5052] rounded"
+                >
+                  <FontAwesomeIcon icon={icon} />
+                  <span>{label}</span>
+                </Link>
+              )}
+            </li>
+          ))}
+        </ul>
+
+        {/* Logout Button */}
+        {user ? (
+          <div className="mt-6 px-5">
+            <button
+              onClick={handleLogout}
+              className="flex items-center justify-center w-full px-4 py-2 rounded-md text-white bg-white/25 backdrop-blur-md border border-white/20 hover:bg-[#bb5052] focus:outline-none focus:ring-2 focus:ring-white/30"
+            >
+              <FontAwesomeIcon icon={faRightFromBracket} className="mr-2" />
+              Log Out
+            </button>
+          </div>
+        ) : (
+          <div className="mt-6 px-5">
+            <a
+              href="/login"
+              className="flex items-center justify-center w-full px-4 py-2 rounded-md text-white bg-white/25 backdrop-blur-md border border-white/20 hover:bg-white/30 focus:outline-none focus:ring-2 focus:ring-white/30"
+            >
+              <FontAwesomeIcon icon={faRightFromBracket} className="mr-2" />
+              Log In
+            </a>
+          </div>
+        )}
       </div>
+
+      {/* Chat Modal */}
+      <ChatbotModal isOpen={chatOpen} onClose={() => setChatOpen(false)} />
     </>
   );
 }
