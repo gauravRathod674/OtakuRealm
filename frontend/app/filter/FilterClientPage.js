@@ -58,7 +58,12 @@ export default function FilterClientPage() {
         console.error("Error fetching search data:", err);
         setLoading(false);
       });
-  }, [keyword, appliedFilters, currentPage]);
+  }, [keyword, appliedFilters, currentPage,searchParams]);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [searchParams]);
+  
 
   const handlePageChange = (page) => {
     if (page < 1 || page > totalPages) return;
@@ -78,8 +83,8 @@ export default function FilterClientPage() {
       <FilterContainer />
 
       {/* CARDS CONTAINER */}
-      <div className="cards p-5 pl-20 pr-20">
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
+      <div className="cards p-5 pl-20 pr-32">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5">
           {displayedCards.map((anime, idx) => (
             <Link
               key={idx}

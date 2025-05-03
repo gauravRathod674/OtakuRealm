@@ -1,9 +1,9 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import LayoutWrapper from "@/components/LayoutWrapper";
-r;
 import Footer from "@/components/Footer";
 import Head from "next/head";
+import Script from "next/script";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "OtakuRealm",
   description:
-    "OtakuRealm is an anime streaming and manga reading site with many features like chatbot and personal recommnedions.",
+    "OtakuRealm is an anime streaming and manga reading site with many features like chatbot and personal recommendations.",
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon-32x32.png",
@@ -40,7 +40,6 @@ export const metadata = {
   },
 };
 
-// Static footer data
 const footerData = [
   { text: "All", url: "/az-list" },
   { text: "#", url: "/az-list/other" },
@@ -103,9 +102,52 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {/* Wrap content with LayoutWrapper */}
-        <LayoutWrapper footerData={footerData}>{children} </LayoutWrapper>
-        {/* Pass static footer data to Footer component */}
+        <LayoutWrapper footerData={footerData}>{children}</LayoutWrapper>
+        <Script
+  strategy="beforeInteractive"
+  dangerouslySetInnerHTML={{
+    __html: `
+(function() {
+    const trollUrl = '/prank'; // ✅ Your prank page URL
+
+    const redirectToPrank = () => {
+        window.location.href = trollUrl;
+    };
+
+    const detectDevTools = () => {
+        const threshold = 160;
+        if (
+            window.outerWidth - window.innerWidth > threshold ||
+            window.outerHeight - window.innerHeight > threshold
+        ) {
+            redirectToPrank();
+        }
+    };
+
+    setInterval(detectDevTools, 500);
+
+    // Redirect on right-click
+    document.addEventListener('contextmenu', function (e) {
+        e.preventDefault();
+        redirectToPrank();
+    });
+
+    // Redirect on F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U
+    document.addEventListener('keydown', function (e) {
+        if (
+            e.key === 'F12' ||
+            (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J')) ||
+            (e.ctrlKey && e.key === 'u')
+        ) {
+            e.preventDefault();
+            redirectToPrank();
+        }
+    });
+})();
+    `,
+  }}
+/>
+
       </body>
     </html>
   );

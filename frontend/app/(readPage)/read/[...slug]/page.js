@@ -93,7 +93,7 @@ export default function ReadPage() {
     const targetIndex = initialPageParam - 1;
     const targetImage = imageRefs.current[targetIndex];
     if (targetImage) {
-      // Initial scroll to the target page (even if it’s not loaded yet)
+      // Initial scroll to the target page (even if it&apos;s not loaded yet)
       targetImage.scrollIntoView({ behavior: "smooth", block: "start" });
       setCurrentPage(initialPageParam);
 

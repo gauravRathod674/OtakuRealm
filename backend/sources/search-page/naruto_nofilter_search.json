@@ -1,0 +1,802 @@
+{
+   "filters": [
+      {
+         "filter": "Type",
+         "options": [
+            {
+               "name": "Movie",
+               "value": "Movie"
+            },
+            {
+               "name": "Music",
+               "value": "Music"
+            },
+            {
+               "name": "ONA",
+               "value": "ONA"
+            },
+            {
+               "name": "OVA",
+               "value": "OVA"
+            },
+            {
+               "name": "Special",
+               "value": "Special"
+            },
+            {
+               "name": "TV",
+               "value": "TV"
+            }
+         ]
+      },
+      {
+         "filter": "Genre",
+         "options": [
+            {
+               "name": "Action",
+               "value": "1"
+            },
+            {
+               "name": "Adventure",
+               "value": "2"
+            },
+            {
+               "name": "Cars",
+               "value": "538"
+            },
+            {
+               "name": "Comedy",
+               "value": "8"
+            },
+            {
+               "name": "Dementia",
+               "value": "453"
+            },
+            {
+               "name": "Demons",
+               "value": "119"
+            },
+            {
+               "name": "Drama",
+               "value": "62"
+            },
+            {
+               "name": "Ecchi",
+               "value": "214"
+            },
+            {
+               "name": "Fantasy",
+               "value": "3"
+            },
+            {
+               "name": "Game",
+               "value": "180"
+            },
+            {
+               "name": "Harem",
+               "value": "215"
+            },
+            {
+               "name": "Historical",
+               "value": "70"
+            },
+            {
+               "name": "Horror",
+               "value": "222"
+            },
+            {
+               "name": "Isekai",
+               "value": "74"
+            },
+            {
+               "name": "Josei",
+               "value": "404"
+            },
+            {
+               "name": "Kids",
+               "value": "46"
+            },
+            {
+               "name": "Magic",
+               "value": "203"
+            },
+            {
+               "name": "Martial Arts",
+               "value": "114"
+            },
+            {
+               "name": "Mecha",
+               "value": "123"
+            },
+            {
+               "name": "Military",
+               "value": "125"
+            },
+            {
+               "name": "Music",
+               "value": "242"
+            },
+            {
+               "name": "Mystery",
+               "value": "57"
+            },
+            {
+               "name": "Parody",
+               "value": "162"
+            },
+            {
+               "name": "Police",
+               "value": "136"
+            },
+            {
+               "name": "Psychological",
+               "value": "73"
+            },
+            {
+               "name": "Romance",
+               "value": "28"
+            },
+            {
+               "name": "Samurai",
+               "value": "163"
+            },
+            {
+               "name": "School",
+               "value": "14"
+            },
+            {
+               "name": "Sci-Fi",
+               "value": "12"
+            },
+            {
+               "name": "Seinen",
+               "value": "50"
+            },
+            {
+               "name": "Shoujo",
+               "value": "252"
+            },
+            {
+               "name": "Shoujo Ai",
+               "value": "235"
+            },
+            {
+               "name": "Shounen",
+               "value": "15"
+            },
+            {
+               "name": "Shounen Ai",
+               "value": "233"
+            },
+            {
+               "name": "Slice of Life",
+               "value": "35"
+            },
+            {
+               "name": "Space",
+               "value": "124"
+            },
+            {
+               "name": "Sports",
+               "value": "29"
+            },
+            {
+               "name": "Super Power",
+               "value": "16"
+            },
+            {
+               "name": "Supernatural",
+               "value": "9"
+            },
+            {
+               "name": "Thriller",
+               "value": "54"
+            },
+            {
+               "name": "unknown",
+               "value": "32"
+            },
+            {
+               "name": "Vampire",
+               "value": "58"
+            }
+         ]
+      },
+      {
+         "filter": "Year",
+         "options": [
+            {
+               "name": "2025",
+               "value": "2025"
+            },
+            {
+               "name": "2024",
+               "value": "2024"
+            },
+            {
+               "name": "2023",
+               "value": "2023"
+            },
+            {
+               "name": "2022",
+               "value": "2022"
+            },
+            {
+               "name": "2021",
+               "value": "2021"
+            },
+            {
+               "name": "2020",
+               "value": "2020"
+            },
+            {
+               "name": "2019",
+               "value": "2019"
+            },
+            {
+               "name": "2018",
+               "value": "2018"
+            },
+            {
+               "name": "2017",
+               "value": "2017"
+            },
+            {
+               "name": "2016",
+               "value": "2016"
+            },
+            {
+               "name": "2015",
+               "value": "2015"
+            },
+            {
+               "name": "2014",
+               "value": "2014"
+            },
+            {
+               "name": "2013",
+               "value": "2013"
+            },
+            {
+               "name": "2012",
+               "value": "2012"
+            },
+            {
+               "name": "2011",
+               "value": "2011"
+            },
+            {
+               "name": "2010",
+               "value": "2010"
+            },
+            {
+               "name": "2009",
+               "value": "2009"
+            },
+            {
+               "name": "2008",
+               "value": "2008"
+            },
+            {
+               "name": "2007",
+               "value": "2007"
+            },
+            {
+               "name": "2006",
+               "value": "2006"
+            },
+            {
+               "name": "2005",
+               "value": "2005"
+            },
+            {
+               "name": "2004",
+               "value": "2004"
+            },
+            {
+               "name": "2003",
+               "value": "2003"
+            },
+            {
+               "name": "2002",
+               "value": "2002"
+            },
+            {
+               "name": "2001",
+               "value": "2001"
+            },
+            {
+               "name": "2000",
+               "value": "2000"
+            },
+            {
+               "name": "1999",
+               "value": "1999"
+            },
+            {
+               "name": "1998",
+               "value": "1998"
+            },
+            {
+               "name": "1997",
+               "value": "1997"
+            },
+            {
+               "name": "1996",
+               "value": "1996"
+            },
+            {
+               "name": "1995",
+               "value": "1995"
+            },
+            {
+               "name": "1994",
+               "value": "1994"
+            },
+            {
+               "name": "1993",
+               "value": "1993"
+            },
+            {
+               "name": "1992",
+               "value": "1992"
+            },
+            {
+               "name": "1991",
+               "value": "1991"
+            },
+            {
+               "name": "1990",
+               "value": "1990"
+            },
+            {
+               "name": "1989",
+               "value": "1989"
+            },
+            {
+               "name": "1988",
+               "value": "1988"
+            },
+            {
+               "name": "1987",
+               "value": "1987"
+            },
+            {
+               "name": "1986",
+               "value": "1986"
+            },
+            {
+               "name": "1985",
+               "value": "1985"
+            },
+            {
+               "name": "1984",
+               "value": "1984"
+            },
+            {
+               "name": "1983",
+               "value": "1983"
+            },
+            {
+               "name": "1982",
+               "value": "1982"
+            },
+            {
+               "name": "1981",
+               "value": "1981"
+            },
+            {
+               "name": "1980",
+               "value": "1980"
+            }
+         ]
+      },
+      {
+         "filter": "Rating",
+         "options": [
+            {
+               "name": "PG - Children",
+               "value": "pg"
+            },
+            {
+               "name": "PG 13 - Teens 13 and Older",
+               "value": "pg_13"
+            },
+            {
+               "name": "G - All Ages",
+               "value": "g"
+            },
+            {
+               "name": "R - 17+, Violence & Profanity",
+               "value": "r"
+            },
+            {
+               "name": "R+ - Profanity & Mild Nudity",
+               "value": "r+"
+            },
+            {
+               "name": "Rx - Hentai",
+               "value": "rx"
+            }
+         ]
+      },
+      {
+         "filter": "Status",
+         "options": [
+            {
+               "name": "Finished Airing",
+               "value": "finished-airing"
+            },
+            {
+               "name": "Currently Airing",
+               "value": "currently-airing"
+            },
+            {
+               "name": "Not yet aired",
+               "value": "not-yet-aired"
+            }
+         ]
+      },
+      {
+         "filter": "Country",
+         "options": [
+            {
+               "name": "All",
+               "value": ""
+            }
+         ]
+      },
+      {
+         "filter": "Season",
+         "options": [
+            {
+               "name": "Fall",
+               "value": "fall"
+            },
+            {
+               "name": "Summer",
+               "value": "summer"
+            },
+            {
+               "name": "Spring",
+               "value": "spring"
+            },
+            {
+               "name": "Winter",
+               "value": "winter"
+            },
+            {
+               "name": "Unknown",
+               "value": "unknown"
+            }
+         ]
+      },
+      {
+         "filter": "Language",
+         "options": [
+            {
+               "name": "Sub",
+               "value": "sub"
+            },
+            {
+               "name": "Dub",
+               "value": "dub"
+            }
+         ]
+      },
+      {
+         "filter": "Sort by",
+         "options": [
+            {
+               "name": "Default",
+               "value": "default"
+            },
+            {
+               "name": "Latest Updated",
+               "value": "latest-updated"
+            },
+            {
+               "name": "Score",
+               "value": "score"
+            },
+            {
+               "name": "Name A-Z",
+               "value": "name-az"
+            },
+            {
+               "name": "Release Date",
+               "value": "release-date"
+            },
+            {
+               "name": "Most Viewed",
+               "value": "most-viewed"
+            },
+            {
+               "name": "Number of episodes",
+               "value": "number_of_episodes"
+            }
+         ]
+      }
+   ],
+   "cards": [
+      {
+         "url": "https://animesugetv.to/watch/road-of-naruto-ggjw8/ep-1",
+         "data_tip": "7174",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/fd414879634ea83ad2c4fc1c33e8ac43.jpg",
+         "alt": "Road of Naruto",
+         "type": "ONA",
+         "title": "Road of Naruto",
+         "japanese_title": "Road of Naruto",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/boruto-naruto-next-generations-yij2q/ep-293",
+         "data_tip": "4587",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/32c83e2ad4a43229996356840db3982c.jpg",
+         "alt": "Boruto: Naruto Next Generations",
+         "type": "TV",
+         "title": "Boruto: Naruto Next Generations",
+         "japanese_title": "Boruto: Naruto Next Generations",
+         "sub": "293",
+         "dub": "293"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-find-the-crimson-four-leaf-clover-goptt/ep-1",
+         "data_tip": "3787",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/da3a3d57e29aa0dba87cd6e1596b78e9.jpg",
+         "alt": "Naruto: Find the Crimson Four-leaf Clover!",
+         "type": "SPECIAL",
+         "title": "Naruto: Find the Crimson Four-leaf Clover!",
+         "japanese_title": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-narutimate-hero-3-tsuini-gekitotsu-jounin-vs-genin-musabetsu-dairansen-taikai-kaisai-dvwhs/ep-1",
+         "data_tip": "3454",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/939f107dc40ca24056b90c0b215bd475.jpg",
+         "alt": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+         "type": "OVA",
+         "title": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+         "japanese_title": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-ova2-the-lost-story-mission-protect-the-waterfall-village-yeenr/ep-1",
+         "data_tip": "3390",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/ed2ca489d8c438c880056ea507efc93c.jpg",
+         "alt": "Naruto OVA2: The Lost Story - Mission: Protect the Waterfall Village",
+         "type": "SPECIAL",
+         "title": "Naruto OVA2: The Lost Story - Mission: Protect the Waterfall Village",
+         "japanese_title": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-ova5-naruto-the-genie-and-the-three-wishes-bs0sa/ep-1",
+         "data_tip": "3142",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/57935a347fb4328e0132c76afdd85822.jpg",
+         "alt": "Naruto OVA5: Naruto, The Genie, and The Three Wishes!!",
+         "type": "OVA",
+         "title": "Naruto OVA5: Naruto, The Genie, and The Three Wishes!!",
+         "japanese_title": "Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-the-cross-roads-4htua/ep-1",
+         "data_tip": "2938",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/99d7c753d9535c0d91858e4dd2a8d939.jpg",
+         "alt": "Naruto: The Cross Roads",
+         "type": "SPECIAL",
+         "title": "Naruto: The Cross Roads",
+         "japanese_title": "Naruto: The Cross Roads",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-the-movie-2-legend-of-the-stone-of-gelel-bn385/ep-1",
+         "data_tip": "2840",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/111f06edfffba5f46f5cac05db2a6bce.jpg",
+         "alt": "Naruto the Movie 2: Legend of the Stone of Gelel",
+         "type": "MOVIE",
+         "title": "Naruto the Movie 2: Legend of the Stone of Gelel",
+         "japanese_title": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-the-movie-3-guardians-of-the-crescent-moon-kingdom-68znd/ep-1",
+         "data_tip": "2839",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/73d003618cd260df44e93a5baf9acb56.jpg",
+         "alt": "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
+         "type": "MOVIE",
+         "title": "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
+         "japanese_title": "Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-ova3-hidden-leaf-village-grand-sports-festival-ddcvi/ep-1",
+         "data_tip": "2735",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b4bb0d2caaa9591fdb3c442738d7f87a.jpg",
+         "alt": "Naruto OVA3: Hidden Leaf Village Grand Sports Festival",
+         "type": "SPECIAL",
+         "title": "Naruto OVA3: Hidden Leaf Village Grand Sports Festival",
+         "japanese_title": "Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! - Konoha no Sato no Dai Undoukai",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-movie-1-ninja-clash-in-the-land-of-snow-uijwx/ep-1",
+         "data_tip": "2719",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a1ab85f1eb75ec0a986e4c9d5fe04b49.jpg",
+         "alt": "Naruto Movie 1: Ninja Clash in the Land of Snow",
+         "type": "MOVIE",
+         "title": "Naruto Movie 1: Ninja Clash in the Land of Snow",
+         "japanese_title": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-spin-off-rock-lee-his-ninja-pals-6rl18/ep-51",
+         "data_tip": "2625",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/37f8b16b0f693e433207117abe5daf44.jpg",
+         "alt": "NARUTO Spin-Off: Rock Lee &amp; His Ninja Pals",
+         "type": "TV",
+         "title": "NARUTO Spin-Off: Rock Lee &amp; His Ninja Pals",
+         "japanese_title": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+         "sub": "51",
+         "dub": "51"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-ova7-chunin-exam-on-fire-and-naruto-vs-konohamaru-q3sdf/ep-1",
+         "data_tip": "2596",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/44246cdf24c85468599ff2b9496c27cb.jpg",
+         "alt": "Naruto OVA7: Chunin Exam on Fire! and Naruto vs. Konohamaru!",
+         "type": "MOVIE",
+         "title": "Naruto OVA7: Chunin Exam on Fire! and Naruto vs. Konohamaru!",
+         "japanese_title": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/boruto-naruto-the-movie-the-day-naruto-became-the-hokage-anx6e/ep-1",
+         "data_tip": "2254",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/b19c06fae70eab67b1f390ed3cd905d8.jpg",
+         "alt": "Boruto: Naruto the Movie - The Day Naruto Became the Hokage",
+         "type": "SPECIAL",
+         "title": "Boruto: Naruto the Movie - The Day Naruto Became the Hokage",
+         "japanese_title": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-shippuden-the-movie-vv6fp/ep-1",
+         "data_tip": "2193",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/071ca93201eccc34a9e088013bc27807.jpg",
+         "alt": "Naruto: Shippuden the Movie",
+         "type": "MOVIE",
+         "title": "Naruto: Shippuden the Movie",
+         "japanese_title": "Naruto: Shippuuden Movie 1",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-shippuden-the-movie-2-bonds-s34wi/ep-1",
+         "data_tip": "2095",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/74a112674ab92212933e41cb532689a5.jpg",
+         "alt": "Naruto: Shippuden the Movie 2 -Bonds-",
+         "type": "MOVIE",
+         "title": "Naruto: Shippuden the Movie 2 -Bonds-",
+         "japanese_title": "Naruto: Shippuuden Movie 2 - Kizuna",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-ova9-sunny-side-battle-g0lf9/ep-1",
+         "data_tip": "1973",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/94c836b7aff106f515b53f8eb440ccdf.jpg",
+         "alt": "Naruto OVA9: Sunny Side Battle",
+         "type": "SPECIAL",
+         "title": "Naruto OVA9: Sunny Side Battle",
+         "japanese_title": "Naruto: Shippuuden - Sunny Side Battle",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-x-ut-hg8ns/ep-1",
+         "data_tip": "1962",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/be66602efedb73c4688e302303b0a422.jpg",
+         "alt": "Naruto x UT",
+         "type": "OVA",
+         "title": "Naruto x UT",
+         "japanese_title": "Naruto x UT",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-shippuuden-movie-4-the-lost-tower-1shon/ep-1",
+         "data_tip": "1907",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/68c5ae4e5b496eb0474920659a9a85e2.jpg",
+         "alt": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+         "type": "MOVIE",
+         "title": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+         "japanese_title": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-shippuden-c8gov/ep-500",
+         "data_tip": "1498",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/9cbcf87f54194742e7686119089478f8.jpg",
+         "alt": "Naruto: Shippuden",
+         "type": "TV",
+         "title": "Naruto: Shippuden",
+         "japanese_title": "Naruto: Shippuuden",
+         "sub": "500",
+         "dub": "500"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-eybxz/ep-220",
+         "data_tip": "958",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/5db400c33f7494bc8ae96f9e634958d0.jpg",
+         "alt": "Naruto",
+         "type": "TV",
+         "title": "Naruto",
+         "japanese_title": "Naruto",
+         "sub": "220",
+         "dub": "220"
+      },
+      {
+         "url": "https://animesugetv.to/watch/the-last-naruto-the-movie-whib1/ep-1",
+         "data_tip": "826",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/8d42031c8f566e744d84de02d42466bc.jpg",
+         "alt": "The Last: Naruto the Movie",
+         "type": "MOVIE",
+         "title": "The Last: Naruto the Movie",
+         "japanese_title": "The Last: Naruto the Movie",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-shippuuden-movie-6-road-to-ninja-w2wqq/ep-1",
+         "data_tip": "786",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/dde4a8a8ddd19648711845448d02d6d8.jpg",
+         "alt": "Naruto: Shippuuden Movie 6: Road to Ninja",
+         "type": "MOVIE",
+         "title": "Naruto: Shippuuden Movie 6: Road to Ninja",
+         "japanese_title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/boruto-naruto-the-movie-nebuz/ep-1",
+         "data_tip": "703",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/f0ad5b3ee01703cc817638973b535aa2.jpg",
+         "alt": "Boruto: Naruto the Movie",
+         "type": "MOVIE",
+         "title": "Boruto: Naruto the Movie",
+         "japanese_title": "Boruto: Naruto the Movie",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-shippuuden-movie-3-inheritors-of-will-of-fire-dhgn9/ep-1",
+         "data_tip": "287",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/1b9aad793b15265876f479c53ca7bfe1.jpg",
+         "alt": "Naruto Shippuuden Movie 3: Inheritors of Will of Fire",
+         "type": "MOVIE",
+         "title": "Naruto Shippuuden Movie 3: Inheritors of Will of Fire",
+         "japanese_title": "Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono",
+         "sub": "1",
+         "dub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/naruto-shippuuden-movie-5-blood-prison-5hpdu/ep-1",
+         "data_tip": "94",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/23a436a4ae640fa191a587b5e417bf7d.jpg",
+         "alt": "Naruto: Shippuuden Movie 5 - Blood Prison",
+         "type": "MOVIE",
+         "title": "Naruto: Shippuuden Movie 5 - Blood Prison",
+         "japanese_title": "Naruto: Shippuuden Movie 5 - Blood Prison",
+         "sub": "1",
+         "dub": "1"
+      }
+   ],
+   "last_page": 1
+}

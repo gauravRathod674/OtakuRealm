@@ -90,7 +90,7 @@ class SearchPage:
                 return html_content
             finally:
                 driver.quit()
-            uc.Chrome.__del__ = lambda self: None
+                uc.Chrome.__del__ = lambda self: None
 
     def get_last_page_no(self, html: str) -> int:
         """

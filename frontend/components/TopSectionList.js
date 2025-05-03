@@ -37,7 +37,7 @@ export default function TopSectionList({ sectionData }) {
   const lastItem = animeList[animeList.length - 1];
   if (lastItem && lastItem.view_more) {
     viewMoreUrl = lastItem.view_more;
-    animeList.pop(); // remove the view_more item so we don’t render it as anime
+    animeList.pop(); // remove the view_more item so we don&apos;t render it as anime
   }
 
   return (

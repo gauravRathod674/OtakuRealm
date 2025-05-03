@@ -520,14 +520,24 @@
    ],
    "cards": [
       {
-         "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1125",
+         "url": "https://animesugetv.to/watch/one-piece-wano-kuni-sp-r0xwk/ep-17",
+         "data_tip": "7177",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/fd/75/fd758a025129d9fb3806b27d3e5f428b/fd758a025129d9fb3806b27d3e5f428b.jpg",
+         "alt": "One Piece - Wano Kuni SP",
+         "type": "SPECIAL",
+         "title": "One Piece - Wano Kuni SP",
+         "japanese_title": "One Piece - Wano Kuni SP",
+         "sub": "17"
+      },
+      {
+         "url": "https://animesugetv.to/watch/one-piece-odmau/ep-1127",
          "data_tip": "1642",
          "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/bc/d8/bcd84731a3eda4f4a306250769675065/bcd84731a3eda4f4a306250769675065.jpg",
          "alt": "One Piece",
          "type": "TV",
          "title": "One Piece",
          "japanese_title": "One Piece",
-         "sub": "1125",
+         "sub": "1127",
          "dub": "1122"
       },
       {
@@ -559,16 +569,6 @@
          "title": "One Piece Fan Letter",
          "japanese_title": "One Piece Fan Letter",
          "sub": "1"
-      },
-      {
-         "url": "https://animesugetv.to/watch/one-piece-wano-kuni-sp-r0xwk/ep-16",
-         "data_tip": "7177",
-         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/fd758a025129d9fb3806b27d3e5f428b.jpg",
-         "alt": "One Piece - Wano Kuni SP",
-         "type": "SPECIAL",
-         "title": "One Piece - Wano Kuni SP",
-         "japanese_title": "One Piece - Wano Kuni SP",
-         "sub": "16"
       },
       {
          "url": "https://animesugetv.to/watch/one-piece-barto-s-secret-room-xgpkr/ep-4",
@@ -1001,16 +1001,6 @@
          "sub": "147"
       },
       {
-         "url": "https://animesugetv.to/watch/a-ninja-and-an-assassin-living-together-hzjro/ep-2",
-         "data_tip": "7612",
-         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/95/67/95677884d452befae13a8de6a05a4e6c/95677884d452befae13a8de6a05a4e6c.jpg",
-         "alt": "A Ninja and an Assassin Living Together",
-         "type": "TV",
-         "title": "A Ninja and an Assassin Living Together",
-         "japanese_title": "Ninja to Koroshiya no Futarigurashi",
-         "sub": "2"
-      },
-      {
          "url": "https://animesugetv.to/watch/loner-life-in-another-world-g9rqp/ep-12",
          "data_tip": "2",
          "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/5d/c6/5dc640871a61596483b630918f8c2e04/5dc640871a61596483b630918f8c2e04.jpg",
@@ -1019,27 +1009,88 @@
          "title": "Loner Life in Another World",
          "japanese_title": "Hitoribocchi no Isekai Kouryaku",
          "sub": "12",
-         "dub": "10"
+         "dub": "12"
       },
       {
-         "url": "https://animesugetv.to/watch/until-the-witch-dies-6vrtf/ep-3",
+         "url": "https://animesugetv.to/watch/a-ninja-and-an-assassin-living-together-hzjro/ep-4",
+         "data_tip": "7612",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/95/67/95677884d452befae13a8de6a05a4e6c/95677884d452befae13a8de6a05a4e6c.jpg",
+         "alt": "A Ninja and an Assassin Living Together",
+         "type": "TV",
+         "title": "A Ninja and an Assassin Living Together",
+         "japanese_title": "Ninja to Koroshiya no Futarigurashi",
+         "sub": "4"
+      },
+      {
+         "url": "https://animesugetv.to/watch/until-the-witch-dies-6vrtf/ep-5",
          "data_tip": "7557",
          "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/eb/42/eb429a09471cbd5ed7a87f7a9573b216/eb429a09471cbd5ed7a87f7a9573b216.jpg",
          "alt": "Once Upon a Witch's Death",
          "type": "TV",
          "title": "Once Upon a Witch's Death",
          "japanese_title": "Aru Majo ga Shinu Made",
-         "sub": "3"
+         "sub": "5",
+         "dub": "2"
       },
       {
-         "url": "https://animesugetv.to/watch/throne-of-seal-2nd-season-9pzla/ep-128",
+         "url": "https://animesugetv.to/watch/mr-stone-feels-lonely-7rxi7/ep-36",
+         "data_tip": "7789",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/95/4c/954cc990eabf0c5049c40802ba6e8797/954cc990eabf0c5049c40802ba6e8797.jpg",
+         "alt": "Mr. Stone Feels Lonely",
+         "type": "ONA",
+         "title": "Mr. Stone Feels Lonely",
+         "japanese_title": "Shi Shaoxia Ganjue Hao Gudan",
+         "sub": "36"
+      },
+      {
+         "url": "https://animesugetv.to/watch/kamen-rider-zero-one-short-anime-everyone-s-daily-life-sppw3/ep-5",
+         "data_tip": "7727",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/1f/0d/1f0d67b44c532f7973988b2d7155b2c9/1f0d67b44c532f7973988b2d7155b2c9.jpg",
+         "alt": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
+         "type": "ONA",
+         "title": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
+         "japanese_title": "Kamen Rider Zero-One: Short Anime - Everyone's Daily Life",
+         "sub": "5"
+      },
+      {
+         "url": "https://animesugetv.to/watch/null-peta-special-sugt3/ep-1",
+         "data_tip": "7709",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/2e/17/2e175a742eeda5dfe2d127cdf2046ede/2e175a742eeda5dfe2d127cdf2046ede.jpg",
+         "alt": "Null Peta Special",
+         "type": "SPECIAL",
+         "title": "Null Peta Special",
+         "japanese_title": "Null Peta Special",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/mama-is-just-a-fourth-grade-pupil-czivj/ep-51",
+         "data_tip": "7645",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/9f/8e/9f8ea39a6cf12194b3bbc2965700f974/9f8ea39a6cf12194b3bbc2965700f974.jpg",
+         "alt": "Mama is Just a Fourth Grade Pupil",
+         "type": "TV",
+         "title": "Mama is Just a Fourth Grade Pupil",
+         "japanese_title": "Mama wa Shougaku 4 Nensei",
+         "sub": "51"
+      },
+      {
+         "url": "https://animesugetv.to/watch/legends-of-dawn-the-sacred-stone-at6iy/ep-9",
+         "data_tip": "7630",
+         "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/e9/d3/e9d3cc81080024db1ff39a6143ce9b22/e9d3cc81080024db1ff39a6143ce9b22.jpg",
+         "alt": "Legends of Dawn: The Sacred Stone",
+         "type": "TV",
+         "title": "Legends of Dawn: The Sacred Stone",
+         "japanese_title": "Legends of Dawn: The Sacred Stone",
+         "sub": "9"
+      },
+      {
+         "url": "https://animesugetv.to/watch/throne-of-seal-2nd-season-9pzla/ep-130",
          "data_tip": "6177",
          "poster_url": "https://img.flawlessfiles.com/_r/300x400/100/e7/ea/e7eae90b00f92055c4cb250605b10879/e7eae90b00f92055c4cb250605b10879.jpg",
          "alt": "Throne of Seal 2nd Season",
          "type": "ONA",
          "title": "Throne of Seal 2nd Season",
          "japanese_title": "Shen Yin Wangzuo 2nd Season",
-         "sub": "128"
+         "sub": "130"
       },
       {
          "url": "https://animesugetv.to/watch/honey-lemon-soda-dzceb/ep-12",
@@ -1639,16 +1690,6 @@
          "dub": "12"
       },
       {
-         "url": "https://animesugetv.to/watch/majokko-club-yoningumi-a-kuukan-kara-no-alien-x-8h9o1/ep-1",
-         "data_tip": "5304",
-         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/82505ac27c70c0480c514ac6ae012f91.jpg",
-         "alt": "Majokko Club Yoningumi: A Kuukan kara no Alien X",
-         "type": "OVA",
-         "title": "Majokko Club Yoningumi: A Kuukan kara no Alien X",
-         "japanese_title": "Majokko Club Yoningumi: A Kuukan kara no Alien X",
-         "sub": "1"
-      },
-      {
          "url": "https://animesugetv.to/watch/one-million-year-trip-bander-book-kafmc/ep-1",
          "data_tip": "5303",
          "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/a0f35c9a41eb8043591ea342b5def17e.jpg",
@@ -1656,6 +1697,16 @@
          "type": "SPECIAL",
          "title": "One-Million Year Trip: Bander Book",
          "japanese_title": "100-man-nen Chikyuu no Tabi: Bander Book",
+         "sub": "1"
+      },
+      {
+         "url": "https://animesugetv.to/watch/majokko-club-yoningumi-a-kuukan-kara-no-alien-x-8h9o1/ep-1",
+         "data_tip": "5304",
+         "poster_url": "https://static.bunniescdn.online/thumbnail/300x400/100/82505ac27c70c0480c514ac6ae012f91.jpg",
+         "alt": "Majokko Club Yoningumi: A Kuukan kara no Alien X",
+         "type": "OVA",
+         "title": "Majokko Club Yoningumi: A Kuukan kara no Alien X",
+         "japanese_title": "Majokko Club Yoningumi: A Kuukan kara no Alien X",
          "sub": "1"
       },
       {

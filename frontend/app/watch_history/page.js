@@ -76,7 +76,7 @@ export default function WatchHistoryPage() {
   };
 
   return (
-    <div className="bg-black min-h-screen text-white">
+    <div className="bg-black min-h-screen text-white mt-18">
       <div className="px-5 md:px-20 py-5">
         <div className="flex items-center justify-between mb-4">
           <h1 className="text-2xl font-bold text-[#bb5052]">

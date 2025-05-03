@@ -7,7 +7,7 @@ import Image from "next/image";
 const MangaRecommendedCard = ({ manga }) => {
   return (
     <Link
-      href={`/mangadetailpage${manga.url}`}
+      href={`mangadetailpage/${encodeURIComponent(manga.title)}`}
       className="relative w-[93%] h-85 rounded-md overflow-hidden group"
     >
       {/* Top 75% - Cover Image */}
@@ -18,7 +18,7 @@ const MangaRecommendedCard = ({ manga }) => {
           fill
           quality={85}
           className="object-cover transition-transform duration-300 group-hover:scale-105"
-        />
+        />  
         <div className="absolute inset-x-0 bottom-0 h-[70%] bg-gradient-to-t from-[#191919] to-transparent" />
       </div>
 
