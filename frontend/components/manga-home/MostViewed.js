@@ -1,29 +1,15 @@
 "use client";
 import { useState } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFileAlt } from "@fortawesome/free-solid-svg-icons"; // or any other icon
 import Image from "next/image";
 import Link from "next/link";
 
-/**
- * Props:
- *   mostViewed = {
- *     today: [ { image_src, manga_title, genres, view_count, chapter, chapter_link }, ... ],
- *     week: [ ... ],
- *     month: [ ... ]
- *   }
- *
- * Example usage:
- *   <MostViewed mostViewed={homepageData.most_viewed} />
- */
 export default function MostViewed({ mostViewed }) {
   const [activeIndex, setActiveIndex] = useState(0);
 
-  const categories = mostViewed ? Object.keys(mostViewed) : [];
+  // ✅ Always define these - NO conditional hook usage.
+  const categories = Object.keys(mostViewed || {});
   const currentData =
-    mostViewed && categories.length > 0
-      ? mostViewed[categories[activeIndex]]
-      : [];
+    categories.length > 0 ? mostViewed[categories[activeIndex]] : [];
 
   return (
     <div className="most-viewed">
@@ -32,12 +18,10 @@ export default function MostViewed({ mostViewed }) {
       </h2>
 
       <div className="bg-[#191919] rounded-md">
-        {!mostViewed ? (
-          // ✅ Loading state
-          <div className="p-4 text-gray-400">Loading...</div>
-        ) : categories.length === 0 ? (
-          // ✅ No data found state
-          <div className="p-4 text-gray-400">No data found.</div>
+        {categories.length === 0 ? (
+          <div className="p-4 text-gray-400">
+            {!mostViewed ? "Loading..." : "No data found."}
+          </div>
         ) : (
           <>
             {/* Tabs row */}
@@ -73,7 +57,6 @@ export default function MostViewed({ mostViewed }) {
                   return (
                     <div key={index}>
                       <div className="flex items-center gap-3 py-4">
-                        {/* Rank + bar for top 3 */}
                         <div className="flex flex-col items-center w-8 shrink-0">
                           <span className="text-2xl font-bold text-gray-100 leading-none">
                             {rankNum}
@@ -83,7 +66,6 @@ export default function MostViewed({ mostViewed }) {
                           )}
                         </div>
 
-                        {/* Poster */}
                         {manga.image_src && (
                           <div className="shrink-0">
                             <Image
@@ -96,7 +78,6 @@ export default function MostViewed({ mostViewed }) {
                           </div>
                         )}
 
-                        {/* Info */}
                         <div className="flex flex-col">
                           <h3 className="text-base sm:text-lg font-semibold mb-1 line-clamp-2 hover:text-[#bb5052]">
                             <Link
