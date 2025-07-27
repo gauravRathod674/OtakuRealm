@@ -62,3 +62,4 @@ graph TD
   C -->|Scrape| E[Anime/Manga Sources]
   C -->|Chat| F[AI Chatbot (Rasa + HF)]
   C -->|Auth| G[JWT Middleware]
+```
