@@ -51,15 +51,3 @@
 - chatbot to answer anime & manga related query
 
 ---
-
-## 🧱 Project Architecture
-
-```mermaid
-graph TD
-  A[User] -->|Web| B[Next.js Frontend]
-  B -->|API| C[Django-Ninja Backend]
-  C -->|MySQL| D[Database]
-  C -->|Scrape| E[Anime/Manga Sources]
-  C -->|Chat| F[AI Chatbot (Rasa + HF)]
-  C -->|Auth| G[JWT Middleware]
-```
